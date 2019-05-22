@@ -1,0 +1,751 @@
+Parent	Child	EdgeType
+chromatin	nucleosome	Child-Parent
+chromatin	cytoplasmic chromatin	Child-Parent
+chromatin	nuclear chromatin	Child-Parent
+chromatin	euchromatin	Child-Parent
+chromatin	heterochromatin	Child-Parent
+chromatin	transcriptionally active chromatin	Child-Parent
+chromatin	transcriptionally silent chromatin	Child-Parent
+chromatin	CENP-A containing chromatin	Child-Parent
+nucleosome	cytoplasmic nucleosome	Child-Parent
+nucleosome	nuclear nucleosome	Child-Parent
+nucleosome	CENP-A containing nucleosome	Child-Parent
+cytoplasmic chromatin	cytoplasmic nucleosome	Child-Parent
+nuclear chromatin	nuclear nucleosome	Child-Parent
+nuclear chromatin	nuclear euchromatin	Child-Parent
+nuclear chromatin	nuclear heterochromatin	Child-Parent
+nuclear chromatin	perichromatin fibrils	Child-Parent
+nuclear chromatin	nucleolar chromatin	Child-Parent
+nuclear chromatin	Swi5-Sfr1 complex	Child-Parent
+nuclear chromatin	Set3 complex	Child-Parent
+nuclear chromatin	Swi5-Swi2 complex	Child-Parent
+nuclear chromatin	ASTRA complex	Child-Parent
+nuclear chromatin	Rpd3L-Expanded complex	Child-Parent
+nuclear chromatin	Snt2C complex	Child-Parent
+nuclear chromatin	SWI/SNF superfamily-type complex	Child-Parent
+nuclear chromatin	Sin3-type complex	Child-Parent
+nuclear chromatin	HDA1 complex	Child-Parent
+nuclear chromatin	nuclear CENP-A containing chromatin	Child-Parent
+nuclear chromatin	Clr6 histone deacetylase complex I''	Child-Parent
+euchromatin	nuclear euchromatin	Child-Parent
+heterochromatin	nuclear heterochromatin	Child-Parent
+heterochromatin	pericentric heterochromatin	Child-Parent
+heterochromatin	telomeric heterochromatin	Child-Parent
+heterochromatin	mating-type region heterochromatin	Child-Parent
+heterochromatin	HULC complex	Child-Parent
+heterochromatin	rDNA heterochromatin	Child-Parent
+heterochromatin	senescence-associated heterochromatin focus	Child-Parent
+heterochromatin	subtelomeric heterochromatin	Child-Parent
+sex chromatin	condensed chromatin of inactivated sex chromosome	Child-Parent
+sex chromatin	chromatin of active sex chromosome	Child-Parent
+nuclear heterochromatin	sex chromatin	Child-Parent
+nuclear heterochromatin	nuclear telomeric heterochromatin	Child-Parent
+nuclear heterochromatin	intercalary heterochromatin	Child-Parent
+nuclear heterochromatin	RITS complex	Child-Parent
+nuclear heterochromatin	nuclear pericentric heterochromatin	Child-Parent
+nuclear heterochromatin	nuclear rDNA heterochromatin	Child-Parent
+nuclear heterochromatin	heterochromatin island	Child-Parent
+nuclear heterochromatin	heterochromatin domain	Child-Parent
+nuclear heterochromatin	nuclear subtelomeric heterochromatin	Child-Parent
+pericentric heterochromatin	beta-heterochromatin	Child-Parent
+pericentric heterochromatin	alpha-heterochromatin	Child-Parent
+pericentric heterochromatin	nuclear pericentric heterochromatin	Child-Parent
+Isw1 complex	Isw1a complex	Child-Parent
+Isw1 complex	Isw1b complex	Child-Parent
+nucleolar chromatin	nucleolus organizer region	Child-Parent
+nucleolar chromatin	rDNA protrusion	Child-Parent
+nucleolar chromatin	nucleolus-associated heterochromatin	Child-Parent
+ISWI-type complex	CHRAC	Child-Parent
+ISWI-type complex	Isw1 complex	Child-Parent
+ISWI-type complex	NURF complex	Child-Parent
+ISWI-type complex	ACF complex	Child-Parent
+ISWI-type complex	RSF complex	Child-Parent
+ISWI-type complex	WICH complex	Child-Parent
+ISWI-type complex	NoRC complex	Child-Parent
+ISWI-type complex	CERF complex	Child-Parent
+telomeric heterochromatin	nuclear telomeric heterochromatin	Child-Parent
+rDNA heterochromatin	nuclear rDNA heterochromatin	Child-Parent
+CENP-A containing chromatin	CENP-A containing nucleosome	Child-Parent
+CENP-A containing chromatin	nuclear CENP-A containing chromatin	Child-Parent
+SWI/SNF superfamily-type complex	SWI/SNF complex	Child-Parent
+SWI/SNF superfamily-type complex	RSC-type complex	Child-Parent
+SWI/SNF superfamily-type complex	ISWI-type complex	Child-Parent
+SWI/SNF superfamily-type complex	brahma complex	Child-Parent
+SWI/SNF superfamily-type complex	npBAF complex	Child-Parent
+SWI/SNF superfamily-type complex	nBAF complex	Child-Parent
+SWI/SNF superfamily-type complex	CHD-type complex	Child-Parent
+SWI/SNF superfamily-type complex	INO80-type complex	Child-Parent
+SWI/SNF superfamily-type complex	B-WICH complex	Child-Parent
+SWI/SNF superfamily-type complex	mBAF complex	Child-Parent
+SWI/SNF superfamily-type complex	bBAF complex	Child-Parent
+SWI/SNF superfamily-type complex	esBAF complex	Child-Parent
+SWI/SNF superfamily-type complex	GBAF complex	Child-Parent
+Sin3-type complex	Sin3 complex	Child-Parent
+Sin3-type complex	Rpd3S complex	Child-Parent
+Sin3-type complex	Rpd3L complex	Child-Parent
+CHD-type complex	NuRD complex	Child-Parent
+INO80-type complex	Swr1 complex	Child-Parent
+INO80-type complex	Ino80 complex	Child-Parent
+subtelomeric heterochromatin	nuclear subtelomeric heterochromatin	Child-Parent
+Ino80 complex	AC007998.2	Gene-Term
+nucleosome	AC021097.2	Gene-Term
+Swr1 complex	AC106886.5	Gene-Term
+nuclear chromatin	AC243547.3	Gene-Term
+nuclear chromatin	ACTB	Gene-Term
+SWI/SNF complex	ACTL6A	Gene-Term
+Ino80 complex	ACTL6A	Gene-Term
+npBAF complex	ACTL6A	Gene-Term
+SWI/SNF complex	ACTL6B	Gene-Term
+nBAF complex	ACTL6B	Gene-Term
+Ino80 complex	ACTR5	Gene-Term
+Ino80 complex	ACTR8	Gene-Term
+transcriptionally active chromatin	AFF4	Gene-Term
+chromatin	AHCTF1	Gene-Term
+chromatin	AKAP8L	Gene-Term
+nucleosome	AL031777.3	Gene-Term
+nuclear chromatin	AL031777.3	Gene-Term
+nucleosome	AL121578.2	Gene-Term
+nuclear euchromatin	ALKBH1	Gene-Term
+chromatin	ANKRD17	Gene-Term
+euchromatin	ANKRD2	Gene-Term
+Swr1 complex	ANP32E	Gene-Term
+nuclear chromatin	APTX	Gene-Term
+nuclear chromatin	AR	Gene-Term
+SWI/SNF complex	ARID1A	Gene-Term
+nBAF complex	ARID1A	Gene-Term
+npBAF complex	ARID1A	Gene-Term
+SWI/SNF complex	ARID1B	Gene-Term
+nBAF complex	ARID1B	Gene-Term
+chromatin	ARRB1	Gene-Term
+nuclear chromatin	ASF1A	Gene-Term
+nuclear chromatin	ASF1B	Gene-Term
+nuclear euchromatin	ASH2L	Gene-Term
+nuclear chromatin	ASXL1	Gene-Term
+nuclear chromatin	ASXL2	Gene-Term
+nuclear chromatin	ASXL3	Gene-Term
+nuclear subtelomeric heterochromatin	ATRX	Gene-Term
+nuclear pericentric heterochromatin	ATRX	Gene-Term
+telomeric heterochromatin	ATRX	Gene-Term
+CHRAC	BAZ1A	Gene-Term
+ACF complex	BAZ1A	Gene-Term
+pericentric heterochromatin	BAZ1B	Gene-Term
+rDNA heterochromatin	BAZ2A	Gene-Term
+transcriptionally active chromatin	BCAS3	Gene-Term
+nuclear heterochromatin	BEND3	Gene-Term
+SWI/SNF complex	BICRA	Gene-Term
+SWI/SNF complex	BICRAL	Gene-Term
+nuclear chromatin	BORCS8-MEF2B	Gene-Term
+NURF complex	BPTF	Gene-Term
+Swr1 complex	BRD8	Gene-Term
+SWI/SNF complex	BRD9	Gene-Term
+Sin3-type complex	BRMS1	Gene-Term
+Sin3-type complex	BRMS1L	Gene-Term
+nuclear chromatin	BUD31	Gene-Term
+NURF complex	C17orf49	Gene-Term
+nuclear chromatin	CALCOCO1	Gene-Term
+chromatin	CAPN2	Gene-Term
+nuclear heterochromatin	CBX1	Gene-Term
+euchromatin	CBX2	Gene-Term
+heterochromatin	CBX2	Gene-Term
+nuclear pericentric heterochromatin	CBX3	Gene-Term
+nuclear euchromatin	CBX3	Gene-Term
+nuclear pericentric heterochromatin	CBX5	Gene-Term
+heterochromatin	CBX6	Gene-Term
+nuclear chromatin	CBX7	Gene-Term
+nuclear chromatin	CBX8	Gene-Term
+heterochromatin	CBX8	Gene-Term
+nuclear chromatin	CCAR2	Gene-Term
+chromatin	CCND2	Gene-Term
+nuclear chromatin	CDCA5	Gene-Term
+nuclear chromatin	CDK12	Gene-Term
+nuclear chromatin	CDK13	Gene-Term
+chromatin	CDK4	Gene-Term
+nuclear chromatin	CDK9	Gene-Term
+senescence-associated heterochromatin focus	CDKN2A	Gene-Term
+nuclear chromatin	CEBPB	Gene-Term
+CERF complex	CECR2	Gene-Term
+nuclear nucleosome	CENPA	Gene-Term
+nuclear pericentric heterochromatin	CENPA	Gene-Term
+nuclear pericentric heterochromatin	CENPB	Gene-Term
+nuclear pericentric heterochromatin	CENPC	Gene-Term
+chromatin	CENPF	Gene-Term
+nuclear chromatin	CHAF1A	Gene-Term
+nuclear chromatin	CHAF1B	Gene-Term
+NuRD complex	CHD3	Gene-Term
+NuRD complex	CHD4	Gene-Term
+NuRD complex	CHD5	Gene-Term
+heterochromatin	CHD5	Gene-Term
+chromatin	CHEK1	Gene-Term
+chromatin	CHMP2A	Gene-Term
+chromatin	CHMP7	Gene-Term
+CHRAC	CHRAC1	Gene-Term
+nuclear chromatin	CITED2	Gene-Term
+chromatin	COPS5	Gene-Term
+nuclear chromatin	COPS9	Gene-Term
+perichromatin fibrils	CPSF6	Gene-Term
+nuclear euchromatin	CREB1	Gene-Term
+nuclear chromatin	CREB3L1	Gene-Term
+chromatin	CREB3L2	Gene-Term
+nuclear chromatin	CREBBP	Gene-Term
+NuRD complex	CSNK2A1	Gene-Term
+Sin3 complex	CSNK2A1	Gene-Term
+chromatin	CSNK2A2	Gene-Term
+chromatin	CSNK2B	Gene-Term
+nuclear euchromatin	CTNNB1	Gene-Term
+transcriptionally active chromatin	CTR9	Gene-Term
+nuclear chromatin	DDX11	Gene-Term
+heterochromatin	DDX6	Gene-Term
+nuclear chromatin	DFFA	Gene-Term
+nuclear chromatin	DFFB	Gene-Term
+perichromatin fibrils	DHX9	Gene-Term
+nuclear chromatin	DLX5	Gene-Term
+pericentric heterochromatin	DNMT1	Gene-Term
+euchromatin	DNMT3A	Gene-Term
+nuclear heterochromatin	DNMT3A	Gene-Term
+nuclear chromatin	DNTT	Gene-Term
+euchromatin	DNTT	Gene-Term
+nBAF complex	DPF1	Gene-Term
+nBAF complex	DPF2	Gene-Term
+nBAF complex	DPF3	Gene-Term
+chromatin	DSCC1	Gene-Term
+nuclear chromatin	DVL3	Gene-Term
+nuclear chromatin	E2F1	Gene-Term
+nuclear chromatin	E2F4	Gene-Term
+sex chromatin	EED	Gene-Term
+nuclear chromatin	EHMT2	Gene-Term
+chromatin	EIF3E	Gene-Term
+transcriptionally active chromatin	ELL	Gene-Term
+nuclear heterochromatin	EME1	Gene-Term
+nuclear chromatin	EME2	Gene-Term
+RSC-type complex	EN1	Gene-Term
+RSC-type complex	EN2	Gene-Term
+nuclear chromatin	ENC1	Gene-Term
+nuclear chromatin	EOMES	Gene-Term
+Swr1 complex	EP400	Gene-Term
+chromatin	ESCO1	Gene-Term
+nuclear pericentric heterochromatin	ESCO2	Gene-Term
+nuclear chromatin	ESR1	Gene-Term
+transcriptionally active chromatin	ESR1	Gene-Term
+nuclear chromatin	ETV3	Gene-Term
+transcriptionally active chromatin	EXOSC10	Gene-Term
+transcriptionally active chromatin	EXOSC3	Gene-Term
+transcriptionally active chromatin	EXOSC4	Gene-Term
+transcriptionally active chromatin	EXOSC5	Gene-Term
+nuclear chromatin	EZH2	Gene-Term
+chromatin	FAM111A	Gene-Term
+chromatin	FANK1	Gene-Term
+chromatin	FBH1	Gene-Term
+nuclear chromatin	FER	Gene-Term
+nuclear heterochromatin	FOXC1	Gene-Term
+nuclear chromatin	FOXD3	Gene-Term
+nuclear chromatin	FOXH1	Gene-Term
+nuclear chromatin	GABPA	Gene-Term
+nuclear chromatin	GATA3	Gene-Term
+nuclear chromatin	GATA5	Gene-Term
+NuRD complex	GATAD2A	Gene-Term
+NuRD complex	GATAD2B	Gene-Term
+nucleosome	GLYR1	Gene-Term
+nucleosome	H1F0	Gene-Term
+nuclear euchromatin	H1F0	Gene-Term
+nuclear chromatin	H1FNT	Gene-Term
+nucleosome	H1FOO	Gene-Term
+nucleosome	H1FX	Gene-Term
+nuclear nucleosome	H2AFB1	Gene-Term
+transcriptionally active chromatin	H2AFB1	Gene-Term
+nuclear nucleosome	H2AFB2	Gene-Term
+transcriptionally active chromatin	H2AFB2	Gene-Term
+nuclear nucleosome	H2AFB3	Gene-Term
+transcriptionally active chromatin	H2AFB3	Gene-Term
+nucleosome	H2AFJ	Gene-Term
+nuclear chromatin	H2AFJ	Gene-Term
+nucleosome	H2AFV	Gene-Term
+nuclear chromatin	H2AFV	Gene-Term
+nucleosome	H2AFX	Gene-Term
+nuclear chromatin	H2AFX	Gene-Term
+nucleosome	H2AFY	Gene-Term
+pericentric heterochromatin	H2AFY	Gene-Term
+sex chromatin	H2AFY	Gene-Term
+nucleosome	H2AFY2	Gene-Term
+nuclear chromatin	H2AFY2	Gene-Term
+nucleosome	H2AFZ	Gene-Term
+nuclear heterochromatin	H2AFZ	Gene-Term
+nuclear euchromatin	H2AFZ	Gene-Term
+nucleosome	H2BFM	Gene-Term
+nucleosome	H2BFWT	Gene-Term
+nuclear nucleosome	H3F3A	Gene-Term
+nuclear nucleosome	H3F3B	Gene-Term
+nucleosome	H3F3C	Gene-Term
+nuclear euchromatin	H3F3C	Gene-Term
+nuclear chromatin	HAND2	Gene-Term
+nuclear chromatin	HAT1	Gene-Term
+NuRD complex	HDAC1	Gene-Term
+heterochromatin	HDAC1	Gene-Term
+Sin3 complex	HDAC1	Gene-Term
+NuRD complex	HDAC2	Gene-Term
+Sin3 complex	HDAC2	Gene-Term
+pericentric heterochromatin	HELLS	Gene-Term
+Sin3 complex	HEY2	Gene-Term
+chromatin	HIC1	Gene-Term
+nuclear chromatin	HIRA	Gene-Term
+nucleosome	HIST1H1A	Gene-Term
+nuclear euchromatin	HIST1H1A	Gene-Term
+nucleosome	HIST1H1B	Gene-Term
+nuclear heterochromatin	HIST1H1B	Gene-Term
+nucleosome	HIST1H1C	Gene-Term
+transcriptionally active chromatin	HIST1H1C	Gene-Term
+nuclear euchromatin	HIST1H1C	Gene-Term
+nucleosome	HIST1H1D	Gene-Term
+nuclear euchromatin	HIST1H1D	Gene-Term
+nuclear nucleosome	HIST1H1E	Gene-Term
+nuclear heterochromatin	HIST1H1E	Gene-Term
+nucleosome	HIST1H1T	Gene-Term
+nucleosome	HIST1H2AA	Gene-Term
+nuclear chromatin	HIST1H2AA	Gene-Term
+nucleosome	HIST1H2AB	Gene-Term
+nuclear chromatin	HIST1H2AB	Gene-Term
+nucleosome	HIST1H2AC	Gene-Term
+nuclear chromatin	HIST1H2AC	Gene-Term
+nucleosome	HIST1H2AD	Gene-Term
+nuclear chromatin	HIST1H2AD	Gene-Term
+nucleosome	HIST1H2AE	Gene-Term
+nuclear chromatin	HIST1H2AE	Gene-Term
+nucleosome	HIST1H2AG	Gene-Term
+nuclear chromatin	HIST1H2AG	Gene-Term
+nucleosome	HIST1H2AH	Gene-Term
+nuclear chromatin	HIST1H2AH	Gene-Term
+nucleosome	HIST1H2AI	Gene-Term
+nuclear chromatin	HIST1H2AI	Gene-Term
+nucleosome	HIST1H2AJ	Gene-Term
+nuclear chromatin	HIST1H2AJ	Gene-Term
+nucleosome	HIST1H2AK	Gene-Term
+nuclear chromatin	HIST1H2AK	Gene-Term
+nucleosome	HIST1H2AL	Gene-Term
+nuclear chromatin	HIST1H2AL	Gene-Term
+nucleosome	HIST1H2AM	Gene-Term
+nuclear chromatin	HIST1H2AM	Gene-Term
+nuclear nucleosome	HIST1H2BA	Gene-Term
+nucleosome	HIST1H2BB	Gene-Term
+nucleosome	HIST1H2BC	Gene-Term
+nucleosome	HIST1H2BD	Gene-Term
+nucleosome	HIST1H2BE	Gene-Term
+nucleosome	HIST1H2BF	Gene-Term
+nucleosome	HIST1H2BG	Gene-Term
+nucleosome	HIST1H2BH	Gene-Term
+nucleosome	HIST1H2BI	Gene-Term
+nucleosome	HIST1H2BJ	Gene-Term
+nucleosome	HIST1H2BK	Gene-Term
+nucleosome	HIST1H2BL	Gene-Term
+nucleosome	HIST1H2BM	Gene-Term
+nucleosome	HIST1H2BN	Gene-Term
+nucleosome	HIST1H2BO	Gene-Term
+nuclear nucleosome	HIST1H3A	Gene-Term
+nuclear nucleosome	HIST1H3B	Gene-Term
+nuclear nucleosome	HIST1H3C	Gene-Term
+nuclear nucleosome	HIST1H3D	Gene-Term
+nuclear nucleosome	HIST1H3E	Gene-Term
+nuclear nucleosome	HIST1H3F	Gene-Term
+nuclear nucleosome	HIST1H3G	Gene-Term
+nuclear nucleosome	HIST1H3H	Gene-Term
+nuclear nucleosome	HIST1H3I	Gene-Term
+nuclear nucleosome	HIST1H3J	Gene-Term
+nuclear nucleosome	HIST1H4A	Gene-Term
+nuclear nucleosome	HIST1H4B	Gene-Term
+nuclear nucleosome	HIST1H4C	Gene-Term
+nuclear nucleosome	HIST1H4D	Gene-Term
+nuclear nucleosome	HIST1H4E	Gene-Term
+nucleosome	HIST1H4G	Gene-Term
+nuclear nucleosome	HIST1H4I	Gene-Term
+nuclear nucleosome	HIST1H4J	Gene-Term
+nuclear nucleosome	HIST1H4L	Gene-Term
+nucleosome	HIST2H2AA3	Gene-Term
+nuclear chromatin	HIST2H2AA3	Gene-Term
+nucleosome	HIST2H2AA4	Gene-Term
+nuclear chromatin	HIST2H2AA4	Gene-Term
+nucleosome	HIST2H2AB	Gene-Term
+nuclear chromatin	HIST2H2AB	Gene-Term
+nucleosome	HIST2H2AC	Gene-Term
+nuclear chromatin	HIST2H2AC	Gene-Term
+nucleosome	HIST2H2BE	Gene-Term
+nucleosome	HIST2H2BF	Gene-Term
+nucleosome	HIST2H3A	Gene-Term
+nucleosome	HIST2H3C	Gene-Term
+nucleosome	HIST2H3D	Gene-Term
+nuclear nucleosome	HIST2H4B	Gene-Term
+nuclear nucleosome	HIST3H2A	Gene-Term
+nucleosome	HIST3H2BB	Gene-Term
+nuclear nucleosome	HIST3H3	Gene-Term
+nuclear nucleosome	HIST4H4	Gene-Term
+chromatin	HLCS	Gene-Term
+senescence-associated heterochromatin focus	HMGA1	Gene-Term
+senescence-associated heterochromatin focus	HMGA2	Gene-Term
+nuclear chromatin	HMGB1	Gene-Term
+nuclear chromatin	HMGB2	Gene-Term
+nuclear chromatin	HMGB3	Gene-Term
+nuclear chromatin	HMGB4	Gene-Term
+chromatin	HMGN1	Gene-Term
+chromatin	HMGN2	Gene-Term
+chromatin	HMGN3	Gene-Term
+chromatin	HMGN4	Gene-Term
+chromatin	HMGN5	Gene-Term
+NURF complex	HMGXB4	Gene-Term
+nuclear chromatin	HNRNPC	Gene-Term
+nuclear chromatin	HNRNPK	Gene-Term
+nucleosome	HP1BP3	Gene-Term
+chromatin	HR	Gene-Term
+euchromatin	HSF1	Gene-Term
+heterochromatin	HSF1	Gene-Term
+chromatin	HTRA2	Gene-Term
+nuclear chromatin	HYPM	Gene-Term
+transcriptionally active chromatin	ICE1	Gene-Term
+transcriptionally active chromatin	ICE2	Gene-Term
+nuclear pericentric heterochromatin	IKZF1	Gene-Term
+pericentric heterochromatin	INCENP	Gene-Term
+Sin3 complex	ING2	Gene-Term
+Swr1 complex	ING3	Gene-Term
+Ino80 complex	INO80	Gene-Term
+Ino80 complex	INO80B	Gene-Term
+Ino80 complex	INO80B-WBP1	Gene-Term
+Ino80 complex	INO80C	Gene-Term
+Ino80 complex	INO80E	Gene-Term
+nuclear chromatin	IPO4	Gene-Term
+nuclear chromatin	IRF1	Gene-Term
+nuclear nucleosome	IRF4	Gene-Term
+chromatin	IST1	Gene-Term
+chromatin	JMJD1C	Gene-Term
+nuclear euchromatin	JUN	Gene-Term
+nuclear chromatin	JUNB	Gene-Term
+nuclear chromatin	JUND	Gene-Term
+nuclear chromatin	KAT2A	Gene-Term
+Swr1 complex	KAT5	Gene-Term
+nucleosome	KAT6A	Gene-Term
+nuclear chromatin	KAT6A	Gene-Term
+nucleosome	KAT6B	Gene-Term
+nuclear chromatin	KAT6B	Gene-Term
+nuclear chromatin	KAT7	Gene-Term
+nuclear chromatin	KAT8	Gene-Term
+nuclear chromatin	KDM1A	Gene-Term
+nucleosome	KDM1B	Gene-Term
+chromatin	KDM3A	Gene-Term
+chromatin	KDM3B	Gene-Term
+pericentric heterochromatin	KDM4A	Gene-Term
+nuclear chromatin	KDM4C	Gene-Term
+pericentric heterochromatin	KDM4C	Gene-Term
+pericentric heterochromatin	KDM4D	Gene-Term
+chromatin	KIF22	Gene-Term
+nuclear chromatin	KLF1	Gene-Term
+nuclear chromatin	KLF2	Gene-Term
+nuclear euchromatin	KLF4	Gene-Term
+nuclear chromatin	KLHDC3	Gene-Term
+transcriptionally active chromatin	KMT2E	Gene-Term
+pericentric heterochromatin	KMT5C	Gene-Term
+nuclear heterochromatin	KMT5C	Gene-Term
+chromatin	L3MBTL1	Gene-Term
+nuclear chromatin	LDB1	Gene-Term
+chromatin	LEMD2	Gene-Term
+nucleosome	LOC102724334	Gene-Term
+chromatin	LOXL2	Gene-Term
+pericentric heterochromatin	LRWD1	Gene-Term
+telomeric heterochromatin	LRWD1	Gene-Term
+chromatin	MAEL	Gene-Term
+chromatin	MAF	Gene-Term
+chromatin	MAGED1	Gene-Term
+chromatin	MAU2	Gene-Term
+nuclear chromatin	MAX	Gene-Term
+nuclear chromatin	MBD2	Gene-Term
+heterochromatin	MBD2	Gene-Term
+NuRD complex	MBD3	Gene-Term
+heterochromatin	MBD3	Gene-Term
+chromatin	MBD4	Gene-Term
+chromatin	MCM2	Gene-Term
+chromatin	MCM7	Gene-Term
+nuclear chromatin	MCMBP	Gene-Term
+Ino80 complex	MCRS1	Gene-Term
+heterochromatin	MECP2	Gene-Term
+chromatin	MED1	Gene-Term
+nuclear chromatin	MEF2A	Gene-Term
+nuclear chromatin	MEF2B	Gene-Term
+nuclear chromatin	MEF2C	Gene-Term
+nuclear chromatin	MEF2D	Gene-Term
+nuclear chromatin	MEN1	Gene-Term
+chromatin	MIS18A	Gene-Term
+nuclear chromatin	MIXL1	Gene-Term
+heterochromatin	MORC2	Gene-Term
+Sin3 complex	MORF4L1	Gene-Term
+nuclear nucleosome	MPHOSPH8	Gene-Term
+nuclear heterochromatin	MPHOSPH8	Gene-Term
+nuclear chromatin	MSH6	Gene-Term
+NuRD complex	MTA1	Gene-Term
+NuRD complex	MTA2	Gene-Term
+NuRD complex	MTA3	Gene-Term
+chromatin	MTBP	Gene-Term
+nuclear chromatin	MUC1	Gene-Term
+nuclear chromatin	MXD1	Gene-Term
+nuclear chromatin	MYC	Gene-Term
+chromatin	MYCN	Gene-Term
+nuclear chromatin	MYOCD	Gene-Term
+nuclear chromatin	MYOD1	Gene-Term
+nuclear chromatin	NACC2	Gene-Term
+nuclear chromatin	NASP	Gene-Term
+nuclear pericentric heterochromatin	NCAPD3	Gene-Term
+nuclear chromatin	NCOA1	Gene-Term
+nuclear chromatin	NCOA3	Gene-Term
+Sin3 complex	NCOR1	Gene-Term
+nuclear chromatin	NCOR2	Gene-Term
+SWI/SNF complex	NCR1	Gene-Term
+chromatin	NEDD4	Gene-Term
+nuclear chromatin	NFATC1	Gene-Term
+nuclear chromatin	NFATC2	Gene-Term
+chromatin	NFE2L2	Gene-Term
+Ino80 complex	NFRKB	Gene-Term
+nuclear chromatin	NIPBL	Gene-Term
+rDNA heterochromatin	NOP53	Gene-Term
+cytoplasmic chromatin	NPM2	Gene-Term
+nuclear chromatin	NPM2	Gene-Term
+nuclear chromatin	NR1D1	Gene-Term
+nuclear chromatin	NR1H3	Gene-Term
+nuclear euchromatin	NR1H4	Gene-Term
+nuclear chromatin	NRIP1	Gene-Term
+chromatin	NSD1	Gene-Term
+chromatin	NSD2	Gene-Term
+chromatin	NSD3	Gene-Term
+nuclear euchromatin	NSMF	Gene-Term
+nuclear chromatin	NUCKS1	Gene-Term
+perichromatin fibrils	NUFIP1	Gene-Term
+chromatin	OIP5	Gene-Term
+heterochromatin	ORC2	Gene-Term
+transcriptionally active chromatin	PADI2	Gene-Term
+transcriptionally active chromatin	PAF1	Gene-Term
+chromatin	PARK7	Gene-Term
+chromatin	PARPBP	Gene-Term
+nuclear chromatin	PAWR	Gene-Term
+nuclear chromatin	PAX6	Gene-Term
+RSC-type complex	PBRM1	Gene-Term
+sex chromatin	PCGF2	Gene-Term
+transcriptionally active chromatin	PCID2	Gene-Term
+chromatin	PCNA	Gene-Term
+chromatin	PDS5A	Gene-Term
+chromatin	PDS5B	Gene-Term
+transcriptionally active chromatin	PELP1	Gene-Term
+heterochromatin	PHC2	Gene-Term
+npBAF complex	PHF10	Gene-Term
+Sin3 complex	PHF12	Gene-Term
+nuclear chromatin	PHOX2A	Gene-Term
+nuclear chromatin	PHOX2B	Gene-Term
+chromatin	PINK1	Gene-Term
+nuclear chromatin	PLCB1	Gene-Term
+chromatin	PLK1	Gene-Term
+chromatin	PLK2	Gene-Term
+heterochromatin	PML	Gene-Term
+nuclear chromatin	POGZ	Gene-Term
+chromatin	POLA1	Gene-Term
+nuclear chromatin	POLR3D	Gene-Term
+nuclear chromatin	POLR3G	Gene-Term
+nuclear chromatin	POLR3GL	Gene-Term
+chromatin	POU1F1	Gene-Term
+nuclear chromatin	POU4F1	Gene-Term
+nuclear euchromatin	POU4F2	Gene-Term
+nuclear chromatin	PPARD	Gene-Term
+nuclear euchromatin	PPARGC1A	Gene-Term
+chromatin	PPP1R10	Gene-Term
+nucleosome	PRM1	Gene-Term
+nucleosome	PRM2	Gene-Term
+transcriptionally active chromatin	PSIP1	Gene-Term
+nuclear chromatin	RAD17	Gene-Term
+chromatin	RAD21	Gene-Term
+nuclear chromatin	RAD50	Gene-Term
+nuclear chromatin	RAD51	Gene-Term
+nuclear chromatin	RAD51AP1	Gene-Term
+chromatin	RAN	Gene-Term
+nuclear chromatin	RARA	Gene-Term
+nuclear chromatin	RARG	Gene-Term
+SWI/SNF complex	RB1	Gene-Term
+NURF complex	RBBP4	Gene-Term
+NuRD complex	RBBP4	Gene-Term
+Sin3 complex	RBBP4	Gene-Term
+NuRD complex	RBBP7	Gene-Term
+chromatin	RBL1	Gene-Term
+chromatin	RBL2	Gene-Term
+nuclear euchromatin	RBMX	Gene-Term
+nuclear chromatin	RCC1	Gene-Term
+nuclear chromatin	RELA	Gene-Term
+nuclear chromatin	RFX3	Gene-Term
+nuclear chromatin	RIF1	Gene-Term
+sex chromatin	RING1	Gene-Term
+NURF complex	RNASEK-C17orf49	Gene-Term
+sex chromatin	RNF2	Gene-Term
+euchromatin	RNF2	Gene-Term
+HULC complex	RNF20	Gene-Term
+HULC complex	RNF40	Gene-Term
+chromatin	RPA2	Gene-Term
+chromatin	RPA4	Gene-Term
+euchromatin	RRP1B	Gene-Term
+heterochromatin	RRP1B	Gene-Term
+rDNA heterochromatin	RRP8	Gene-Term
+RSF complex	RSF1	Gene-Term
+nuclear chromatin	RUNX2	Gene-Term
+nuclear chromatin	RUNX3	Gene-Term
+Ino80 complex	RUVBL1	Gene-Term
+Swr1 complex	RUVBL1	Gene-Term
+Ino80 complex	RUVBL2	Gene-Term
+Swr1 complex	RUVBL2	Gene-Term
+nuclear euchromatin	RUVBL2	Gene-Term
+nuclear chromatin	RXRA	Gene-Term
+heterochromatin	SALL1	Gene-Term
+heterochromatin	SALL4	Gene-Term
+Sin3-type complex	SAP130	Gene-Term
+nuclear heterochromatin	SATB1	Gene-Term
+nuclear chromatin	SCRT2	Gene-Term
+chromatin	SDR16C5	Gene-Term
+nuclear chromatin	SETD1A	Gene-Term
+nuclear chromatin	SETD3	Gene-Term
+chromatin	SFPQ	Gene-Term
+Swi5-Sfr1 complex	SFR1	Gene-Term
+nucleosome	SHPRH	Gene-Term
+Sin3 complex	SIN3A	Gene-Term
+Sin3 complex	SIN3B	Gene-Term
+Sin3 complex	SINHCAF	Gene-Term
+rDNA heterochromatin	SIRT1	Gene-Term
+nuclear heterochromatin	SIRT1	Gene-Term
+nuclear euchromatin	SIRT1	Gene-Term
+nuclear heterochromatin	SIRT2	Gene-Term
+nuclear telomeric heterochromatin	SIRT6	Gene-Term
+nucleolus organizer region	SIRT7	Gene-Term
+nucleosome	SLF1	Gene-Term
+chromatin	SLF2	Gene-Term
+nuclear chromatin	SLX4	Gene-Term
+nuclear chromatin	SMAD2	Gene-Term
+nuclear chromatin	SMAD3	Gene-Term
+nuclear chromatin	SMAD4	Gene-Term
+CERF complex	SMARCA1	Gene-Term
+NURF complex	SMARCA1	Gene-Term
+SWI/SNF complex	SMARCA2	Gene-Term
+nBAF complex	SMARCA2	Gene-Term
+npBAF complex	SMARCA2	Gene-Term
+SWI/SNF complex	SMARCA4	Gene-Term
+nBAF complex	SMARCA4	Gene-Term
+npBAF complex	SMARCA4	Gene-Term
+RSF complex	SMARCA5	Gene-Term
+NURF complex	SMARCA5	Gene-Term
+heterochromatin	SMARCAD1	Gene-Term
+SWI/SNF complex	SMARCB1	Gene-Term
+nBAF complex	SMARCB1	Gene-Term
+brahma complex	SMARCB1	Gene-Term
+npBAF complex	SMARCB1	Gene-Term
+SWI/SNF complex	SMARCC1	Gene-Term
+nBAF complex	SMARCC1	Gene-Term
+npBAF complex	SMARCC1	Gene-Term
+SWI/SNF complex	SMARCC2	Gene-Term
+nBAF complex	SMARCC2	Gene-Term
+npBAF complex	SMARCC2	Gene-Term
+SWI/SNF complex	SMARCD1	Gene-Term
+nBAF complex	SMARCD1	Gene-Term
+npBAF complex	SMARCD1	Gene-Term
+SWI/SNF complex	SMARCD2	Gene-Term
+SWI/SNF complex	SMARCD3	Gene-Term
+nBAF complex	SMARCD3	Gene-Term
+npBAF complex	SMARCD3	Gene-Term
+SWI/SNF complex	SMARCE1	Gene-Term
+nBAF complex	SMARCE1	Gene-Term
+npBAF complex	SMARCE1	Gene-Term
+chromatin	SMC3	Gene-Term
+chromatin	SMCR8	Gene-Term
+pericentric heterochromatin	SNAI1	Gene-Term
+nuclear chromatin	SNAI2	Gene-Term
+nucleosome	SOS1	Gene-Term
+nucleosome	SOS2	Gene-Term
+chromatin	SOX10	Gene-Term
+nuclear chromatin	SOX18	Gene-Term
+nuclear chromatin	SP1	Gene-Term
+nuclear chromatin	SPI1	Gene-Term
+Swr1 complex	SRCAP	Gene-Term
+nuclear chromatin	SRF	Gene-Term
+SWI/SNF complex	SS18	Gene-Term
+npBAF complex	SS18	Gene-Term
+nBAF complex	SS18L1	Gene-Term
+chromatin	STAG1	Gene-Term
+chromatin	STAG2	Gene-Term
+chromatin	STAG3	Gene-Term
+nuclear chromatin	STAT1	Gene-Term
+nuclear chromatin	STAT3	Gene-Term
+nuclear chromatin	STAT6	Gene-Term
+Sin3 complex	SUDS3	Gene-Term
+heterochromatin	SUMO1	Gene-Term
+transcriptionally active chromatin	SUPT6H	Gene-Term
+rDNA heterochromatin	SUV39H1	Gene-Term
+chromatin	SUV39H2	Gene-Term
+sex chromatin	SUZ12	Gene-Term
+RSC-type complex	SUZ12	Gene-Term
+Swi5-Sfr1 complex	SWI5	Gene-Term
+nuclear chromatin	TAF1	Gene-Term
+nuclear chromatin	TAF4	Gene-Term
+nuclear chromatin	TAF5	Gene-Term
+nuclear chromatin	TAL1	Gene-Term
+perichromatin fibrils	TARDBP	Gene-Term
+heterochromatin	TASOR	Gene-Term
+nuclear euchromatin	TBP	Gene-Term
+nuclear chromatin	TBX6	Gene-Term
+nuclear chromatin	TBXT	Gene-Term
+nuclear chromatin	TCF12	Gene-Term
+nuclear chromatin	TCF3	Gene-Term
+nuclear chromatin	TCF4	Gene-Term
+nuclear euchromatin	TCF7	Gene-Term
+nuclear chromatin	TCF7L2	Gene-Term
+nuclear heterochromatin	TCP1	Gene-Term
+ASTRA complex	TELO2	Gene-Term
+Ino80 complex	TFPT	Gene-Term
+nuclear chromatin	THRB	Gene-Term
+nuclear chromatin	TIMELESS	Gene-Term
+nuclear chromatin	TIPIN	Gene-Term
+chromatin	TMPO	Gene-Term
+nuclear heterochromatin	TNKS1BP1	Gene-Term
+nuclear nucleosome	TNP1	Gene-Term
+nuclear nucleosome	TNP2	Gene-Term
+heterochromatin	TOP2B	Gene-Term
+chromatin	TOX4	Gene-Term
+nuclear chromatin	TP53	Gene-Term
+nuclear chromatin	TP63	Gene-Term
+chromatin	TP73	Gene-Term
+perichromatin fibrils	TRIM24	Gene-Term
+nuclear euchromatin	TRIM24	Gene-Term
+nuclear heterochromatin	TRIM28	Gene-Term
+nuclear euchromatin	TRIM28	Gene-Term
+nuclear euchromatin	TRNP1	Gene-Term
+nuclear chromatin	TRPS1	Gene-Term
+Swr1 complex	TRRAP	Gene-Term
+nuclear chromatin	TTC21B	Gene-Term
+transcriptionally active chromatin	TTC37	Gene-Term
+ASTRA complex	TTI2	Gene-Term
+heterochromatin	UBA1	Gene-Term
+nuclear chromatin	UBE2A	Gene-Term
+HULC complex	UBE2A	Gene-Term
+nuclear chromatin	UBE2B	Gene-Term
+HULC complex	UBE2B	Gene-Term
+nuclear chromatin	UBE2U	Gene-Term
+HULC complex	UBE2U	Gene-Term
+chromatin	UBR2	Gene-Term
+Ino80 complex	UCHL5	Gene-Term
+euchromatin	UHRF1	Gene-Term
+nuclear heterochromatin	UHRF1	Gene-Term
+nuclear heterochromatin	UHRF2	Gene-Term
+chromatin	UPF1	Gene-Term
+NURF complex	USF1	Gene-Term
+nuclear chromatin	USP3	Gene-Term
+chromatin	UXT	Gene-Term
+chromatin	WAPL	Gene-Term
+nuclear chromatin	WBP2	Gene-Term
+transcriptionally active chromatin	WDR61	Gene-Term
+heterochromatin	WDR76	Gene-Term
+chromatin	WDR82	Gene-Term
+nuclear chromatin	XRCC1	Gene-Term
+Swr1 complex	YEATS4	Gene-Term
+Ino80 complex	YY1	Gene-Term
+Ino80 complex	YY1AP1	Gene-Term
+nuclear chromatin	YY2	Gene-Term
+NuRD complex	ZBTB7A	Gene-Term
+transcriptionally active chromatin	ZC3H8	Gene-Term
+nuclear chromatin	ZEB2	Gene-Term
+nuclear chromatin	ZFP42	Gene-Term
+nuclear chromatin	ZNF385A	Gene-Term
+Swr1 complex	ZNHIT1	Gene-Term
+
+
