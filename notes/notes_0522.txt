@@ -1,0 +1,9 @@
+Goals before next meeting:
+1) Download the data Psyencode (Anu), Human Brain Atlas (Joaquin) 
+2) Run a community detection algorithm: Clixo (Anu), Something (Joaquin)
+3) Do an enrichment analysis using Issac's script 
+
+
+
+Anu's idea
+Take different networks, integrate them using a score, and generate a gene ontology from this score. 
