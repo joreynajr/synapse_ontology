@@ -3,7 +3,7 @@ if [ "$1" == 'jr' ];
 	clixo_script="/gpfs/data01/glasslab/home/joreyna/projects/BNFO286/clixo_0.3/clixo"
 elif [ "$1" == 'as' ];
 	then
-	clixo_script="/anusdesktop/clixo_0.3/clixo"
+	clixo_script="/mnt/c/Users/Anubhav/Desktop/mhk7-clixo_0.3-0362bea/mhk7-clixo_0.3-0362bea/clixo"
 fi 
 
 alpha=$2
