@@ -1,11 +1,4 @@
-if [ "$1" == 'jr' ];
-	then 
-	clixo_script="/gpfs/data01/glasslab/home/joreyna/projects/BNFO286/clixo_0.3/clixo"
-elif [ "$1" == 'as' ];
-	then
-	clixo_script="/anusdesktop/clixo_0.3/clixo"
-fi 
-
+clixo_script="/gpfs/data01/glasslab/home/joreyna/projects/BNFO286/clixo_0.3/clixo"
 alpha=$2
 beta=$3
 interactions_fn="../output/StringDB/string_synapse_interactions_combined_score.tsv"
