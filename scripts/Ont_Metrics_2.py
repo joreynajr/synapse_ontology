@@ -1,15 +1,18 @@
-# Goal: To evaluate the custom hierarchy (Metric #2)
 
-# Metric 2: To create a pipeline for testing for how well the custom ontology maps onto reference ontology using DDOT 
-# How well does the model capture the known structure of the reference ontology? (evaluated by alignment to the Gene Ontology, i.e. how many GO terms significantly overlap gene modules in your model?)
+# for questions, contact karenmei@ucsd.edu
+
+#Goal: To evaluate the custom hierarchy (Metric #2)
+
+#Metric 2: To create a pipeline for testing for how well the custom ontology maps onto reference ontology using DDOT 
+#How well does the model capture the known structure of the reference ontology? (evaluated by alignment to the Gene Ontology, i.e. how many GO terms significantly overlap gene modules in your model?)
+
 #	   code for customizing ontologies: DDOT: https://github.com/michaelkyu/ddot/blob/master/examples/Tutorial.ipynb
-
-# JR note: Can use this script right away, as it is comparing out ontology with GO.  
 
 import pandas as pd
 import networkx as nx
 import numpy as np
 import os
+import ddot
 from ddot import Ontology
 import csv
 import scipy.stats as ss
