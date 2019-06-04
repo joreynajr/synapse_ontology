@@ -8,6 +8,7 @@
 
 #	   code for customizing ontologies: DDOT: https://github.com/michaelkyu/ddot/blob/master/examples/Tutorial.ipynb
 
+import sys 
 import pandas as pd
 import networkx as nx
 import numpy as np
@@ -23,7 +24,9 @@ os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 #Create dictionary of all GO_term_names and description
 def Find_GO_Term_Desc(Term):
-	with open('goID_2_name.tab', 'r') as f:
+	#with open('goID_2_name.tab', 'r') as f:
+	#print(mod_goID_fn)
+	with open(mod_goID_fn, 'r') as f:
 		GO_terms=[r for r in csv.reader(f, delimiter='\t')]
 
 	term=[]
@@ -34,6 +37,7 @@ def Find_GO_Term_Desc(Term):
 
 	dictionary=dict(list(zip(term, desc)))
 	description=dictionary[Term]
+
 	return description
 
 
@@ -49,11 +53,13 @@ def Generate_Ontology_File(Term):
 def Find_GO_Focus_GeneDict(ont):
 	ont = ont.propagate(direction='forward', gene_term=True, term_term=False)
 	terms_to_genes=ont.term_2_gene
-	GO_Desc=[]
 	gene_names=[]
+	GO_Desc = []
 	for key in terms_to_genes:
 		GO_name=Find_GO_Term_Desc(key)
+
 		GO_Desc.append(GO_name)
+
 		genes_in_terms=terms_to_genes[key]
 		genes_list=[]
 		for item in genes_in_terms:
@@ -76,15 +82,22 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 	num_ont_genes=len(ont.genes)
 	num_intersect_test_ont=len(set(ont.genes)&set(test_gene_list))
 	overlap=[]
+
+	# Getting the intersection between each ontology term and the test terms 
 	for key in syn_ont:
+
 		pair=[]
+
 		ont_gene_list=syn_ont[key]
 		size_ont_genes=len(ont_gene_list)
 		overlap_num=len(list(set(ont_gene_list)&set(test_gene_list)))
+
 		pair.append(key)
 		pair.append(overlap_num)
 		pair.append(size_ont_genes)
 		overlap.append(pair)
+
+	# Performing the hypergeometric test 
 	p_values=[]
 	for item in overlap:
 		intersect_termgenes_testgenes=item[1]
@@ -92,6 +105,8 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 		p=hypergeom.sf(intersect_termgenes_testgenes-1, num_ont_genes,num_intersect_test_ont, num_term_genes)
 		p_values.append(p)
 	p_adj=multipletests(p_values,method='fdr_bh')
+
+
 	boolean_p=p_adj[0]
 	idx_true=[i for i, e in enumerate(boolean_p) if e != False]
 	p_adj=p_adj[1]
@@ -106,6 +121,7 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 		term_padj_pair.append(GO_term_padj)
 		most_enriched_terms.append(term_padj_pair)
 	true_terms=[]
+
 	for item in idx_true:
 		true_pair=[]
 		true_term=overlap[item][0]
@@ -117,9 +133,10 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 	return true_terms
 
 def Find_num_genes_in_enriched(ont, chr_ont, test_gene_list):
-    
+
 	true_terms=Find_Enrichment(ont, chr_ont, test_gene_list)
 	genes_in_true_terms=[]
+
 	for item in true_terms:
 		term=item[0]
 		genes=chr_ont[term]
@@ -131,19 +148,83 @@ def Find_num_genes_in_enriched(ont, chr_ont, test_gene_list):
 	return overlap_num
 
 
-#Test genes: a list of some genes involved in transcriptionally active chromatin
 
-test_gene_list=['AFF4', 'PSIP1', 'H2AFB1', 'H2AFB2', 'H2AFB3', 'TTC37', 'WDR61', 'KMT2E', 'BCAS3', 'HIST1H1C', 'ZC3H8', 'CTR9', 'PADI2', 'PAF1', 'SUPT6H', 'EXOSC4', 'ELL', 'PCID2', 'EXOSC5', 'PELP1', 'ESR1', 'EXOSC10', 'EXOSC3', 'ICE1', 'ICE2']
 
-test_gene_list = 'AAK1 ABCC8 ABHD17A ABHD17B ABHD17C ABHD6 ABI1 ABI2 ABL1'.split()
+## Test genes: a list of some genes involved in transcriptionally active chromatin
+ont_fn = sys.argv[1]
+genes_fn = sys.argv[2]
 
-#Generate custom ontology from Chromatin branch from human GO
-#ontology_file=Generate_Ontology_File('GO:0000785')
-ont=Ontology.from_table('./ont2.txt')
+def replace_edgetype(e):
+	if e == 'gene':
+		return('Gene-Term')
+	else:
+		return('Child-Parent')
 
-#Make dictionary of terms and genes within custom ontology
-chr_ont=Find_GO_Focus_GeneDict(ont)
+# Clean the ontology
+mod_ont_fn = os.path.basename(ont_fn) + '.mod'
+#with open(ont_fn) as f, open(mod_ont_fn, 'w') as fw: 
+#
+#	for line in f:
+#		if line.startswith('#'):
+#			continue 
+#
+#	header = line.split()[0:3]
+#	fw.write('\t'.join(header) + '\n')	
+#	for line in f: 
+#		line = line.strip().split('\t')
+#		line[2] = replace_edgetype(line[2])
+#		record = '\t'.join(line[0:3])
+#		fw.write(record + '\n')	
+#clixo_ont = pd.read_table(ont_fn, dtype=str, comment='#', header=None, 
+#                          names=['Parent', 'Child', 'EdgeType', 'drop'])
+clixo_ont = pd.read_table(ont_fn, dtype=str, comment='#', header=0, 
+                          names=['Parent', 'Child', 'EdgeType', 'drop'])
+if clixo_ont.shape[0] == 4:
+	clixo_ont.drop('drop', axis=1, inplace=True)
+clixo_ont.loc[:, 'EdgeType'] = clixo_ont.EdgeType.str.replace('gene', 'Gene-Term').replace('default', 'Child-Parent')
+clixo_ont.to_csv(mod_ont_fn, sep='\t', index=None)
 
-#Find number of test genes in enriched modules:
+# Make a dummy goID file  
+mod_goID_fn = os.path.basename(ont_fn) + '.goID'
+with open(mod_goID_fn, 'w') as fw: 
+	uniq_parents = sorted(clixo_ont['Parent'].unique())
+	for parent in uniq_parents: 
+		fw.write('{}\t{}\n'.format(parent, parent))
+		
+#
+#	for line in f:
+#		if line.startswith('#'):
+#			continue 
+#
+#	header = line.split()[0:3]
+#	parents = set() 
+#	for line in f: 
+#		line = line.strip().split('\t')
+#		parents.add(line[0])	
+#
+#	for parent in sorted(parents):
+#		fw.write('{}\t{}'.format(parent, parent))
+
+with open(genes_fn) as f: 
+	test_gene_list = [x.strip() for x in f.readlines()] 
+
+ont = Ontology.from_table(mod_ont_fn)
+
+# Make dictionary of terms and genes within custom ontology
+chr_ont = Find_GO_Focus_GeneDict(ont)
+
+#print(chr_ont)
+
+# Find number of test genes in enriched modules:
 Find_num_genes_in_enriched(ont, chr_ont, test_gene_list)
+
+
+
+
+
+
+
+
+
+
 

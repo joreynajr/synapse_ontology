@@ -1,0 +1,63 @@
+Alpha test:
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.5.txt
+# Num clusters: 57
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.5.txt
+# Num clusters: 8
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.3_beta0.5.txt
+# Num clusters: 6
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.422_beta0.5.txt
+# Num clusters: 3
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.4_beta0.5.txt
+# Num clusters: 3
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.5.txt
+# Num clusters: 3
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.6_beta0.5.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.7_beta0.5.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.8_beta0.5.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.9_beta0.5.txt
+# Num clusters: 0
+
+
+Beta test:
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.1.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.2.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.3.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.4.txt
+# Num clusters: 1
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.5.txt
+# Num clusters: 3
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.6.txt
+# Num clusters: 13
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.7.txt
+# Num clusters: 9
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.8.txt
+# Num clusters: 9
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta0.9.txt
+# Num clusters: 9
+
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.5_beta.txt
+# Num clusters: 3
+

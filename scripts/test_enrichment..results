@@ -1,0 +1,22 @@
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.1.txt
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.2.txt
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.3.txt
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.4.txt
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: []
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: [['PDPK1', 'FMR1', 'ACTB', 'CLTB', 'PPP2R2A', 'AKT1', 'MAP1LC3A', 'MAPK14', 'MDM2', 'ARC', 'PTEN', 'MTOR', 'GSK3B', 'NLGN3', 'BDNF', 'RHEB', 'BNIP3', 'HRAS', 'HTT', 'EEF2', 'EEF2K', 'CALM1', 'CALM2', 'CALM3', 'RPS6KB1', 'EIF4E', 'EIF4EBP1', 'EIF4EBP2']] 3
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: [['FMR1', 'NLGN3', 'EIF4E', 'PTEN', 'EIF4EBP2']] 3
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: [['AKT1', 'EEF2', 'EEF2K', 'CALM1', 'PDPK1', 'FMR1', 'RPS6KB1', 'ACTB', 'EIF4E', 'ARC', 'BDNF', 'EIF4EBP1', 'EIF4EBP2', 'NLGN3', 'PTEN', 'RHEB', 'MTOR']] 3
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.7.txt genes in true terms: [['PDPK1', 'FMR1', 'ACTB', 'CLTB', 'PPP2R2A', 'AKT1', 'MAP1LC3A', 'MAPK14', 'MDM2', 'ARC', 'PTEN', 'MTOR', 'GSK3B', 'NLGN3', 'BDNF', 'RHEB', 'BNIP3', 'HRAS', 'HTT', 'EEF2', 'EEF2K', 'CALM1', 'CALM2', 'CALM3', 'RPS6KB1', 'EIF4E', 'EIF4EBP1', 'EIF4EBP2']] 3
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.1_beta0.9.txt genes in true terms: [['FMR1', 'NLGN3', 'EIF4E', 'PTEN', 'EIF4EBP2']] 3
+../output/StringDB/string_synapse_interactions_combined_score.clixo_alpha0.2_beta0.7.txt genes in true terms: [['AKT1', 'EEF2', 'EEF2K', 'CALM1', 'PDPK1', 'FMR1', 'RPS6KB1', 'ACTB', 'EIF4E', 'ARC', 'BDNF', 'EIF4EBP1', 'EIF4EBP2', 'NLGN3', 'PTEN', 'RHEB', 'MTOR']] 3
