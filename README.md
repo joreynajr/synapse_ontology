@@ -10,3 +10,8 @@ Running the CliXo Pipeline
 ---
 Once the network was build we ran clixo <network file> <alpha> <beta>
 
+1) Run the StringDB extraction script.  
+2) Open and execute Run_Clixo.ipynb (update Clixo path if necessary). 
+3) Visualize the new ontology. 
+
+
