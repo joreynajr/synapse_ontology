@@ -1,0 +1,3563 @@
+# Loading input network graph
+# Loading input network took 0 seconds
+# Clique finding beginning
+# Adding 566 edges
+# Nodes affected = 275
+# Clusters affected = 0
+# Num deleted here: 0
+# Found 227 new clusters to add
+# Adding 384 edges
+# Nodes affected = 292
+# Clusters affected = 196
+# Num deleted here: 85
+# Found 286 new clusters to add
+# Adding 328 edges
+# Nodes affected = 279
+# Clusters affected = 384
+# Num deleted here: 174
+# Found 287 new clusters to add
+# Adding missing edges...checking 506 cliques
+# Combining 0 pairs of clusters
+# dt: 0.957
+# Next dt: 0.941
+# Num current clusters before delete: 536
+# Num current clusters: 506
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 1278
+# Num real edges: 1278
+# Num edges inferred: 0
+# Time elapsed: 0 seconds
+# Adding 708 edges
+# Nodes affected = 385
+# Clusters affected = 485
+# Num deleted here: 295
+# Found 464 new clusters to add
+# Adding 1649 edges
+# Nodes affected = 423
+# Clusters affected = 653
+# Num deleted here: 477
+# Found 351 new clusters to add
+# Adding 74 edges
+# Nodes affected = 121
+# Clusters affected = 371
+# Num deleted here: 41
+# Found 81 new clusters to add
+# Adding 69 edges
+# Nodes affected = 106
+# Clusters affected = 429
+# Num deleted here: 50
+# Found 77 new clusters to add
+# Adding missing edges...checking 551 cliques
+# Combining 0 pairs of clusters
+# dt: 0.878
+# Next dt: 0.857
+# Num current clusters before delete: 616
+# Num current clusters: 551
+# Num valid clusters: 0
+# Largest cluster: 0
+# Num edges in clusterGraph: 3778
+# Num real edges: 3778
+# Num edges inferred: 0
+# Time elapsed: 0 seconds
+# Adding 55 edges
+# Nodes affected = 90
+# Clusters affected = 257
+# Num deleted here: 25
+# Found 53 new clusters to add
+# Adding missing edges...checking 576 cliques
+# Combining 1 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 9 edges. Time elapsed: 0 seconds
+# Adding 9 edges
+# Nodes affected = 10
+# Clusters affected = 24
+# Num deleted here: 2
+# Found 1 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	VAMP2,SYT1,RAB5A,ACTR2,EGFR,ITSN1,VAMP4,VAMP7,CTTN,WNT5A,GAK,HIP1R,SH3GL2,SH3GL3,RAB5C,SYNJ1,DNM2,CLTB,PICALM,RAB5B,CLTA,DNM3,PACSIN1,PACSIN2,SYT2,HIP1,DNAJC6,SLC18A3,ARRB1,SH3KBP1,ARRB2,SYT9,FCHO2,AAK1,SYT8,SYNJ2,CHRM2,SLC2A8,	0.9	502	0.85956	0.844
+# dt: 0.857
+# Next dt: 0.844
+# Num current clusters before delete: 579
+# Num current clusters: 575
+# Num valid clusters: 1
+# Largest cluster: 38
+# Num edges in clusterGraph: 3842
+# Num real edges: 3833
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 89 edges
+# Nodes affected = 142
+# Clusters affected = 422
+# Num deleted here: 60
+# Found 97 new clusters to add
+# Adding missing edges...checking 604 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	NTSR1,NTS,GRM1,CCK,NMU,GHSR,PLCB1,CHRM1,GNRH1,PLCB3,PLCB4,ADRA1A,GNG3,NPFF,HTR2B,F2R,P2RY1,ANXA1,CHRM5,	0.9	155	0.82568	0.825
+# Valid cluster:	PDYN,OPRM1,OPRK1,PENK,CNR1,DRD2,ADCY8,NMU,DRD3,ADRA2C,CHRM2,GRM8,GNG3,HRH3,CHRM4,HTR1B,GPER1,ANXA1,P2RY4,	0.9	160	0.82568	0.825
+# dt: 0.844
+# Next dt: 0.825
+# Num current clusters before delete: 612
+# Num current clusters: 604
+# Num valid clusters: 3
+# Largest cluster: 38
+# Num edges in clusterGraph: 3931
+# Num real edges: 3922
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 98 edges
+# Nodes affected = 140
+# Clusters affected = 413
+# Num deleted here: 52
+# Found 94 new clusters to add
+# Adding missing edges...checking 637 cliques
+# Combining 0 pairs of clusters
+# dt: 0.825
+# Next dt: 0.804
+# Num current clusters before delete: 646
+# Num current clusters: 637
+# Num valid clusters: 3
+# Largest cluster: 38
+# Num edges in clusterGraph: 4029
+# Num real edges: 4020
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 7 edges
+# Nodes affected = 13
+# Clusters affected = 91
+# Num deleted here: 7
+# Found 9 new clusters to add
+# Adding missing edges...checking 639 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	RAB5A,RAB27A,RAB8B,RAB5C,RAB11B,RAB11A,RAB5B,RAB18,RAB2B,RAB10,RAB4A,RAB21,RAB33B,RAB15,RAB27B,RAB3B,RAB3C,	0.905	80	0.80396	0.803
+# dt: 0.804
+# Next dt: 0.803
+# Num current clusters before delete: 639
+# Num current clusters: 639
+# Num valid clusters: 4
+# Largest cluster: 38
+# Num edges in clusterGraph: 4036
+# Num real edges: 4027
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 96 edges
+# Nodes affected = 139
+# Clusters affected = 398
+# Num deleted here: 71
+# Found 103 new clusters to add
+# Adding missing edges...checking 659 cliques
+# Combining 0 pairs of clusters
+# dt: 0.803
+# Next dt: 0.782
+# Num current clusters before delete: 671
+# Num current clusters: 659
+# Num valid clusters: 4
+# Largest cluster: 38
+# Num edges in clusterGraph: 4132
+# Num real edges: 4123
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 32 edges
+# Nodes affected = 59
+# Clusters affected = 280
+# Num deleted here: 14
+# Found 35 new clusters to add
+# Adding missing edges...checking 679 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	NRXN1,NLGN3,NRXN2,DLGAP2,DLGAP3,DLGAP1,SHANK1,GRM1,HOMER1,HOMER2,DLGAP4,	0.904	49	0.7752	0.775
+# dt: 0.782
+# Next dt: 0.775
+# Num current clusters before delete: 680
+# Num current clusters: 679
+# Num valid clusters: 5
+# Largest cluster: 38
+# Num edges in clusterGraph: 4164
+# Num real edges: 4155
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 113 edges
+# Nodes affected = 156
+# Clusters affected = 464
+# Num deleted here: 53
+# Found 105 new clusters to add
+# Adding missing edges...checking 721 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	WASF1,ABI2,CYFIP2,CYFIP1,ABI1,ACTR2,CDC42,WASF3,RAC1,ACTB,	0.906	37	0.75704	0.757
+# dt: 0.775
+# Next dt: 0.757
+# Num current clusters before delete: 731
+# Num current clusters: 721
+# Num valid clusters: 6
+# Largest cluster: 38
+# Num edges in clusterGraph: 4277
+# Num real edges: 4268
+# Num edges inferred: 9
+# Time elapsed: 0 seconds
+# Adding 37 edges
+# Nodes affected = 68
+# Clusters affected = 279
+# Num deleted here: 16
+# Found 37 new clusters to add
+# Adding missing edges...checking 739 cliques
+# Combining 3 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 19 edges. Time elapsed: 0 seconds
+# Adding 19 edges
+# Nodes affected = 16
+# Clusters affected = 50
+# Num deleted here: 4
+# Found 3 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 3 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 24 edges. Time elapsed: 0 seconds
+# Adding 24 edges
+# Nodes affected = 11
+# Clusters affected = 38
+# Num deleted here: 3
+# Found 1 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	VAMP2,RAB5A,AP3B1,ACTR2,NAPA,ARF1,VAMP7,SNAPIN,DTNBP1,BLOC1S6,GAK,HIP1R,SH3GL2,RAB5C,DNM2,CLTB,PICALM,RAB5B,CLTA,DNM3,DNAJC6,ARRB1,AP1S1,	0.885	122	0.79284	0.751
+# dt: 0.757
+# Next dt: 0.751
+# Num current clusters before delete: 742
+# Num current clusters: 736
+# Num valid clusters: 7
+# Largest cluster: 38
+# Num edges in clusterGraph: 4357
+# Num real edges: 4305
+# Num edges inferred: 52
+# Time elapsed: 0 seconds
+# Adding 140 edges
+# Nodes affected = 194
+# Clusters affected = 566
+# Num deleted here: 79
+# Found 135 new clusters to add
+# Adding missing edges...checking 773 cliques
+# Combining 0 pairs of clusters
+# dt: 0.751
+# Next dt: 0.73
+# Num current clusters before delete: 792
+# Num current clusters: 773
+# Num valid clusters: 7
+# Largest cluster: 38
+# Num edges in clusterGraph: 4497
+# Num real edges: 4445
+# Num edges inferred: 52
+# Time elapsed: 0 seconds
+# Adding 61 edges
+# Nodes affected = 102
+# Clusters affected = 439
+# Num deleted here: 41
+# Found 64 new clusters to add
+# Adding missing edges...checking 793 cliques
+# Combining 1 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 6 edges. Time elapsed: 0 seconds
+# Adding 6 edges
+# Nodes affected = 5
+# Clusters affected = 93
+# Num deleted here: 3
+# Found 2 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	CRHR2,ADCYAP1,GHRH,CALCA,ADCY8,DRD1,ADRB1,GNG3,ADORA2B,	0.9	31	0.72196	0.721
+# Valid cluster:	SNAP23,SNAP25,RAP1A,ADAM10,DNAJC5,PLD1,CHRNB4,P2RX1,PGRMC1,	0.9	30	0.72196	0.721
+# Valid cluster:	SRC,CDC42,PAK2,CTTN,AGRN,PAK3,PAK7,ITGB1,RAC1,DMD,RAPSN,LAMA5,CHRNA1,CHRM1,	0.9	43	0.75104	0.721
+# dt: 0.73
+# Next dt: 0.721
+# Num current clusters before delete: 796
+# Num current clusters: 792
+# Num valid clusters: 10
+# Largest cluster: 38
+# Num edges in clusterGraph: 4564
+# Num real edges: 4506
+# Num edges inferred: 58
+# Time elapsed: 0 seconds
+# Adding 173 edges
+# Nodes affected = 215
+# Clusters affected = 619
+# Num deleted here: 73
+# Found 148 new clusters to add
+# Adding missing edges...checking 853 cliques
+# Combining 0 pairs of clusters
+# dt: 0.721
+# Next dt: 0.7
+# Num current clusters before delete: 867
+# Num current clusters: 853
+# Num valid clusters: 10
+# Largest cluster: 38
+# Num edges in clusterGraph: 4737
+# Num real edges: 4679
+# Num edges inferred: 58
+# Time elapsed: 0 seconds
+# Adding 22 edges
+# Nodes affected = 40
+# Clusters affected = 291
+# Num deleted here: 18
+# Found 28 new clusters to add
+# Adding missing edges...checking 860 cliques
+# Combining 1 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 3 edges. Time elapsed: 0 seconds
+# Adding 3 edges
+# Nodes affected = 4
+# Clusters affected = 20
+# Num deleted here: 4
+# Found 2 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	RPS18,RPS3,RPS3A,RPL23,RPS9,RPL10A,RPL7,RPS27,RPL38,RPS14,RPL14,RPLP2,RPL6,RPL5,RPS21,RPL8,EEF2,RPS23,RPL30,RPS19,EIF4E,RPS13,EIF3B,PABPC1,PPP2R2A,	0.847	118	0.75484	0.698
+# dt: 0.7
+# Next dt: 0.698
+# Num current clusters before delete: 863
+# Num current clusters: 858
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 4762
+# Num real edges: 4701
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 159 edges
+# Nodes affected = 224
+# Clusters affected = 698
+# Num deleted here: 121
+# Found 188 new clusters to add
+# Adding missing edges...checking 899 cliques
+# Combining 0 pairs of clusters
+# dt: 0.698
+# Next dt: 0.677
+# Num current clusters before delete: 925
+# Num current clusters: 899
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 4921
+# Num real edges: 4860
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 203 edges
+# Nodes affected = 256
+# Clusters affected = 764
+# Num deleted here: 118
+# Found 209 new clusters to add
+# Adding missing edges...checking 970 cliques
+# Combining 0 pairs of clusters
+# dt: 0.677
+# Next dt: 0.656
+# Num current clusters before delete: 990
+# Num current clusters: 970
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 5124
+# Num real edges: 5063
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 200 edges
+# Nodes affected = 268
+# Clusters affected = 819
+# Num deleted here: 113
+# Found 210 new clusters to add
+# Adding missing edges...checking 1049 cliques
+# Combining 0 pairs of clusters
+# dt: 0.656
+# Next dt: 0.635
+# Num current clusters before delete: 1067
+# Num current clusters: 1049
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 5324
+# Num real edges: 5263
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 238 edges
+# Nodes affected = 300
+# Clusters affected = 917
+# Num deleted here: 146
+# Found 241 new clusters to add
+# Adding missing edges...checking 1121 cliques
+# Combining 0 pairs of clusters
+# dt: 0.635
+# Next dt: 0.614
+# Num current clusters before delete: 1144
+# Num current clusters: 1121
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 5562
+# Num real edges: 5501
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 252 edges
+# Nodes affected = 283
+# Clusters affected = 946
+# Num deleted here: 163
+# Found 258 new clusters to add
+# Adding missing edges...checking 1181 cliques
+# Combining 0 pairs of clusters
+# dt: 0.614
+# Next dt: 0.593
+# Num current clusters before delete: 1216
+# Num current clusters: 1181
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 5814
+# Num real edges: 5753
+# Num edges inferred: 61
+# Time elapsed: 0 seconds
+# Adding 317 edges
+# Nodes affected = 315
+# Clusters affected = 1019
+# Num deleted here: 195
+# Found 342 new clusters to add
+# Adding missing edges...checking 1274 cliques
+# Combining 0 pairs of clusters
+# dt: 0.593
+# Next dt: 0.572
+# Num current clusters before delete: 1328
+# Num current clusters: 1274
+# Num valid clusters: 11
+# Largest cluster: 38
+# Num edges in clusterGraph: 6131
+# Num real edges: 6070
+# Num edges inferred: 61
+# Time elapsed: 1 seconds
+# Adding 277 edges
+# Nodes affected = 318
+# Clusters affected = 1116
+# Num deleted here: 186
+# Found 301 new clusters to add
+# Adding missing edges...checking 1349 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	NEDD4,FBXO2,ZNRF1,ZNRF2,RNF19A,TRIM9,FBXL20,	0.9	20	0.5556	0.555
+# Valid cluster:	MDM2,GRIA4,DLG1,CAMK2B,AKAP5,GRIA3,CACNG8,CACNG4,	0.9	15	0.5556	0.555
+# Valid cluster:	ARF1,ARFGAP1,ANK3,ANK2,SPTBN1,DYNLL2,ANK1,TMED9,	0.9	15	0.5556	0.555
+# Valid cluster:	SRC,HRAS,AP3B1,ITGB3,RAP1A,ARRB1,ARRB2,FGA,CNKSR2,	0.9	18	0.5556	0.555
+# dt: 0.572
+# Next dt: 0.555
+# Num current clusters before delete: 1389
+# Num current clusters: 1349
+# Num valid clusters: 15
+# Largest cluster: 38
+# Num edges in clusterGraph: 6408
+# Num real edges: 6347
+# Num edges inferred: 61
+# Time elapsed: 1 seconds
+# Adding 412 edges
+# Nodes affected = 411
+# Clusters affected = 1243
+# Num deleted here: 261
+# Found 408 new clusters to add
+# Adding missing edges...checking 1441 cliques
+# Combining 0 pairs of clusters
+# dt: 0.555
+# Next dt: 0.534
+# Num current clusters before delete: 1496
+# Num current clusters: 1441
+# Num valid clusters: 15
+# Largest cluster: 38
+# Num edges in clusterGraph: 6820
+# Num real edges: 6759
+# Num edges inferred: 61
+# Time elapsed: 1 seconds
+# Adding 425 edges
+# Nodes affected = 388
+# Clusters affected = 1342
+# Num deleted here: 290
+# Found 463 new clusters to add
+# Adding missing edges...checking 1540 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	AGRN,GPC1,GPC4,CSPG5,BCAN,	0.905	6	0.5138	0.513
+# Valid cluster:	YWHAG,RAB11A,TUBA1A,PRKACA,NPHP4,	0.9	10	0.514	0.513
+# Valid cluster:	PENK,ADAM10,C4A,FGA,SPARCL1,WFS1,	0.9	13	0.514	0.513
+# Valid cluster:	SEC22B,ARF1,ARFGAP1,KIF1A,KIF5A,TMED9,	0.9	10	0.514	0.513
+# Valid cluster:	NAPA,NAPG,ANK3,ANK2,SPTBN1,ANK1,TMED9,	0.9	10	0.514	0.513
+# dt: 0.534
+# Next dt: 0.513
+# Num current clusters before delete: 1614
+# Num current clusters: 1540
+# Num valid clusters: 20
+# Largest cluster: 38
+# Num edges in clusterGraph: 7245
+# Num real edges: 7184
+# Num edges inferred: 61
+# Time elapsed: 1 seconds
+# Adding 60 edges
+# Nodes affected = 99
+# Clusters affected = 952
+# Num deleted here: 63
+# Found 80 new clusters to add
+# Adding missing edges...checking 1550 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	LGI1,ADAM22,ADAM23,CACNG8,CACNG4,	0.902	6	0.5108	0.51
+# dt: 0.513
+# Next dt: 0.51
+# Num current clusters before delete: 1557
+# Num current clusters: 1550
+# Num valid clusters: 21
+# Largest cluster: 38
+# Num edges in clusterGraph: 7305
+# Num real edges: 7245
+# Num edges inferred: 60
+# Time elapsed: 1 seconds
+# Adding 25 edges
+# Nodes affected = 44
+# Clusters affected = 554
+# Num deleted here: 18
+# Found 30 new clusters to add
+# Adding missing edges...checking 1555 cliques
+# Combining 2 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 5 edges. Time elapsed: 0 seconds
+# Adding 5 edges
+# Nodes affected = 7
+# Clusters affected = 99
+# Num deleted here: 4
+# Found 3 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# dt: 0.51
+# Next dt: 0.509
+# Num current clusters before delete: 1562
+# Num current clusters: 1553
+# Num valid clusters: 21
+# Largest cluster: 38
+# Num edges in clusterGraph: 7335
+# Num real edges: 7270
+# Num edges inferred: 65
+# Time elapsed: 1 seconds
+# Adding 25 edges
+# Nodes affected = 49
+# Clusters affected = 623
+# Num deleted here: 19
+# Found 30 new clusters to add
+# Adding missing edges...checking 1562 cliques
+# Combining 278 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 441 edges. Time elapsed: 0 seconds
+# Adding 441 edges
+# Nodes affected = 92
+# Clusters affected = 716
+# Num deleted here: 205
+# Found 180 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	RPS27,CDC42,PPP1CC,DYNLL2,NDEL1,	0.9	6	0.5088	0.508
+# Valid cluster:	FZD5,WNT5A,PLCB1,PLCB3,GNG3,	0.9	6	0.5088	0.508
+# Valid cluster:	ACTN2,ACTN1,FGA,CLU,SRGN,	0.9	8	0.5088	0.508
+# Valid cluster:	GAD1,SLC32A1,VAMP2,SNAP25,STX1A,SYT1,CPLX1,GAD2,DNAJC5,	0.908	8	0.5168	0.508
+# dt: 0.509
+# Next dt: 0.508
+# Num current clusters before delete: 1564
+# Num current clusters: 1501
+# Num valid clusters: 25
+# Largest cluster: 38
+# Num edges in clusterGraph: 7801
+# Num real edges: 7295
+# Num edges inferred: 506
+# Time elapsed: 1 seconds
+# Adding 244 edges
+# Nodes affected = 296
+# Clusters affected = 1297
+# Num deleted here: 158
+# Found 258 new clusters to add
+# Adding missing edges...checking 1562 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	PSEN1,RAB5C,DNAJC5,ARL8A,SYNGR1,	0.901	6	0.5098	0.495
+# dt: 0.508
+# Next dt: 0.495
+# Num current clusters before delete: 1601
+# Num current clusters: 1562
+# Num valid clusters: 26
+# Largest cluster: 38
+# Num edges in clusterGraph: 8045
+# Num real edges: 7546
+# Num edges inferred: 499
+# Time elapsed: 1 seconds
+# Adding 535 edges
+# Nodes affected = 449
+# Clusters affected = 1472
+# Num deleted here: 348
+# Found 553 new clusters to add
+# Adding missing edges...checking 1698 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	SEPT8,SEPT1,SEPT6,SEPT11,	0.866	6	0.4748	0.474
+# dt: 0.495
+# Next dt: 0.474
+# Num current clusters before delete: 1767
+# Num current clusters: 1698
+# Num valid clusters: 27
+# Largest cluster: 38
+# Num edges in clusterGraph: 8580
+# Num real edges: 8096
+# Num edges inferred: 484
+# Time elapsed: 1 seconds
+# Adding 683 edges
+# Nodes affected = 483
+# Clusters affected = 1621
+# Num deleted here: 421
+# Found 675 new clusters to add
+# Adding missing edges...checking 1829 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	NRCAM,ANK3,ANK2,SPTBN1,SCN2A,ANK1,SCN10A,	0.887	6	0.4958	0.453
+# dt: 0.474
+# Next dt: 0.453
+# Num current clusters before delete: 1952
+# Num current clusters: 1829
+# Num valid clusters: 28
+# Largest cluster: 38
+# Num edges in clusterGraph: 9263
+# Num real edges: 8800
+# Num edges inferred: 463
+# Time elapsed: 1 seconds
+# Adding 589 edges
+# Nodes affected = 486
+# Clusters affected = 1760
+# Num deleted here: 438
+# Found 660 new clusters to add
+# Adding missing edges...checking 1945 cliques
+# Combining 0 pairs of clusters
+# Valid cluster:	HNRNPD,FUS,HNRNPA3,HNRNPH2,	0.94	6	0.5488	0.436
+# dt: 0.453
+# Next dt: 0.436
+# Num current clusters before delete: 2051
+# Num current clusters: 1945
+# Num valid clusters: 29
+# Largest cluster: 38
+# Num edges in clusterGraph: 9852
+# Num real edges: 9398
+# Num edges inferred: 454
+# Time elapsed: 1 seconds
+# Adding 778 edges
+# Nodes affected = 544
+# Clusters affected = 1900
+# Num deleted here: 504
+# Found 813 new clusters to add
+# Adding missing edges...checking 2122 cliques
+# Combining 0 pairs of clusters
+# dt: 0.436
+# Next dt: 0.415
+# Num current clusters before delete: 2254
+# Num current clusters: 2122
+# Num valid clusters: 29
+# Largest cluster: 38
+# Num edges in clusterGraph: 10630
+# Num real edges: 10193
+# Num edges inferred: 437
+# Time elapsed: 1 seconds
+# Adding 725 edges
+# Nodes affected = 525
+# Clusters affected = 2056
+# Num deleted here: 516
+# Found 804 new clusters to add
+# Adding missing edges...checking 2279 cliques
+# Combining 1604 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 2995 edges. Time elapsed: 0 seconds
+# Adding 2995 edges
+# Nodes affected = 416
+# Clusters affected = 2070
+# Num deleted here: 1117
+# Found 940 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 1117 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 3317 edges. Time elapsed: 0 seconds
+# Adding 3317 edges
+# Nodes affected = 363
+# Clusters affected = 1667
+# Num deleted here: 799
+# Found 724 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 1026 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 3988 edges. Time elapsed: 0 seconds
+# Adding 3988 edges
+# Nodes affected = 342
+# Clusters affected = 1460
+# Num deleted here: 621
+# Found 562 new clusters to add
+# Added all edges. Time elapsed: 1 seconds
+# Rechecking
+# Combining 938 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 4658 edges. Time elapsed: 0 seconds
+# Adding 4658 edges
+# Nodes affected = 335
+# Clusters affected = 1292
+# Num deleted here: 515
+# Found 478 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 945 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 6633 edges. Time elapsed: 0 seconds
+# Adding 6633 edges
+# Nodes affected = 332
+# Clusters affected = 1172
+# Num deleted here: 479
+# Found 529 new clusters to add
+# Added all edges. Time elapsed: 1 seconds
+# Rechecking
+# Combining 1727 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 9385 edges. Time elapsed: 0 seconds
+# Adding 9385 edges
+# Nodes affected = 333
+# Clusters affected = 1076
+# Num deleted here: 471
+# Found 424 new clusters to add
+# Added all edges. Time elapsed: 1 seconds
+# Rechecking
+# Combining 1810 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 7066 edges. Time elapsed: 0 seconds
+# Adding 7066 edges
+# Nodes affected = 350
+# Clusters affected = 978
+# Num deleted here: 357
+# Found 260 new clusters to add
+# Added all edges. Time elapsed: 1 seconds
+# Rechecking
+# Combining 265 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 2595 edges. Time elapsed: 0 seconds
+# Adding 2595 edges
+# Nodes affected = 299
+# Clusters affected = 813
+# Num deleted here: 204
+# Found 142 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 48 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 1161 edges. Time elapsed: 0 seconds
+# Adding 1161 edges
+# Nodes affected = 208
+# Clusters affected = 681
+# Num deleted here: 100
+# Found 81 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 26 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 871 edges. Time elapsed: 0 seconds
+# Adding 871 edges
+# Nodes affected = 122
+# Clusters affected = 588
+# Num deleted here: 46
+# Found 42 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 11 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 563 edges. Time elapsed: 0 seconds
+# Adding 563 edges
+# Nodes affected = 78
+# Clusters affected = 473
+# Num deleted here: 31
+# Found 25 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 1 pairs of clusters
+# Sorted. Time elapsed: 0 seconds
+# Got all 25 edges. Time elapsed: 0 seconds
+# Adding 25 edges
+# Nodes affected = 10
+# Clusters affected = 111
+# Num deleted here: 4
+# Found 2 new clusters to add
+# Added all edges. Time elapsed: 0 seconds
+# Rechecking
+# Combining 0 pairs of clusters
+# Valid cluster:	COPS5,COPS4,FBXO2,FBXL20,	0.9	4	0.2864	0
+# Valid cluster:	CYFIP2,CYFIP1,FMR1,FXR2,NUFIP1,	0.622	5	0.0084	0
+# Valid cluster:	ATP6V0D1,FXYD6,ATP1A2,ATP1A3,ATP1A1,	0.476	7	0.0848	0
+# Valid cluster:	CNR1,DAGLB,DAGLA,ABHD6,NAAA,	0.444	7	0.0528	0
+# Valid cluster:	SRC,EPHB2,EGFR,STAT3,NTF3,NTRK3,PTPRO,	0.406	6	0.0148	0
+# Valid cluster:	ACTN2,ACTN1,ACTB,GRIN1,GRIN2D,PTK2B,PDLIM5,	0.4	6	0.0088	0
+# Valid cluster:	MTOR,RPS6KB1,RHEB,GAK,MAF1,CRKL,HPCA,	0.4	6	0.0088	0
+# Valid cluster:	UNC13B,MYH10,PRKCZ,GRIN1,ATP2B2,ERC2,CABP4,	0.4	6	0.0088	0
+# Valid cluster:	SEC22B,CASK,GDI2,RAB11B,RAB11A,TRAPPC4,RAB33B,	0.4	6	0.0088	0
+# Valid cluster:	SYT1,CPLX1,BCAN,SYT10,SYNGR1,RAB3C,SVOP,	0.42	6	0.0288	0
+# Valid cluster:	APH1A,PSEN1,CTNNB1,ERBB4,ADAM10,BACE1,APBB1,MME,	0.4	7	0.0088	0
+# Valid cluster:	SLC32A1,GAD2,GABRG2,SLC17A7,SLC17A6,SYN1,GABRD,SLC6A17,	0.406	6	0.0148	0
+# Valid cluster:	GAD1,WASF1,YWHAH,GABRA1,GRIA2,GRIA4,GRIA3,USP46,	0.4	7	0.0088	0
+# Valid cluster:	AKT1,HRAS,CDH1,EGFR,STAT3,MAPK14,CHRM1,RELA,FOSL1,	0.401	8	0.0098	0
+# Valid cluster:	NTRK2,NRXN2,PENK,CALM1,GRIA2,CALM3,SPARCL1,SLC6A1,OLFM3,	0.4	6	0.0088	0
+# Valid cluster:	AKT1,ITSN1,GDI2,GAK,SH3GL2,CLTB,PICALM,RAB5B,DENND1A,	0.4	8	0.0088	0
+# Valid cluster:	HRAS,GAK,CALM1,SYN1,CALM3,SYN2,SYT2,DNAJC6,DCLK1,	0.4	6	0.0088	0
+# Valid cluster:	NRXN1,DLGAP1,GRM1,LRRTM2,GRIN1,GRM8,CADM2,CBLN1,GRID1,	0.4	7	0.0088	0
+# Valid cluster:	SNAP23,SNAP25,ACTN2,CTNNA2,DTNBP1,RAB11A,DMD,ACTB,ACTC1,DTNA,	0.4	6	0.0088	0
+# Valid cluster:	SNAP25,OPRM1,OPRK1,MDM2,DRD2,DRD1,CHRM1,KCNJ9,SLC6A1,RGS7BP,	0.4	7	0.0088	0
+# Valid cluster:	CTNND1,SRC,PLCG1,SH3GL2,PTEN,DNM2,DLG1,NEFL,CHRM1,MTMR2,	0.4	6	0.0088	0
+# Valid cluster:	GSK3B,CTNNB1,WNT3A,FZD5,WNT5A,DVL1,WNT7A,GSK3A,FZD9,PORCN,	0.409	20	0.0646	0
+# Valid cluster:	PSEN1,PDYN,RAB11A,SYT2,GRIK4,KCNIP3,GRIN1,ADRA2C,KCNC1,KCNA1,	0.4	6	0.0088	0
+# Valid cluster:	RPL10A,RPL38,RPLP2,RPL6,RPL8,RPL30,EIF4E,PABPC1,FMR1,FXR2,	0.4	7	0.0088	0
+# Valid cluster:	PLCG1,PLD2,PLD1,PLCB1,PLCB3,PLCB4,DGKQ,DGKI,DGKE,DGKB,	0.406	6	0.0148	0
+# Valid cluster:	MTOR,STX10,ARF1,FLNA,ARF6,GABRB2,RAB11B,RAB11A,GABRB3,GABRB1,ARFGEF2,	0.4	6	0.0088	0
+# Valid cluster:	NRXN1,NLGN3,NRXN2,SHANK1,SYN1,SYN2,PPFIA3,GRIN1,IL1RAPL1,FAIM2,RIMS3,	0.4	8	0.0088	0
+# Valid cluster:	RPS3A,RPS9,RPS27,RPL38,RPS14,RPL14,RPS21,RPL8,RPS13,KCNC2,FRRS1L,	0.405	10	0.019	0
+# Valid cluster:	SLC32A1,MTOR,AKT1,RPS6KB1,RHEB,SLC17A7,SLC18A2,SLC6A4,SLC6A1,GABRR3,SLC1A7,	0.4	6	0.0088	0
+# Valid cluster:	KCNN2,CALM1,KCNA2,KCNMA1,KCNJ4,KCNJ2,KCNB1,KCNH1,KCNA4,KCNA3,KCNK1,	0.4	7	0.0088	0
+# Valid cluster:	SLC32A1,SLC17A7,SLC17A6,DRD2,SLC18A3,SLC18A2,SLC18A1,COMT,SLC6A4,SLC6A2,HTR3B,	0.4	10	0.014	0
+# Valid cluster:	AKT1,CDH1,CTNNB1,CDC42,PAK7,MDM2,DNM2,UNC13B,CTBP1,PLD2,ERC1,	0.4	8	0.0088	0
+# Valid cluster:	SRC,NRXN1,CASK,LIN7C,NUMB,PRKCI,PRKCZ,MPP2,DRD3,SYNGAP1,MPDZ,	0.4	9	0.0088	0
+# Valid cluster:	STX2,SNAP25,STX1A,NTS,BDNF,PDYN,ARF6,PENK,CCK,GNRH1,CPE,	0.4	8	0.0088	0
+# Valid cluster:	SNAP25,YWHAG,DLGAP1,GRM1,HOMER1,DLG1,GRIN1,SYP,MAP2,INA,NEFH,GAP43,	0.4	6	0.0088	0
+# Valid cluster:	WASF1,ACTR2,CDC42,ITSN1,ARF1,SH3GL2,RAC1,PFN2,ACTB,GPHN,FCHO2,SRGAP2,	0.4	6	0.0088	0
+# Valid cluster:	CDH1,CTNNB1,MYO5A,RAB27A,CALM1,DMD,EXOC3,MYO7A,EPB41,RAB27B,CALB2,ATP2B2,CALB1,	0.4	7	0.0088	0
+# Valid cluster:	SNAP25,SRC,STX1A,HRAS,PSEN1,NRXN1,LIN7A,CASK,NRXN2,DLGAP3,MPP2,APBA2,AAK1,	0.4	10	0.014	0
+# Valid cluster:	NTS,GRM1,CCK,CNR1,CHRM1,GNRH1,GNG3,SLC18A2,HTR2B,SLC6A4,SLC6A2,SLITRK1,HTR3B,	0.4	6	0.0088	0
+# Valid cluster:	NLGN3,CDC42,EFNB1,MYO5A,ILK,GRM1,HOMER1,SH3GL2,RAC1,FMR1,HOMER2,SH3KBP1,OPHN1,	0.4	12	0.014	0
+# Valid cluster:	MTOR,CDH1,CTNNB1,STAT3,ACTN2,DMD,ACTC1,DRD2,NEFL,CNTN2,SLC1A2,CRYAB,FAIM2,	0.4	12	0.014	0
+# Valid cluster:	SNAP25,CTNNB1,EGFR,ACTN1,YWHAG,RAB8B,FLNA,RAB11A,CALM1,TUBA1A,ACTB,KIF5A,MAP2,	0.4	6	0.0088	0
+# Valid cluster:	GAD1,MTOR,CTNNB1,BDNF,GAD2,SLC17A7,CHAT,GLUL,SLC6A1,GABRR3,SLC1A2,CALB2,CALB1,	0.4	6	0.0088	0
+# Valid cluster:	RPS3,PSMA3,PSMC4,COPS5,USP14,AKT1,GSK3B,PSMC5,PSMC2,CTNNB1,EGLN1,MDM2,RELA,	0.4	11	0.014	0
+# Valid cluster:	FYN,NTRK2,PSEN1,GSK3B,CTNNB1,BDNF,RAC1,DRD2,DNAJC5,NRP1,CDK5R1,PPP1R1B,SYP,	0.4	12	0.014	0
+# Valid cluster:	BDNF,OPRM1,OPRK1,ACTB,GRIK4,SCN2A,MAPK14,CALCA,KCNA2,ENSG00000196689,SCN10A,HTR1B,NEFH,KCNA1,	0.4	8	0.0088	0
+# Valid cluster:	SNAP25,STX1A,SH3GL2,GABRA1,GABRA5,SYN1,SYN2,SYNJ2,SYT7,KIF5A,SYT12,SYP,SLITRK1,SNPH,	0.4	8	0.0088	0
+# Valid cluster:	SNAP25,NRXN1,NLGN3,SLC17A7,SCN2A,ITPR1,CNTN2,KCNJ9,ATP1A2,SLC8A2,SLC1A2,ATP2B2,KCNA1,ATP2B3,	0.4	6	0.0088	0
+# Valid cluster:	SYT1,FYN,CTNNB1,NRXN1,NRXN2,DLGAP2,ITGB3,PTPRZ1,ERBB4,MAPK14,CNTN2,PPFIA4,SLITRK1,GAP43,	0.4	9	0.0088	0
+# Valid cluster:	SNAP23,VAMP2,SNAP25,STX1A,STX4,CPLX1,RAB27A,UNC13B,SNAP47,RAB27B,RAB3B,RAB3C,STXBP5L,DOC2B,	0.4	12	0.014	0
+# Valid cluster:	SLC32A1,NRXN1,NTF3,NRXN2,GABRA1,CCK,CHRM1,KCNJ9,HRH3,SYNPR,GABRD,SLC6A1,ATP2B2,MT3,CBLN4,	0.4	13	0.014	0
+# Valid cluster:	VAMP2,STX4,SYT1,HRAS,RAB5A,RHEB,YWHAH,GDI2,RAB5C,UNC13B,RAB11A,RIMS2,PCLO,RAB4A,RABAC1,	0.4	10	0.014	0
+# Valid cluster:	NTF4,NTRK2,NTSR1,NTS,BDNF,NTF3,NTRK3,GRM1,CCK,ARRB2,CALCA,CHAT,CHRM1,GNRH1,GNG3,	0.4	6	0.0088	0
+# Valid cluster:	SNAP25,SYT1,NRXN1,NRXN2,OPRM1,GABRG2,GRIA2,GRIN2D,KCNJ9,SYP,GABRD,SLC6A1,SLC1A2,CNTNAP4,GPM6A,	0.4	9	0.0088	0
+# Valid cluster:	SRC,AKT1,HRAS,GSK3B,CDH1,CTNNB1,EGFR,BDNF,STAT3,CDC42,WNT3A,WNT5A,MDM2,PTEN,NUMB,DLG1,	0.401	6	0.0098	0
+# Valid cluster:	SRC,HRAS,ACTR2,ARF1,CTTN,ARF6,RAC1,DNM2,CLTB,RAB11A,CLTA,PACSIN2,ASAP1,EXOC3,SH3KBP1,PTK2B,	0.4	11	0.014	0
+# Valid cluster:	SRC,YES1,FYN,HRAS,SOS1,PSEN1,EGFR,NRXN1,JAK2,DLGAP1,PLCG1,PTEN,NRG3,ERBB4,GRIK3,CRKL,	0.4	6	0.0088	0
+# Valid cluster:	HRAS,SEC22B,ITSN1,ARF1,ARFGAP1,ARF6,RAC1,CLTB,RAB11A,RAB5B,CLTA,PLD2,PLD1,FCHO2,AAK1,KIF5A,	0.4	6	0.0088	0
+# Valid cluster:	EEF2,EIF4E,EIF4EBP1,MTOR,AKT1,PDPK1,RPS6KB1,RHEB,NLGN3,BDNF,EEF2K,EIF4EBP2,PTEN,FMR1,CALM1,ACTB,ARC,	0.4	30	0.22196	0
+# Valid cluster:	AKT1,HRAS,PSEN1,EGFR,BDNF,ACTN2,ACTN1,PICALM,ADCYAP1,PTK2B,CHAT,ACHE,CLU,SYP,MAP2,CALB2,CALB1,	0.4	10	0.014	0
+# Valid cluster:	MTOR,AKT1,RAB5A,GSK3B,ITSN1,CTTN,GAK,SH3GL2,SH3GL3,SYNJ1,PTEN,CLTA,VPS45,DNAJC6,EXOC3,DNM1L,VPS35,	0.4	13	0.014	0
+# Valid cluster:	NAPA,NRXN1,NAPG,ARF1,ERBB4,DMD,ANK3,NUMB,DLG1,GPHN,SCN2A,EPB41,KCNA2,ITPR1,CNTN2,KCNC1,KCNA1,	0.4	7	0.0088	0
+# Valid cluster:	VAMP2,SNAP25,STX1A,SYT1,STX3,NRXN1,CPLX1,NRXN2,LIN7C,SYN1,SYN2,SYT2,SYT9,CPLX3,SYT10,CPLX4,SYT6,KCNA1,	0.402	14	0.016	0
+# Valid cluster:	SNAP25,STX1A,SYT1,NRXN1,CPLX1,NRXN2,SYN1,BZRAP1,RIMS2,SYN2,SYT10,SYNPR,SYNGR1,SYP,SLC2A8,RAB3C,SV2B,SVOP,	0.4	10	0.014	0
+# Valid cluster:	SNAP25,SYT1,MYO5A,GABRG2,GRIA2,GRIA4,PFN2,MYH10,PPFIA3,GRIA3,NEFL,KIF5A,SYP,KIF5C,MAP2,RAB3C,KCNC1,GAP43,	0.4	9	0.0088	0
+# Valid cluster:	AKT1,EEA1,RAB5A,EGFR,SEC22B,ARF1,ITGB1,MDM2,RAB11A,ACTB,RAB10,GRIN1,ITPR1,ACHE,SYP,SLC6A4,ATP2B3,CANX,	0.4	6	0.0088	0
+# Valid cluster:	BDNF,GRM1,GRIK2,GRIK5,GRIA2,GRIA4,GRIK3,PACSIN1,DLG1,GRIK4,SCN2A,GRIN1,GRIK1,GRIA3,GRM8,SHISA9,SLC1A2,NETO1,HTR3B,	0.4	16	0.0556	0
+# Valid cluster:	SRC,YES1,EPHB2,FYN,AKT1,NTRK2,GSK3B,ACTR2,EPHB1,EPHA7,JAK2,NTRK3,SHANK1,GRM1,PRKCI,PFN2,MYH10,PRKCZ,GRID2IP,	0.4	13	0.014	0
+# Valid cluster:	GSK3B,CDH1,CTNNB1,EGFR,LIN7A,CASK,LIN7B,LIN7C,ERBB4,PRKCI,SYN1,DLG1,PRKCZ,MPP2,CAMK2B,PPFIA3,PPFIA4,KCNJ4,DLG5,	0.4	11	0.014	0
+# Valid cluster:	SRC,EPHB2,EFNB2,FYN,EFNA5,AKT1,HRAS,NTF4,NTRK2,EPHB1,EPHA7,BDNF,NTF3,EFNB1,RTN4,EFNA2,EFNB3,SEMA4C,GAP43,	0.4	6	0.0088	0
+# Valid cluster:	NLGN3,BDNF,NRXN2,DLGAP1,SHANK1,GRIK2,GABRA5,GRIA2,GRIA4,RIMS2,GRIP1,DLG1,PPFIA3,GRIN1,GRIN2D,GRIK1,GRIA3,LRFN1,KIF5A,	0.4	8	0.0088	0
+# Valid cluster:	CTNND1,SRC,WASF1,ABI2,ABI1,CDH1,AP3B1,CTNNB1,CDC42,ACTN1,WASF3,LIN7C,CTTN,CTNNA2,RAC1,ENAH,PFN2,ACTB,PIP5K1C,GPHN,	0.4	7	0.0088	0
+# Valid cluster:	SRC,AKT1,HRAS,NTS,CTTN,GRM1,ITGB3,DNM2,CALM1,CALM3,CCK,SLC18A3,ARRB1,MAPK14,ARRB2,CHRM2,CHRM1,GNRH1,GNG3,F2R,	0.4	10	0.014	0
+# Valid cluster:	VAMP2,SNAP25,STX1A,SYT1,NTRK3,VAMP4,SHANK1,RAB8B,BZRAP1,RIMS2,SYN2,SYT2,SYT9,SYT8,SYNJ2,SYT7,SYT10,SYT12,SYT6,CALB2,OTOF,	0.4	17	0.0556	0
+# Valid cluster:	PSMA3,PSMC4,COPS5,MTOR,AKT1,GSK3B,PSMC5,PSMC2,CTNNB1,STAT3,CDC42,PAK2,NF1,PLCG1,DVL1,MDM2,PTEN,NUMB,ACTB,PIP5K1C,RELA,	0.4	22	0.22196	0
+# Valid cluster:	VAMP2,SNAP25,STX1A,SYT1,VAMP4,CALM1,CALM3,BZRAP1,RIMS2,SYN2,SYT2,SYT5,CAMK2B,CALM2,CACNA1D,ITPR1,GNG3,PPP2R2A,CALB2,ATP2B2,CALB1,KCNA1,ATP2B3,	0.4	9	0.0088	0
+# Valid cluster:	VAMP2,EEA1,RAB5A,VAMP4,MYO5A,RAB27A,GDI2,RAB8B,RAB5C,RAB11B,RAB11A,RAB5B,VPS45,RAB18,RAB2B,RAB10,STX11,RAB4A,RAB21,RAB33B,RAB15,RAB27B,RAB3B,RAB3C,	0.4	12	0.014	0
+# Valid cluster:	SNAP25,SYT1,RAB5A,SEC22B,ARF1,MYO5A,SH3GL2,UNC13B,RAB11A,SYN1,GRIA2,GABRB3,SYT2,PPFIA3,NEFL,CHRNA4,KIF1A,KIF5A,PPFIA4,SYP,MAP2,RAB3C,KCNC1,GAP43,	0.4	12	0.014	0
+# Valid cluster:	GAD1,SNAP25,FYN,NTRK2,NRXN1,BDNF,JAK2,DTNBP1,SLC17A7,SLC17A6,GABRA5,DRD2,SCN2A,DNAJC5,CHRNA1,STXBP5,DRD3,CHRNA4,CHRNB4,CHRNA2,CHAT,CHRM2,CHRM1,SLC18A2,ACHE,CHRNA7,SYP,HTR1B,COMT,SLC6A4,SLC1A2,	0.4	47	0.2712	0
+# Valid cluster:	SRC,MTOR,AKT1,NTS,EGFR,SEC22B,PDYN,OPRM1,EFNB3,GRM1,OPRK1,PENK,CALM1,CCK,ACTB,CNR1,DRD2,MAPK14,ADCY8,DRD3,ADRA2C,CHRM2,GRM8,CHRM1,GNRH1,GNG3,HRH3,HTR1B,GPER1,ANXA1,SLC1A2,	0.4	20	0.0556	0
+# Valid cluster:	SNAP23,SNAP25,CTNND1,SRC,EPHB2,EFNB2,EFNA5,AKT1,NTF4,NTRK2,PSEN1,GSK3B,CDH1,CTNNB1,EGFR,EPHB1,EPHA7,BDNF,NTF3,NTRK3,EFNB1,EFNA2,FLNA,PENK,RAP1A,ERBB4,NUMB,DLG1,ADAM10,PRKCZ,GRIN1,DNAJC5,PLD1,	0.4	18	0.0556	0
+# Valid cluster:	VAMP2,SYT1,AKT1,HRAS,BDNF,NTF3,ACTN2,DLGAP2,FMR1,CALM1,DMD,SYN1,GRIA2,GRIA4,CALM3,DRD2,DLG1,NOS1,CAMK2B,GRIN1,GRIN2D,SLC18A3,GRIA3,CALM2,CALCA,ITPR1,NEFL,CHAT,SYNGAP1,GNRH1,HTR1B,CALB2,CALB1,	0.4	10	0.014	0
+# Valid cluster:	GAD1,SLC32A1,NTRK2,NRXN1,BDNF,NTRK3,GAD2,GABRG2,GABRA1,GABRB2,GABRA5,SYN1,GRIA2,GABRB3,DRD2,GLRA1,GLRA4,GPHN,GABRB1,GABRA2,GRIN1,SLC18A3,DRD1,KIF5A,GABRG3,HAP1,GABRD,SLC6A1,GABRR1,GABRR2,GABRR3,GABRE,GABRP,TTYH1,	0.4	158	0.32568	0
+# Valid cluster:	SNAP25,EIF4EBP1,MTOR,AKT1,NTRK2,PSEN1,RAB5A,RPS6KB1,RHEB,CTNNB1,EGFR,BDNF,PAK2,HIP1R,GRM1,SH3GL2,SH3GL3,MDM2,FMR1,CLTB,RAB11A,PFN2,CLTA,CNR1,DRD2,PACSIN1,HIP1,GRIN1,DNAJC5,HTT,ITPR1,DRD1,KIF5A,PPP1R1B,SYP,SLC1A2,CALB2,	0.4	11	0.014	0
+# Valid cluster:	SNAP25,BDNF,SHANK1,GRM1,GRIK2,GRIK5,GRIA2,GRIA4,GRIK3,PACSIN1,GLRA1,GLRA4,DLG1,GRIK4,MPP2,SCN2A,CAMK2B,GRIN1,GRIN2D,GRIK1,GRIA3,PTK2B,CACNG7,CACNG8,CHRNA4,CACNG4,GRM8,KCNJ9,GRIN3B,SHISA9,SLC1A2,ATP2B3,SHISA6,VWC2,CBLN1,SHISA7,HTR3B,SHISA8,OLFM3,	0.4	173	0.34368	0
+# Valid cluster:	SNAP25,SRC,WASF1,FYN,HRAS,SOS1,PDPK1,PSEN1,GSK3B,RPS6KB1,CTNNB1,JAK2,YWHAG,YWHAH,NF1,ITGB1,RAP1A,RAC1,RAB11B,RAB11A,CALM1,SYN1,GRIA2,GRIA4,GRIN1,DNAJC5,GRIN2D,GRIA3,ADCY8,ITPR1,PRKACA,RELA,KCNJ9,GNG3,PPP1R1B,MAP2,KCNC2,ATP2B2,ATP2B3,	0.4	9	0.0088	0
+# Valid cluster:	SRC,YES1,FYN,AKT1,NTRK2,EGFR,NTRK3,CDC42,ACTN1,PAK2,CTTN,AGRN,PAK3,PAK7,ITGB1,ITGA8,ITGB3,FLNA,ARF6,ITGA3,RAC1,ERBB4,DMD,ITGA2,RAPSN,ACTB,MYH9,LAMA5,SYT2,DNAJC6,LRP8,GRIN1,CHRNA1,CRKL,MAPK14,PTK2B,CHRM1,YWHAQ,TNR,COL4A5,TNN,SLC6A1,SV2B,CBLN1,	0.4	280	0.34492	0
+# Valid cluster:	MTOR,GSK3B,NTS,EGFR,BDNF,YWHAG,YWHAH,DTNBP1,PLCG1,WNT5A,GRM1,SYNJ1,PTEN,GABRB2,PICALM,CALM1,ERBB4,GRIA2,CALM3,GRIK3,CCK,PIP5K1C,CAMK2B,PLD2,GRIN1,PLD1,CHRNA1,MAPK14,CALM2,SYNJ2,ITPR1,PLCB1,CHRM1,YWHAQ,GNRH1,PLCB3,PLCB4,GNG3,PPP1R1B,PPP3CC,ITPKA,COMT,CALB2,CALB1,HPCA,	0.4	125	0.30784	0
+# Valid cluster:	EIF4E,SRC,STX1A,WASF1,NTRK2,LIN7A,CASK,ACTN2,DLGAP2,DLGAP1,LIN7C,CTTN,GABRA1,FMR1,KCNN2,CALM1,GRIA4,CALM3,DLG1,KCND3,SCN2A,CAMK2B,AKAP5,GRIA3,CALM2,ADCY8,KCNA2,ITPR1,DRD1,CALY,KCNJ9,PPP2R2A,ENSG00000196689,KCNJ4,KCNB1,SYP,KCNC2,SYT6,KCNH1,KCNA4,SLC1A2,CALB2,KCNC1,KCNA1,KCNA3,HPCA,KCNK1,	0.4	149	0.30784	0
+# Valid cluster:	SLC32A1,SNAP25,SRC,NTRK2,CDH1,EGFR,NRXN1,NLGN3,BDNF,STAT3,NTF3,NTRK3,CASK,NRXN2,DLGAP2,DLGAP3,DLGAP1,SHANK1,CTNNA2,EFNA2,GRM1,HOMER1,SLC17A7,GRIK5,HOMER2,SYN1,GRIA2,LRRTM2,LRRTM1,DLG1,DLGAP4,GPHN,MPP2,PPFIA3,GRIN1,GRIN2D,LRRTM3,LRRC4B,PTPRS,LRFN2,EPB41,IL1RAPL1,CNTN2,PPFIA4,MDGA1,NTNG1,SYNPR,LPHN1,SLITRK1,CNTNAP4,CADM2,CBLN1,SLITRK3,LRFN5,OLFM3,	0.4	153	0.32568	0
+# Valid cluster:	GAD1,SLC32A1,VAMP2,SNAP25,SRC,SYT1,AKT1,NTRK2,PSEN1,CDH1,CTNNB1,NTS,EGFR,NAPA,BDNF,CRHR2,PDYN,OPRM1,GRM1,ITGB1,ITGB3,OPRK1,SH3GL2,SH3GL3,PENK,PTEN,ERBB4,SLC17A6,CCK,ACTB,CNR1,DRD2,GLRA1,GLRA4,DLG1,GABRA2,GRIN1,SLC18A3,CHRNA1,ARRB1,ADCYAP1,GHRH,ARRB2,CALCA,ADCY8,DRD3,ADRA2C,CHRNA4,CHAT,DRD1,CHRM2,CHRM1,GNRH1,ADRB1,ADRA1A,GNG3,ENSG00000196689,SLC18A2,HRH3,ACHE,ADORA2B,PPP1R1B,SYP,MAP2,COMT,SLC6A4,SLC6A2,GABRR3,CALB2,CALB1,GAP43,MME,	0.4	299	0.34492	0
+# Valid cluster:	RPS18,RPS3,RPS3A,PSMA3,PSMC4,RPL23,RPS9,RPL10A,RPL7,RPS27,RPL38,RPS14,RPL14,RPLP2,RPL6,RPL5,RPS21,RPL8,EEF2,RPS23,RPL30,RPS19,VAMP2,SNAP25,EIF4E,EIF4EBP1,SRC,STX1A,RPS13,MTOR,AKT1,NTF4,NTRK2,GSK3B,PSMC5,PSMC2,RPS6KB1,CTNNB1,CDC42,LIN7A,CASK,LIN7B,ACTN2,WASF3,YWHAG,EIF3B,PAK2,ARF1,DLGAP2,DLGAP1,LIN7C,CTTN,NF1,PDYN,GDI2,RAB8B,HIP1R,PABPC1,RAB5C,MDM2,GABRA1,PTEN,FMR1,SLC17A7,GRIK2,CALM1,RAB5B,ERBB4,NUMB,ACTB,ACTC1,PIP5K1C,DLG1,TUFM,KCND3,SCN2A,CAMK2B,PPFIA3,ADCYAP1,CALM2,EEF1A2,KCNA2,ITPR1,DRD1,CALY,YWHAQ,RELA,KCNJ9,PPP2R2A,ENSG00000196689,KCNJ4,KCNB1,SYP,KCNC2,DBN1,KCNA4,SLC1A2,CALB2,KCNC1,KCNA1,KCNA3,ATP2B3,HPCA,KCNC3,PPP1R9A,KCNA6,	0.4	2448	0.38	0
+# Valid cluster:	STX2,SNAP23,GAD1,SLC32A1,VAMP2,SNAP25,SRC,STX1A,STX4,SYT1,AKT1,NTRK2,PSEN1,RAB5A,CDH1,STX3,NTS,EGFR,NRXN1,NLGN3,BDNF,STAT3,CPLX1,NTF3,NTRK3,LIN7A,CASK,NRXN2,LIN7B,STX1B,DLGAP2,DLGAP3,DLGAP1,SHANK1,VAMP7,CTNNA2,EFNA2,GAD2,PDYN,OPRM1,GRM1,HOMER1,OPRK1,SH3GL2,PENK,GABRG2,GABRA1,SYNJ1,GABRB2,FMR1,UNC13B,SLC17A7,GRIK2,GRIK5,HOMER2,DMD,SLC17A6,GABRA5,SYN1,GRIA2,GRIA4,GRIK3,CCK,LRRTM2,LRRTM1,GABRB3,CNR1,DRD2,BZRAP1,RIMS2,DNM3,PACSIN1,SYN2,GLRA1,GLRA4,DLG1,DLGAP4,GPHN,SYT2,GABRB1,GRIK4,MPP2,SCN2A,GABRA2,CAMK2B,PPFIA3,GRIN1,DNAJC5,GRIN2D,LRRTM3,GRIK1,SLC18A3,GRIA3,ARRB1,LRRC4B,LRFN2,STXBP5,ADCYAP1,ARRB2,CALCA,SYT9,ADCY8,DRD3,EPB41,PTK2B,IL1RAPL1,KCNA2,ADRA2C,CACNG7,NEFL,CHRNA4,CNTN2,SYT7,CHAT,DRD1,CALY,CHRM2,GRM8,CHRM1,KIF5A,SYNGAP1,GNRH1,PPFIA4,KCNJ9,GNG3,PPP2R2A,ENSG00000196689,SLC18A2,GABRG3,SLC8A2,HRH3,ACHE,KCNJ4,SYT10,PPP1R1B,SYT12,SYNPR,SYNGR1,SYP,HTR1B,ERC1,CADM3,MAP2,RAB3C,COMT,SLC6A4,STXBP5L,LPHN1,KCNC2,GABRD,SLC6A1,SV2B,SCRIB,SLC6A2,SLITRK1,GABRR3,NEFH,SLC1A2,ARC,CALB2,ATP2B2,KCNC1,CALB1,CNTNAP4,KCNA1,ATP2B3,HPCA,GAP43,CADM2,CBLN1,SHISA7,MT3,PSD2,SLITRK3,FAIM2,HTR3B,OLFM3,	0.4	1092	0.35956	0
+# Valid cluster:	STX2,SNAP23,GAD1,SLC32A1,VAMP2,SNAP25,EIF4E,EIF4EBP1,CTNND1,SRC,STX1A,YES1,WASF1,ABI2,MTOR,STX4,SYT1,EPHB2,EFNB2,FYN,EFNA5,AKT1,HRAS,SOS1,PDPK1,NTF4,NTRK2,ABI1,PSEN1,EEA1,RAB5A,GSK3B,CDH1,RPS6KB1,RHEB,STX3,AP3B1,CTNNB1,ACTR2,NTS,EGFR,EPHB1,SEC22B,NAPA,NRXN1,NLGN3,EPHA7,BDNF,JAK2,STAT3,CPLX1,NTF3,NTRK3,CDC42,ITSN1,LIN7A,CASK,NRXN2,LIN7B,ACTN2,ACTN1,WASF3,STX10,VAMP4,YWHAG,YWHAH,NAPG,PAK2,EFNB1,STX1B,ARF1,DLGAP2,DLGAP3,DLGAP1,SHANK1,VAMP7,MYO5A,RAB27A,LIN7C,CTTN,CTNNA2,EFNA2,PAK3,SNAPIN,DTNBP1,PAK7,NF1,GAD2,PLCG1,PDYN,OPRM1,GDI2,RAB8B,WNT5A,EFNB3,ILK,GAK,HIP1R,GRM1,HOMER1,ITGB1,ITGB3,FLNA,ARF6,OPRK1,SH3GL2,SH3GL3,PENK,RAB5C,MDM2,GABRG2,GABRA1,SYNJ1,PTEN,RAP1A,RAC1,DNM2,GABRB2,FMR1,RAB11B,UNC13B,SLC17A7,CLTB,PICALM,GRIK2,GRIK5,RAB11A,CALM1,RAB5B,ERBB4,HOMER2,DMD,SLC17A6,NUMB,PRKCI,GABRA5,SYN1,GRIA2,GRIA4,PFN2,STX7,RAPSN,CLTA,CALM3,GRIK3,CCK,VPS45,LRRTM1,ACTB,ACTC1,GABRB3,MYH10,MYH9,CNR1,DRD2,BZRAP1,RIMS2,DNM3,PIP5K1C,PACSIN1,PACSIN2,SYN2,GLRA1,GLRA4,DLG1,DLGAP4,GPHN,SYT2,GABRB1,GRIK4,RAB10,PRKCZ,MPP2,SYT5,SCN2A,GABRA2,HIP1,CAMK2B,DNAJC6,PLD2,PPFIA3,GRIN1,DNAJC5,EXOC3,GRIN2D,SNAP47,GRIK1,SLC18A3,GRIA3,PLD1,CHRNA1,ARRB1,LRRC4B,CRKL,MAPK14,STXBP5,ADCYAP1,SH3KBP1,CALM2,STX11,ARRB2,CALCA,SYT9,ADCY8,DRD3,FCHO2,BCR,EPB41,PTK2B,AAK1,KCNA2,SYT8,ADRA2C,SYNJ2,ITPR1,NEFL,PCLO,CHRNA4,CNTN2,CPLX3,SHC4,SYT7,CHAT,DRD1,CALY,CHRM2,GRM8,CHRM1,KIF5A,YWHAQ,SYNGAP1,GNRH1,PPFIA4,RAB4A,NRP1,RELA,KCNJ9,GNG3,PPP2R2A,ENSG00000196689,SLC18A2,GABRG3,SLC8A2,HRH3,ACHE,KCNJ4,SYT10,PPP1R1B,RAB21,RAB33B,RAB15,SYT12,SYNPR,SYNGR1,SYP,HTR1B,ERC1,RAB27B,RAB3B,SLC2A8,VPS35,MAP2,RAB3C,COMT,SLC6A4,STXBP5L,KCNC2,SYT6,GABRD,SLC6A1,SV2B,STX19,SCRIB,DBN1,SLC6A2,SLITRK1,GABRR3,NEFH,SLC1A2,ARC,CALB2,ATP2B2,KCNC1,CALB1,CNTNAP4,KCNA1,ATP2B3,HPCA,GAP43,ERC2,CBLN1,SHISA7,MT3,PSD2,FAIM2,HTR3B,OLFM3,	0.4	21412	0.38	0
+# dt: 0.415
+# Next dt: 0
+# Num current clusters before delete: 2410
+# Num current clusters: 1012
+# Num valid clusters: 123
+# Largest cluster: 297
+# Num edges in clusterGraph: 54612
+# Num real edges: 10929
+# Num edges inferred: 43683
+# Time elapsed: 14 seconds
+# Adding at end
+# Adding missing edges...checking 1012 clusters
+# Combining 0 pairs of clusters
+# dt: 0
+# Num current clusters: 1012
+# Num valid clusters: 123
+# Largest cluster: 297
+# Num edges in clusterGraph: 54612
+# Num clusters: 123
+# Ontology construction took 14 seconds
+# Ontology is: 
+788	SEPT8	gene	0.866
+788	SEPT1	gene	0.866
+788	SEPT6	gene	0.866
+788	SEPT11	gene	0.866
+789	HNRNPD	gene	0.94
+789	FUS	gene	0.94
+789	HNRNPA3	gene	0.94
+789	HNRNPH2	gene	0.94
+790	COPS5	gene	0.9
+790	COPS4	gene	0.9
+790	FBXO2	gene	0.9
+790	FBXL20	gene	0.9
+791	PSEN1	gene	0.901
+791	RAB5C	gene	0.901
+791	DNAJC5	gene	0.901
+791	ARL8A	gene	0.901
+791	SYNGR1	gene	0.901
+792	ACTN2	gene	0.9
+792	ACTN1	gene	0.9
+792	FGA	gene	0.9
+792	CLU	gene	0.9
+792	SRGN	gene	0.9
+793	FZD5	gene	0.9
+793	WNT5A	gene	0.9
+793	PLCB1	gene	0.9
+793	PLCB3	gene	0.9
+793	GNG3	gene	0.9
+794	RPS27	gene	0.9
+794	CDC42	gene	0.9
+794	PPP1CC	gene	0.9
+794	DYNLL2	gene	0.9
+794	NDEL1	gene	0.9
+795	LGI1	gene	0.902
+795	ADAM22	gene	0.902
+795	ADAM23	gene	0.902
+795	CACNG8	gene	0.902
+795	CACNG4	gene	0.902
+796	YWHAG	gene	0.9
+796	RAB11A	gene	0.9
+796	TUBA1A	gene	0.9
+796	PRKACA	gene	0.9
+796	NPHP4	gene	0.9
+797	AGRN	gene	0.905
+797	GPC1	gene	0.905
+797	GPC4	gene	0.905
+797	CSPG5	gene	0.905
+797	BCAN	gene	0.905
+798	CYFIP2	gene	0.622
+798	CYFIP1	gene	0.622
+798	FMR1	gene	0.622
+798	FXR2	gene	0.622
+798	NUFIP1	gene	0.622
+799	ATP6V0D1	gene	0.476
+799	FXYD6	gene	0.476
+799	ATP1A2	gene	0.476
+799	ATP1A3	gene	0.476
+799	ATP1A1	gene	0.476
+800	CNR1	gene	0.444
+800	DAGLB	gene	0.444
+800	DAGLA	gene	0.444
+800	ABHD6	gene	0.444
+800	NAAA	gene	0.444
+801	PENK	gene	0.9
+801	ADAM10	gene	0.9
+801	C4A	gene	0.9
+801	FGA	gene	0.9
+801	SPARCL1	gene	0.9
+801	WFS1	gene	0.9
+802	SEC22B	gene	0.9
+802	ARF1	gene	0.9
+802	ARFGAP1	gene	0.9
+802	KIF1A	gene	0.9
+802	KIF5A	gene	0.9
+802	TMED9	gene	0.9
+803	NEDD4	gene	0.9
+803	FBXO2	gene	0.9
+803	ZNRF1	gene	0.9
+803	ZNRF2	gene	0.9
+803	RNF19A	gene	0.9
+803	TRIM9	gene	0.9
+803	FBXL20	gene	0.9
+804	NRCAM	gene	0.887
+804	ANK3	gene	0.887
+804	ANK2	gene	0.887
+804	SPTBN1	gene	0.887
+804	SCN2A	gene	0.887
+804	ANK1	gene	0.887
+804	SCN10A	gene	0.887
+805	SRC	gene	0.406
+805	EPHB2	gene	0.406
+805	EGFR	gene	0.406
+805	STAT3	gene	0.406
+805	NTF3	gene	0.406
+805	NTRK3	gene	0.406
+805	PTPRO	gene	0.406
+806	ACTN2	gene	0.4
+806	ACTN1	gene	0.4
+806	ACTB	gene	0.4
+806	GRIN1	gene	0.4
+806	GRIN2D	gene	0.4
+806	PTK2B	gene	0.4
+806	PDLIM5	gene	0.4
+807	NAPA	gene	0.9
+807	NAPG	gene	0.9
+807	ANK3	gene	0.9
+807	ANK2	gene	0.9
+807	SPTBN1	gene	0.9
+807	ANK1	gene	0.9
+807	TMED9	gene	0.9
+808	MTOR	gene	0.4
+808	RPS6KB1	gene	0.4
+808	RHEB	gene	0.4
+808	GAK	gene	0.4
+808	MAF1	gene	0.4
+808	CRKL	gene	0.4
+808	HPCA	gene	0.4
+809	UNC13B	gene	0.4
+809	MYH10	gene	0.4
+809	PRKCZ	gene	0.4
+809	GRIN1	gene	0.4
+809	ATP2B2	gene	0.4
+809	ERC2	gene	0.4
+809	CABP4	gene	0.4
+810	SEC22B	gene	0.4
+810	CASK	gene	0.4
+810	GDI2	gene	0.4
+810	RAB11B	gene	0.4
+810	RAB11A	gene	0.4
+810	TRAPPC4	gene	0.4
+810	RAB33B	gene	0.4
+811	SYT1	gene	0.42
+811	CPLX1	gene	0.42
+811	BCAN	gene	0.42
+811	SYT10	gene	0.42
+811	SYNGR1	gene	0.42
+811	RAB3C	gene	0.42
+811	SVOP	gene	0.42
+812	APH1A	gene	0.4
+812	PSEN1	gene	0.4
+812	CTNNB1	gene	0.4
+812	ERBB4	gene	0.4
+812	ADAM10	gene	0.4
+812	BACE1	gene	0.4
+812	APBB1	gene	0.4
+812	MME	gene	0.4
+813	ARF1	gene	0.9
+813	ARFGAP1	gene	0.9
+813	ANK3	gene	0.9
+813	ANK2	gene	0.9
+813	SPTBN1	gene	0.9
+813	DYNLL2	gene	0.9
+813	ANK1	gene	0.9
+813	TMED9	gene	0.9
+814	MDM2	gene	0.9
+814	GRIA4	gene	0.9
+814	DLG1	gene	0.9
+814	CAMK2B	gene	0.9
+814	AKAP5	gene	0.9
+814	GRIA3	gene	0.9
+814	CACNG8	gene	0.9
+814	CACNG4	gene	0.9
+815	SLC32A1	gene	0.406
+815	GAD2	gene	0.406
+815	GABRG2	gene	0.406
+815	SLC17A7	gene	0.406
+815	SLC17A6	gene	0.406
+815	SYN1	gene	0.406
+815	GABRD	gene	0.406
+815	SLC6A17	gene	0.406
+816	GAD1	gene	0.4
+816	WASF1	gene	0.4
+816	YWHAH	gene	0.4
+816	GABRA1	gene	0.4
+816	GRIA2	gene	0.4
+816	GRIA4	gene	0.4
+816	GRIA3	gene	0.4
+816	USP46	gene	0.4
+817	GAD1	gene	0.908
+817	SLC32A1	gene	0.908
+817	VAMP2	gene	0.908
+817	SNAP25	gene	0.908
+817	STX1A	gene	0.908
+817	SYT1	gene	0.908
+817	CPLX1	gene	0.908
+817	GAD2	gene	0.908
+817	DNAJC5	gene	0.908
+818	SRC	gene	0.9
+818	HRAS	gene	0.9
+818	AP3B1	gene	0.9
+818	ITGB3	gene	0.9
+818	RAP1A	gene	0.9
+818	ARRB1	gene	0.9
+818	ARRB2	gene	0.9
+818	FGA	gene	0.9
+818	CNKSR2	gene	0.9
+819	SNAP23	gene	0.9
+819	SNAP25	gene	0.9
+819	RAP1A	gene	0.9
+819	ADAM10	gene	0.9
+819	DNAJC5	gene	0.9
+819	PLD1	gene	0.9
+819	CHRNB4	gene	0.9
+819	P2RX1	gene	0.9
+819	PGRMC1	gene	0.9
+820	CRHR2	gene	0.9
+820	ADCYAP1	gene	0.9
+820	GHRH	gene	0.9
+820	CALCA	gene	0.9
+820	ADCY8	gene	0.9
+820	DRD1	gene	0.9
+820	ADRB1	gene	0.9
+820	GNG3	gene	0.9
+820	ADORA2B	gene	0.9
+821	AKT1	gene	0.401
+821	HRAS	gene	0.401
+821	CDH1	gene	0.401
+821	EGFR	gene	0.401
+821	STAT3	gene	0.401
+821	MAPK14	gene	0.401
+821	CHRM1	gene	0.401
+821	RELA	gene	0.401
+821	FOSL1	gene	0.401
+822	NTRK2	gene	0.4
+822	NRXN2	gene	0.4
+822	PENK	gene	0.4
+822	CALM1	gene	0.4
+822	GRIA2	gene	0.4
+822	CALM3	gene	0.4
+822	SPARCL1	gene	0.4
+822	SLC6A1	gene	0.4
+822	OLFM3	gene	0.4
+823	AKT1	gene	0.4
+823	ITSN1	gene	0.4
+823	GDI2	gene	0.4
+823	GAK	gene	0.4
+823	SH3GL2	gene	0.4
+823	CLTB	gene	0.4
+823	PICALM	gene	0.4
+823	RAB5B	gene	0.4
+823	DENND1A	gene	0.4
+824	HRAS	gene	0.4
+824	GAK	gene	0.4
+824	CALM1	gene	0.4
+824	SYN1	gene	0.4
+824	CALM3	gene	0.4
+824	SYN2	gene	0.4
+824	SYT2	gene	0.4
+824	DNAJC6	gene	0.4
+824	DCLK1	gene	0.4
+825	NRXN1	gene	0.4
+825	DLGAP1	gene	0.4
+825	GRM1	gene	0.4
+825	LRRTM2	gene	0.4
+825	GRIN1	gene	0.4
+825	GRM8	gene	0.4
+825	CADM2	gene	0.4
+825	CBLN1	gene	0.4
+825	GRID1	gene	0.4
+826	SNAP23	gene	0.4
+826	SNAP25	gene	0.4
+826	ACTN2	gene	0.4
+826	CTNNA2	gene	0.4
+826	DTNBP1	gene	0.4
+826	RAB11A	gene	0.4
+826	DMD	gene	0.4
+826	ACTB	gene	0.4
+826	ACTC1	gene	0.4
+826	DTNA	gene	0.4
+827	SNAP25	gene	0.4
+827	OPRM1	gene	0.4
+827	OPRK1	gene	0.4
+827	MDM2	gene	0.4
+827	DRD2	gene	0.4
+827	DRD1	gene	0.4
+827	CHRM1	gene	0.4
+827	KCNJ9	gene	0.4
+827	SLC6A1	gene	0.4
+827	RGS7BP	gene	0.4
+828	CTNND1	gene	0.4
+828	SRC	gene	0.4
+828	PLCG1	gene	0.4
+828	SH3GL2	gene	0.4
+828	PTEN	gene	0.4
+828	DNM2	gene	0.4
+828	DLG1	gene	0.4
+828	NEFL	gene	0.4
+828	CHRM1	gene	0.4
+828	MTMR2	gene	0.4
+829	GSK3B	gene	0.409
+829	CTNNB1	gene	0.409
+829	WNT3A	gene	0.409
+829	FZD5	gene	0.409
+829	WNT5A	gene	0.409
+829	DVL1	gene	0.409
+829	WNT7A	gene	0.409
+829	GSK3A	gene	0.409
+829	FZD9	gene	0.409
+829	PORCN	gene	0.409
+830	PSEN1	gene	0.4
+830	PDYN	gene	0.4
+830	RAB11A	gene	0.4
+830	SYT2	gene	0.4
+830	GRIK4	gene	0.4
+830	KCNIP3	gene	0.4
+830	GRIN1	gene	0.4
+830	ADRA2C	gene	0.4
+830	KCNC1	gene	0.4
+830	KCNA1	gene	0.4
+831	WASF1	gene	0.906
+831	ABI2	gene	0.906
+831	CYFIP2	gene	0.906
+831	CYFIP1	gene	0.906
+831	ABI1	gene	0.906
+831	ACTR2	gene	0.906
+831	CDC42	gene	0.906
+831	WASF3	gene	0.906
+831	RAC1	gene	0.906
+831	ACTB	gene	0.906
+832	RPL10A	gene	0.4
+832	RPL38	gene	0.4
+832	RPLP2	gene	0.4
+832	RPL6	gene	0.4
+832	RPL8	gene	0.4
+832	RPL30	gene	0.4
+832	EIF4E	gene	0.4
+832	PABPC1	gene	0.4
+832	FMR1	gene	0.4
+832	FXR2	gene	0.4
+833	PLCG1	gene	0.406
+833	PLD2	gene	0.406
+833	PLD1	gene	0.406
+833	PLCB1	gene	0.406
+833	PLCB3	gene	0.406
+833	PLCB4	gene	0.406
+833	DGKQ	gene	0.406
+833	DGKI	gene	0.406
+833	DGKE	gene	0.406
+833	DGKB	gene	0.406
+834	MTOR	gene	0.4
+834	STX10	gene	0.4
+834	ARF1	gene	0.4
+834	FLNA	gene	0.4
+834	ARF6	gene	0.4
+834	GABRB2	gene	0.4
+834	RAB11B	gene	0.4
+834	RAB11A	gene	0.4
+834	GABRB3	gene	0.4
+834	GABRB1	gene	0.4
+834	ARFGEF2	gene	0.4
+835	NRXN1	gene	0.4
+835	NLGN3	gene	0.4
+835	NRXN2	gene	0.4
+835	SHANK1	gene	0.4
+835	SYN1	gene	0.4
+835	SYN2	gene	0.4
+835	PPFIA3	gene	0.4
+835	GRIN1	gene	0.4
+835	IL1RAPL1	gene	0.4
+835	FAIM2	gene	0.4
+835	RIMS3	gene	0.4
+836	RPS3A	gene	0.405
+836	RPS9	gene	0.405
+836	RPS27	gene	0.405
+836	RPL38	gene	0.405
+836	RPS14	gene	0.405
+836	RPL14	gene	0.405
+836	RPS21	gene	0.405
+836	RPL8	gene	0.405
+836	RPS13	gene	0.405
+836	KCNC2	gene	0.405
+836	FRRS1L	gene	0.405
+837	SLC32A1	gene	0.4
+837	MTOR	gene	0.4
+837	AKT1	gene	0.4
+837	RPS6KB1	gene	0.4
+837	RHEB	gene	0.4
+837	SLC17A7	gene	0.4
+837	SLC18A2	gene	0.4
+837	SLC6A4	gene	0.4
+837	SLC6A1	gene	0.4
+837	GABRR3	gene	0.4
+837	SLC1A7	gene	0.4
+838	KCNN2	gene	0.4
+838	CALM1	gene	0.4
+838	KCNA2	gene	0.4
+838	KCNMA1	gene	0.4
+838	KCNJ4	gene	0.4
+838	KCNJ2	gene	0.4
+838	KCNB1	gene	0.4
+838	KCNH1	gene	0.4
+838	KCNA4	gene	0.4
+838	KCNA3	gene	0.4
+838	KCNK1	gene	0.4
+839	SLC32A1	gene	0.4
+839	SLC17A7	gene	0.4
+839	SLC17A6	gene	0.4
+839	DRD2	gene	0.4
+839	SLC18A3	gene	0.4
+839	SLC18A2	gene	0.4
+839	SLC18A1	gene	0.4
+839	COMT	gene	0.4
+839	SLC6A4	gene	0.4
+839	SLC6A2	gene	0.4
+839	HTR3B	gene	0.4
+840	NRXN1	gene	0.904
+840	NLGN3	gene	0.904
+840	NRXN2	gene	0.904
+840	DLGAP2	gene	0.904
+840	DLGAP3	gene	0.904
+840	DLGAP1	gene	0.904
+840	SHANK1	gene	0.904
+840	GRM1	gene	0.904
+840	HOMER1	gene	0.904
+840	HOMER2	gene	0.904
+840	DLGAP4	gene	0.904
+841	AKT1	gene	0.4
+841	CDH1	gene	0.4
+841	CTNNB1	gene	0.4
+841	CDC42	gene	0.4
+841	PAK7	gene	0.4
+841	MDM2	gene	0.4
+841	DNM2	gene	0.4
+841	UNC13B	gene	0.4
+841	CTBP1	gene	0.4
+841	PLD2	gene	0.4
+841	ERC1	gene	0.4
+842	SRC	gene	0.4
+842	NRXN1	gene	0.4
+842	CASK	gene	0.4
+842	LIN7C	gene	0.4
+842	NUMB	gene	0.4
+842	PRKCI	gene	0.4
+842	PRKCZ	gene	0.4
+842	MPP2	gene	0.4
+842	DRD3	gene	0.4
+842	SYNGAP1	gene	0.4
+842	MPDZ	gene	0.4
+843	STX2	gene	0.4
+843	SNAP25	gene	0.4
+843	STX1A	gene	0.4
+843	NTS	gene	0.4
+843	BDNF	gene	0.4
+843	PDYN	gene	0.4
+843	ARF6	gene	0.4
+843	PENK	gene	0.4
+843	CCK	gene	0.4
+843	GNRH1	gene	0.4
+843	CPE	gene	0.4
+844	SNAP25	gene	0.4
+844	YWHAG	gene	0.4
+844	DLGAP1	gene	0.4
+844	GRM1	gene	0.4
+844	HOMER1	gene	0.4
+844	DLG1	gene	0.4
+844	GRIN1	gene	0.4
+844	SYP	gene	0.4
+844	MAP2	gene	0.4
+844	INA	gene	0.4
+844	NEFH	gene	0.4
+844	GAP43	gene	0.4
+845	WASF1	gene	0.4
+845	ACTR2	gene	0.4
+845	CDC42	gene	0.4
+845	ITSN1	gene	0.4
+845	ARF1	gene	0.4
+845	SH3GL2	gene	0.4
+845	RAC1	gene	0.4
+845	PFN2	gene	0.4
+845	ACTB	gene	0.4
+845	GPHN	gene	0.4
+845	FCHO2	gene	0.4
+845	SRGAP2	gene	0.4
+846	CDH1	gene	0.4
+846	CTNNB1	gene	0.4
+846	MYO5A	gene	0.4
+846	RAB27A	gene	0.4
+846	CALM1	gene	0.4
+846	DMD	gene	0.4
+846	EXOC3	gene	0.4
+846	MYO7A	gene	0.4
+846	EPB41	gene	0.4
+846	RAB27B	gene	0.4
+846	CALB2	gene	0.4
+846	ATP2B2	gene	0.4
+846	CALB1	gene	0.4
+847	SNAP25	gene	0.4
+847	SRC	gene	0.4
+847	STX1A	gene	0.4
+847	HRAS	gene	0.4
+847	PSEN1	gene	0.4
+847	NRXN1	gene	0.4
+847	LIN7A	gene	0.4
+847	CASK	gene	0.4
+847	NRXN2	gene	0.4
+847	DLGAP3	gene	0.4
+847	MPP2	gene	0.4
+847	APBA2	gene	0.4
+847	AAK1	gene	0.4
+848	NTS	gene	0.4
+848	GRM1	gene	0.4
+848	CCK	gene	0.4
+848	CNR1	gene	0.4
+848	CHRM1	gene	0.4
+848	GNRH1	gene	0.4
+848	GNG3	gene	0.4
+848	SLC18A2	gene	0.4
+848	HTR2B	gene	0.4
+848	SLC6A4	gene	0.4
+848	SLC6A2	gene	0.4
+848	SLITRK1	gene	0.4
+848	HTR3B	gene	0.4
+849	NLGN3	gene	0.4
+849	CDC42	gene	0.4
+849	EFNB1	gene	0.4
+849	MYO5A	gene	0.4
+849	ILK	gene	0.4
+849	GRM1	gene	0.4
+849	HOMER1	gene	0.4
+849	SH3GL2	gene	0.4
+849	RAC1	gene	0.4
+849	FMR1	gene	0.4
+849	HOMER2	gene	0.4
+849	SH3KBP1	gene	0.4
+849	OPHN1	gene	0.4
+850	MTOR	gene	0.4
+850	CDH1	gene	0.4
+850	CTNNB1	gene	0.4
+850	STAT3	gene	0.4
+850	ACTN2	gene	0.4
+850	DMD	gene	0.4
+850	ACTC1	gene	0.4
+850	DRD2	gene	0.4
+850	NEFL	gene	0.4
+850	CNTN2	gene	0.4
+850	SLC1A2	gene	0.4
+850	CRYAB	gene	0.4
+850	FAIM2	gene	0.4
+851	SNAP25	gene	0.4
+851	CTNNB1	gene	0.4
+851	EGFR	gene	0.4
+851	ACTN1	gene	0.4
+851	YWHAG	gene	0.4
+851	RAB8B	gene	0.4
+851	FLNA	gene	0.4
+851	RAB11A	gene	0.4
+851	CALM1	gene	0.4
+851	TUBA1A	gene	0.4
+851	ACTB	gene	0.4
+851	KIF5A	gene	0.4
+851	MAP2	gene	0.4
+852	GAD1	gene	0.4
+852	MTOR	gene	0.4
+852	CTNNB1	gene	0.4
+852	BDNF	gene	0.4
+852	GAD2	gene	0.4
+852	SLC17A7	gene	0.4
+852	CHAT	gene	0.4
+852	GLUL	gene	0.4
+852	SLC6A1	gene	0.4
+852	GABRR3	gene	0.4
+852	SLC1A2	gene	0.4
+852	CALB2	gene	0.4
+852	CALB1	gene	0.4
+853	RPS3	gene	0.4
+853	PSMA3	gene	0.4
+853	PSMC4	gene	0.4
+853	COPS5	gene	0.4
+853	USP14	gene	0.4
+853	AKT1	gene	0.4
+853	GSK3B	gene	0.4
+853	PSMC5	gene	0.4
+853	PSMC2	gene	0.4
+853	CTNNB1	gene	0.4
+853	EGLN1	gene	0.4
+853	MDM2	gene	0.4
+853	RELA	gene	0.4
+854	FYN	gene	0.4
+854	NTRK2	gene	0.4
+854	PSEN1	gene	0.4
+854	GSK3B	gene	0.4
+854	CTNNB1	gene	0.4
+854	BDNF	gene	0.4
+854	RAC1	gene	0.4
+854	DRD2	gene	0.4
+854	DNAJC5	gene	0.4
+854	NRP1	gene	0.4
+854	CDK5R1	gene	0.4
+854	PPP1R1B	gene	0.4
+854	SYP	gene	0.4
+855	BDNF	gene	0.4
+855	OPRM1	gene	0.4
+855	OPRK1	gene	0.4
+855	ACTB	gene	0.4
+855	GRIK4	gene	0.4
+855	SCN2A	gene	0.4
+855	MAPK14	gene	0.4
+855	CALCA	gene	0.4
+855	KCNA2	gene	0.4
+855	ENSG00000196689	gene	0.4
+855	SCN10A	gene	0.4
+855	HTR1B	gene	0.4
+855	NEFH	gene	0.4
+855	KCNA1	gene	0.4
+856	SNAP25	gene	0.4
+856	STX1A	gene	0.4
+856	SH3GL2	gene	0.4
+856	GABRA1	gene	0.4
+856	GABRA5	gene	0.4
+856	SYN1	gene	0.4
+856	SYN2	gene	0.4
+856	SYNJ2	gene	0.4
+856	SYT7	gene	0.4
+856	KIF5A	gene	0.4
+856	SYT12	gene	0.4
+856	SYP	gene	0.4
+856	SLITRK1	gene	0.4
+856	SNPH	gene	0.4
+857	SNAP25	gene	0.4
+857	NRXN1	gene	0.4
+857	NLGN3	gene	0.4
+857	SLC17A7	gene	0.4
+857	SCN2A	gene	0.4
+857	ITPR1	gene	0.4
+857	CNTN2	gene	0.4
+857	KCNJ9	gene	0.4
+857	ATP1A2	gene	0.4
+857	SLC8A2	gene	0.4
+857	SLC1A2	gene	0.4
+857	ATP2B2	gene	0.4
+857	KCNA1	gene	0.4
+857	ATP2B3	gene	0.4
+858	SYT1	gene	0.4
+858	FYN	gene	0.4
+858	CTNNB1	gene	0.4
+858	NRXN1	gene	0.4
+858	NRXN2	gene	0.4
+858	DLGAP2	gene	0.4
+858	ITGB3	gene	0.4
+858	PTPRZ1	gene	0.4
+858	ERBB4	gene	0.4
+858	MAPK14	gene	0.4
+858	CNTN2	gene	0.4
+858	PPFIA4	gene	0.4
+858	SLITRK1	gene	0.4
+858	GAP43	gene	0.4
+859	SNAP23	gene	0.4
+859	VAMP2	gene	0.4
+859	SNAP25	gene	0.4
+859	STX1A	gene	0.4
+859	STX4	gene	0.4
+859	CPLX1	gene	0.4
+859	RAB27A	gene	0.4
+859	UNC13B	gene	0.4
+859	SNAP47	gene	0.4
+859	RAB27B	gene	0.4
+859	RAB3B	gene	0.4
+859	RAB3C	gene	0.4
+859	STXBP5L	gene	0.4
+859	DOC2B	gene	0.4
+860	SRC	gene	0.9
+860	CDC42	gene	0.9
+860	PAK2	gene	0.9
+860	CTTN	gene	0.9
+860	AGRN	gene	0.9
+860	PAK3	gene	0.9
+860	PAK7	gene	0.9
+860	ITGB1	gene	0.9
+860	RAC1	gene	0.9
+860	DMD	gene	0.9
+860	RAPSN	gene	0.9
+860	LAMA5	gene	0.9
+860	CHRNA1	gene	0.9
+860	CHRM1	gene	0.9
+861	SLC32A1	gene	0.4
+861	NRXN1	gene	0.4
+861	NTF3	gene	0.4
+861	NRXN2	gene	0.4
+861	GABRA1	gene	0.4
+861	CCK	gene	0.4
+861	CHRM1	gene	0.4
+861	KCNJ9	gene	0.4
+861	HRH3	gene	0.4
+861	SYNPR	gene	0.4
+861	GABRD	gene	0.4
+861	SLC6A1	gene	0.4
+861	ATP2B2	gene	0.4
+861	MT3	gene	0.4
+861	CBLN4	gene	0.4
+862	VAMP2	gene	0.4
+862	STX4	gene	0.4
+862	SYT1	gene	0.4
+862	HRAS	gene	0.4
+862	RAB5A	gene	0.4
+862	RHEB	gene	0.4
+862	YWHAH	gene	0.4
+862	GDI2	gene	0.4
+862	RAB5C	gene	0.4
+862	UNC13B	gene	0.4
+862	RAB11A	gene	0.4
+862	RIMS2	gene	0.4
+862	PCLO	gene	0.4
+862	RAB4A	gene	0.4
+862	RABAC1	gene	0.4
+863	NTF4	gene	0.4
+863	NTRK2	gene	0.4
+863	NTSR1	gene	0.4
+863	NTS	gene	0.4
+863	BDNF	gene	0.4
+863	NTF3	gene	0.4
+863	NTRK3	gene	0.4
+863	GRM1	gene	0.4
+863	CCK	gene	0.4
+863	ARRB2	gene	0.4
+863	CALCA	gene	0.4
+863	CHAT	gene	0.4
+863	CHRM1	gene	0.4
+863	GNRH1	gene	0.4
+863	GNG3	gene	0.4
+864	SNAP25	gene	0.4
+864	SYT1	gene	0.4
+864	NRXN1	gene	0.4
+864	NRXN2	gene	0.4
+864	OPRM1	gene	0.4
+864	GABRG2	gene	0.4
+864	GRIA2	gene	0.4
+864	GRIN2D	gene	0.4
+864	KCNJ9	gene	0.4
+864	SYP	gene	0.4
+864	GABRD	gene	0.4
+864	SLC6A1	gene	0.4
+864	SLC1A2	gene	0.4
+864	CNTNAP4	gene	0.4
+864	GPM6A	gene	0.4
+865	SRC	gene	0.401
+865	AKT1	gene	0.401
+865	HRAS	gene	0.401
+865	GSK3B	gene	0.401
+865	CDH1	gene	0.401
+865	CTNNB1	gene	0.401
+865	EGFR	gene	0.401
+865	BDNF	gene	0.401
+865	STAT3	gene	0.401
+865	CDC42	gene	0.401
+865	WNT3A	gene	0.401
+865	WNT5A	gene	0.401
+865	MDM2	gene	0.401
+865	PTEN	gene	0.401
+865	NUMB	gene	0.401
+865	DLG1	gene	0.401
+866	SRC	gene	0.4
+866	HRAS	gene	0.4
+866	ACTR2	gene	0.4
+866	ARF1	gene	0.4
+866	CTTN	gene	0.4
+866	ARF6	gene	0.4
+866	RAC1	gene	0.4
+866	DNM2	gene	0.4
+866	CLTB	gene	0.4
+866	RAB11A	gene	0.4
+866	CLTA	gene	0.4
+866	PACSIN2	gene	0.4
+866	ASAP1	gene	0.4
+866	EXOC3	gene	0.4
+866	SH3KBP1	gene	0.4
+866	PTK2B	gene	0.4
+867	SRC	gene	0.4
+867	YES1	gene	0.4
+867	FYN	gene	0.4
+867	HRAS	gene	0.4
+867	SOS1	gene	0.4
+867	PSEN1	gene	0.4
+867	EGFR	gene	0.4
+867	NRXN1	gene	0.4
+867	JAK2	gene	0.4
+867	DLGAP1	gene	0.4
+867	PLCG1	gene	0.4
+867	PTEN	gene	0.4
+867	NRG3	gene	0.4
+867	ERBB4	gene	0.4
+867	GRIK3	gene	0.4
+867	CRKL	gene	0.4
+868	HRAS	gene	0.4
+868	SEC22B	gene	0.4
+868	ITSN1	gene	0.4
+868	ARF1	gene	0.4
+868	ARFGAP1	gene	0.4
+868	ARF6	gene	0.4
+868	RAC1	gene	0.4
+868	CLTB	gene	0.4
+868	RAB11A	gene	0.4
+868	RAB5B	gene	0.4
+868	CLTA	gene	0.4
+868	PLD2	gene	0.4
+868	PLD1	gene	0.4
+868	FCHO2	gene	0.4
+868	AAK1	gene	0.4
+868	KIF5A	gene	0.4
+869	EEF2	gene	0.4
+869	EIF4E	gene	0.4
+869	EIF4EBP1	gene	0.4
+869	MTOR	gene	0.4
+869	AKT1	gene	0.4
+869	PDPK1	gene	0.4
+869	RPS6KB1	gene	0.4
+869	RHEB	gene	0.4
+869	NLGN3	gene	0.4
+869	BDNF	gene	0.4
+869	EEF2K	gene	0.4
+869	EIF4EBP2	gene	0.4
+869	PTEN	gene	0.4
+869	FMR1	gene	0.4
+869	CALM1	gene	0.4
+869	ACTB	gene	0.4
+869	ARC	gene	0.4
+870	AKT1	gene	0.4
+870	HRAS	gene	0.4
+870	PSEN1	gene	0.4
+870	EGFR	gene	0.4
+870	BDNF	gene	0.4
+870	ACTN2	gene	0.4
+870	ACTN1	gene	0.4
+870	PICALM	gene	0.4
+870	ADCYAP1	gene	0.4
+870	PTK2B	gene	0.4
+870	CHAT	gene	0.4
+870	ACHE	gene	0.4
+870	CLU	gene	0.4
+870	SYP	gene	0.4
+870	MAP2	gene	0.4
+870	CALB2	gene	0.4
+870	CALB1	gene	0.4
+871	MTOR	gene	0.4
+871	AKT1	gene	0.4
+871	RAB5A	gene	0.4
+871	GSK3B	gene	0.4
+871	ITSN1	gene	0.4
+871	CTTN	gene	0.4
+871	GAK	gene	0.4
+871	SH3GL2	gene	0.4
+871	SH3GL3	gene	0.4
+871	SYNJ1	gene	0.4
+871	PTEN	gene	0.4
+871	CLTA	gene	0.4
+871	VPS45	gene	0.4
+871	DNAJC6	gene	0.4
+871	EXOC3	gene	0.4
+871	DNM1L	gene	0.4
+871	VPS35	gene	0.4
+872	NAPA	gene	0.4
+872	NRXN1	gene	0.4
+872	NAPG	gene	0.4
+872	ARF1	gene	0.4
+872	ERBB4	gene	0.4
+872	DMD	gene	0.4
+872	ANK3	gene	0.4
+872	NUMB	gene	0.4
+872	DLG1	gene	0.4
+872	GPHN	gene	0.4
+872	SCN2A	gene	0.4
+872	EPB41	gene	0.4
+872	KCNA2	gene	0.4
+872	ITPR1	gene	0.4
+872	CNTN2	gene	0.4
+872	KCNC1	gene	0.4
+872	KCNA1	gene	0.4
+873	RAB5A	gene	0.905
+873	RAB27A	gene	0.905
+873	RAB8B	gene	0.905
+873	RAB5C	gene	0.905
+873	RAB11B	gene	0.905
+873	RAB11A	gene	0.905
+873	RAB5B	gene	0.905
+873	RAB18	gene	0.905
+873	RAB2B	gene	0.905
+873	RAB10	gene	0.905
+873	RAB4A	gene	0.905
+873	RAB21	gene	0.905
+873	RAB33B	gene	0.905
+873	RAB15	gene	0.905
+873	RAB27B	gene	0.905
+873	RAB3B	gene	0.905
+873	RAB3C	gene	0.905
+874	VAMP2	gene	0.402
+874	SNAP25	gene	0.402
+874	STX1A	gene	0.402
+874	SYT1	gene	0.402
+874	STX3	gene	0.402
+874	NRXN1	gene	0.402
+874	CPLX1	gene	0.402
+874	NRXN2	gene	0.402
+874	LIN7C	gene	0.402
+874	SYN1	gene	0.402
+874	SYN2	gene	0.402
+874	SYT2	gene	0.402
+874	SYT9	gene	0.402
+874	CPLX3	gene	0.402
+874	SYT10	gene	0.402
+874	CPLX4	gene	0.402
+874	SYT6	gene	0.402
+874	KCNA1	gene	0.402
+875	SNAP25	gene	0.4
+875	STX1A	gene	0.4
+875	SYT1	gene	0.4
+875	NRXN1	gene	0.4
+875	CPLX1	gene	0.4
+875	NRXN2	gene	0.4
+875	SYN1	gene	0.4
+875	BZRAP1	gene	0.4
+875	RIMS2	gene	0.4
+875	SYN2	gene	0.4
+875	SYT10	gene	0.4
+875	SYNPR	gene	0.4
+875	SYNGR1	gene	0.4
+875	SYP	gene	0.4
+875	SLC2A8	gene	0.4
+875	RAB3C	gene	0.4
+875	SV2B	gene	0.4
+875	SVOP	gene	0.4
+876	SNAP25	gene	0.4
+876	SYT1	gene	0.4
+876	MYO5A	gene	0.4
+876	GABRG2	gene	0.4
+876	GRIA2	gene	0.4
+876	GRIA4	gene	0.4
+876	PFN2	gene	0.4
+876	MYH10	gene	0.4
+876	PPFIA3	gene	0.4
+876	GRIA3	gene	0.4
+876	NEFL	gene	0.4
+876	KIF5A	gene	0.4
+876	SYP	gene	0.4
+876	KIF5C	gene	0.4
+876	MAP2	gene	0.4
+876	RAB3C	gene	0.4
+876	KCNC1	gene	0.4
+876	GAP43	gene	0.4
+877	AKT1	gene	0.4
+877	EEA1	gene	0.4
+877	RAB5A	gene	0.4
+877	EGFR	gene	0.4
+877	SEC22B	gene	0.4
+877	ARF1	gene	0.4
+877	ITGB1	gene	0.4
+877	MDM2	gene	0.4
+877	RAB11A	gene	0.4
+877	ACTB	gene	0.4
+877	RAB10	gene	0.4
+877	GRIN1	gene	0.4
+877	ITPR1	gene	0.4
+877	ACHE	gene	0.4
+877	SYP	gene	0.4
+877	SLC6A4	gene	0.4
+877	ATP2B3	gene	0.4
+877	CANX	gene	0.4
+878	SRC	gene	0.4
+878	YES1	gene	0.4
+878	EPHB2	gene	0.4
+878	FYN	gene	0.4
+878	AKT1	gene	0.4
+878	NTRK2	gene	0.4
+878	GSK3B	gene	0.4
+878	ACTR2	gene	0.4
+878	EPHB1	gene	0.4
+878	EPHA7	gene	0.4
+878	JAK2	gene	0.4
+878	NTRK3	gene	0.4
+878	SHANK1	gene	0.4
+878	GRM1	gene	0.4
+878	PRKCI	gene	0.4
+878	PFN2	gene	0.4
+878	MYH10	gene	0.4
+878	PRKCZ	gene	0.4
+878	GRID2IP	gene	0.4
+879	GSK3B	gene	0.4
+879	CDH1	gene	0.4
+879	CTNNB1	gene	0.4
+879	EGFR	gene	0.4
+879	LIN7A	gene	0.4
+879	CASK	gene	0.4
+879	LIN7B	gene	0.4
+879	LIN7C	gene	0.4
+879	ERBB4	gene	0.4
+879	PRKCI	gene	0.4
+879	SYN1	gene	0.4
+879	DLG1	gene	0.4
+879	PRKCZ	gene	0.4
+879	MPP2	gene	0.4
+879	CAMK2B	gene	0.4
+879	PPFIA3	gene	0.4
+879	PPFIA4	gene	0.4
+879	KCNJ4	gene	0.4
+879	DLG5	gene	0.4
+880	SRC	gene	0.4
+880	EPHB2	gene	0.4
+880	EFNB2	gene	0.4
+880	FYN	gene	0.4
+880	EFNA5	gene	0.4
+880	AKT1	gene	0.4
+880	HRAS	gene	0.4
+880	NTF4	gene	0.4
+880	NTRK2	gene	0.4
+880	EPHB1	gene	0.4
+880	EPHA7	gene	0.4
+880	BDNF	gene	0.4
+880	NTF3	gene	0.4
+880	EFNB1	gene	0.4
+880	RTN4	gene	0.4
+880	EFNA2	gene	0.4
+880	EFNB3	gene	0.4
+880	SEMA4C	gene	0.4
+880	GAP43	gene	0.4
+881	NLGN3	gene	0.4
+881	BDNF	gene	0.4
+881	NRXN2	gene	0.4
+881	DLGAP1	gene	0.4
+881	SHANK1	gene	0.4
+881	GRIK2	gene	0.4
+881	GABRA5	gene	0.4
+881	GRIA2	gene	0.4
+881	GRIA4	gene	0.4
+881	RIMS2	gene	0.4
+881	GRIP1	gene	0.4
+881	DLG1	gene	0.4
+881	PPFIA3	gene	0.4
+881	GRIN1	gene	0.4
+881	GRIN2D	gene	0.4
+881	GRIK1	gene	0.4
+881	GRIA3	gene	0.4
+881	LRFN1	gene	0.4
+881	KIF5A	gene	0.4
+882	NTSR1	gene	0.9
+882	NTS	gene	0.9
+882	GRM1	gene	0.9
+882	CCK	gene	0.9
+882	NMU	gene	0.9
+882	GHSR	gene	0.9
+882	PLCB1	gene	0.9
+882	CHRM1	gene	0.9
+882	GNRH1	gene	0.9
+882	PLCB3	gene	0.9
+882	PLCB4	gene	0.9
+882	ADRA1A	gene	0.9
+882	GNG3	gene	0.9
+882	NPFF	gene	0.9
+882	HTR2B	gene	0.9
+882	F2R	gene	0.9
+882	P2RY1	gene	0.9
+882	ANXA1	gene	0.9
+882	CHRM5	gene	0.9
+883	PDYN	gene	0.9
+883	OPRM1	gene	0.9
+883	OPRK1	gene	0.9
+883	PENK	gene	0.9
+883	CNR1	gene	0.9
+883	DRD2	gene	0.9
+883	ADCY8	gene	0.9
+883	NMU	gene	0.9
+883	DRD3	gene	0.9
+883	ADRA2C	gene	0.9
+883	CHRM2	gene	0.9
+883	GRM8	gene	0.9
+883	GNG3	gene	0.9
+883	HRH3	gene	0.9
+883	CHRM4	gene	0.9
+883	HTR1B	gene	0.9
+883	GPER1	gene	0.9
+883	ANXA1	gene	0.9
+883	P2RY4	gene	0.9
+884	BDNF	gene	0.4
+884	GRM1	gene	0.4
+884	GRIK2	gene	0.4
+884	GRIK5	gene	0.4
+884	GRIA2	gene	0.4
+884	GRIA4	gene	0.4
+884	GRIK3	gene	0.4
+884	PACSIN1	gene	0.4
+884	DLG1	gene	0.4
+884	GRIK4	gene	0.4
+884	SCN2A	gene	0.4
+884	GRIN1	gene	0.4
+884	GRIK1	gene	0.4
+884	GRIA3	gene	0.4
+884	GRM8	gene	0.4
+884	SHISA9	gene	0.4
+884	SLC1A2	gene	0.4
+884	NETO1	gene	0.4
+884	HTR3B	gene	0.4
+885	CTNND1	gene	0.4
+885	SRC	gene	0.4
+885	WASF1	gene	0.4
+885	ABI2	gene	0.4
+885	ABI1	gene	0.4
+885	CDH1	gene	0.4
+885	AP3B1	gene	0.4
+885	CTNNB1	gene	0.4
+885	CDC42	gene	0.4
+885	ACTN1	gene	0.4
+885	WASF3	gene	0.4
+885	LIN7C	gene	0.4
+885	CTTN	gene	0.4
+885	CTNNA2	gene	0.4
+885	RAC1	gene	0.4
+885	ENAH	gene	0.4
+885	PFN2	gene	0.4
+885	ACTB	gene	0.4
+885	PIP5K1C	gene	0.4
+885	GPHN	gene	0.4
+886	SRC	gene	0.4
+886	AKT1	gene	0.4
+886	HRAS	gene	0.4
+886	NTS	gene	0.4
+886	CTTN	gene	0.4
+886	GRM1	gene	0.4
+886	ITGB3	gene	0.4
+886	DNM2	gene	0.4
+886	CALM1	gene	0.4
+886	CALM3	gene	0.4
+886	CCK	gene	0.4
+886	SLC18A3	gene	0.4
+886	ARRB1	gene	0.4
+886	MAPK14	gene	0.4
+886	ARRB2	gene	0.4
+886	CHRM2	gene	0.4
+886	CHRM1	gene	0.4
+886	GNRH1	gene	0.4
+886	GNG3	gene	0.4
+886	F2R	gene	0.4
+887	VAMP2	gene	0.4
+887	SNAP25	gene	0.4
+887	STX1A	gene	0.4
+887	SYT1	gene	0.4
+887	NTRK3	gene	0.4
+887	VAMP4	gene	0.4
+887	SHANK1	gene	0.4
+887	RAB8B	gene	0.4
+887	BZRAP1	gene	0.4
+887	RIMS2	gene	0.4
+887	SYN2	gene	0.4
+887	SYT2	gene	0.4
+887	SYT9	gene	0.4
+887	SYT8	gene	0.4
+887	SYNJ2	gene	0.4
+887	SYT7	gene	0.4
+887	SYT10	gene	0.4
+887	SYT12	gene	0.4
+887	SYT6	gene	0.4
+887	CALB2	gene	0.4
+887	OTOF	gene	0.4
+888	PSMA3	gene	0.4
+888	PSMC4	gene	0.4
+888	COPS5	gene	0.4
+888	MTOR	gene	0.4
+888	AKT1	gene	0.4
+888	GSK3B	gene	0.4
+888	PSMC5	gene	0.4
+888	PSMC2	gene	0.4
+888	CTNNB1	gene	0.4
+888	STAT3	gene	0.4
+888	CDC42	gene	0.4
+888	PAK2	gene	0.4
+888	NF1	gene	0.4
+888	PLCG1	gene	0.4
+888	DVL1	gene	0.4
+888	MDM2	gene	0.4
+888	PTEN	gene	0.4
+888	NUMB	gene	0.4
+888	ACTB	gene	0.4
+888	PIP5K1C	gene	0.4
+888	RELA	gene	0.4
+889	VAMP2	gene	0.885
+889	RAB5A	gene	0.885
+889	AP3B1	gene	0.885
+889	ACTR2	gene	0.885
+889	NAPA	gene	0.885
+889	ARF1	gene	0.885
+889	VAMP7	gene	0.885
+889	SNAPIN	gene	0.885
+889	DTNBP1	gene	0.885
+889	BLOC1S6	gene	0.885
+889	GAK	gene	0.885
+889	HIP1R	gene	0.885
+889	SH3GL2	gene	0.885
+889	RAB5C	gene	0.885
+889	DNM2	gene	0.885
+889	CLTB	gene	0.885
+889	PICALM	gene	0.885
+889	RAB5B	gene	0.885
+889	CLTA	gene	0.885
+889	DNM3	gene	0.885
+889	DNAJC6	gene	0.885
+889	ARRB1	gene	0.885
+889	AP1S1	gene	0.885
+890	VAMP2	gene	0.4
+890	SNAP25	gene	0.4
+890	STX1A	gene	0.4
+890	SYT1	gene	0.4
+890	VAMP4	gene	0.4
+890	CALM1	gene	0.4
+890	CALM3	gene	0.4
+890	BZRAP1	gene	0.4
+890	RIMS2	gene	0.4
+890	SYN2	gene	0.4
+890	SYT2	gene	0.4
+890	SYT5	gene	0.4
+890	CAMK2B	gene	0.4
+890	CALM2	gene	0.4
+890	CACNA1D	gene	0.4
+890	ITPR1	gene	0.4
+890	GNG3	gene	0.4
+890	PPP2R2A	gene	0.4
+890	CALB2	gene	0.4
+890	ATP2B2	gene	0.4
+890	CALB1	gene	0.4
+890	KCNA1	gene	0.4
+890	ATP2B3	gene	0.4
+891	VAMP2	gene	0.4
+891	EEA1	gene	0.4
+891	VAMP4	gene	0.4
+891	MYO5A	gene	0.4
+891	GDI2	gene	0.4
+891	VPS45	gene	0.4
+891	STX11	gene	0.4
+891	873	default	0.4
+892	SNAP25	gene	0.4
+892	SYT1	gene	0.4
+892	RAB5A	gene	0.4
+892	SEC22B	gene	0.4
+892	ARF1	gene	0.4
+892	MYO5A	gene	0.4
+892	SH3GL2	gene	0.4
+892	UNC13B	gene	0.4
+892	RAB11A	gene	0.4
+892	SYN1	gene	0.4
+892	GRIA2	gene	0.4
+892	GABRB3	gene	0.4
+892	SYT2	gene	0.4
+892	PPFIA3	gene	0.4
+892	NEFL	gene	0.4
+892	CHRNA4	gene	0.4
+892	KIF1A	gene	0.4
+892	KIF5A	gene	0.4
+892	PPFIA4	gene	0.4
+892	SYP	gene	0.4
+892	MAP2	gene	0.4
+892	RAB3C	gene	0.4
+892	KCNC1	gene	0.4
+892	GAP43	gene	0.4
+893	RPS18	gene	0.847
+893	RPS3	gene	0.847
+893	RPS3A	gene	0.847
+893	RPL23	gene	0.847
+893	RPS9	gene	0.847
+893	RPL10A	gene	0.847
+893	RPL7	gene	0.847
+893	RPS27	gene	0.847
+893	RPL38	gene	0.847
+893	RPS14	gene	0.847
+893	RPL14	gene	0.847
+893	RPLP2	gene	0.847
+893	RPL6	gene	0.847
+893	RPL5	gene	0.847
+893	RPS21	gene	0.847
+893	RPL8	gene	0.847
+893	EEF2	gene	0.847
+893	RPS23	gene	0.847
+893	RPL30	gene	0.847
+893	RPS19	gene	0.847
+893	EIF4E	gene	0.847
+893	RPS13	gene	0.847
+893	EIF3B	gene	0.847
+893	PABPC1	gene	0.847
+893	PPP2R2A	gene	0.847
+894	GAD1	gene	0.4
+894	SNAP25	gene	0.4
+894	FYN	gene	0.4
+894	NTRK2	gene	0.4
+894	NRXN1	gene	0.4
+894	BDNF	gene	0.4
+894	JAK2	gene	0.4
+894	DTNBP1	gene	0.4
+894	SLC17A7	gene	0.4
+894	SLC17A6	gene	0.4
+894	GABRA5	gene	0.4
+894	DRD2	gene	0.4
+894	SCN2A	gene	0.4
+894	DNAJC5	gene	0.4
+894	CHRNA1	gene	0.4
+894	STXBP5	gene	0.4
+894	DRD3	gene	0.4
+894	CHRNA4	gene	0.4
+894	CHRNB4	gene	0.4
+894	CHRNA2	gene	0.4
+894	CHAT	gene	0.4
+894	CHRM2	gene	0.4
+894	CHRM1	gene	0.4
+894	SLC18A2	gene	0.4
+894	ACHE	gene	0.4
+894	CHRNA7	gene	0.4
+894	SYP	gene	0.4
+894	HTR1B	gene	0.4
+894	COMT	gene	0.4
+894	SLC6A4	gene	0.4
+894	SLC1A2	gene	0.4
+895	SRC	gene	0.4
+895	MTOR	gene	0.4
+895	AKT1	gene	0.4
+895	NTS	gene	0.4
+895	EGFR	gene	0.4
+895	SEC22B	gene	0.4
+895	PDYN	gene	0.4
+895	OPRM1	gene	0.4
+895	EFNB3	gene	0.4
+895	GRM1	gene	0.4
+895	OPRK1	gene	0.4
+895	PENK	gene	0.4
+895	CALM1	gene	0.4
+895	CCK	gene	0.4
+895	ACTB	gene	0.4
+895	CNR1	gene	0.4
+895	DRD2	gene	0.4
+895	MAPK14	gene	0.4
+895	ADCY8	gene	0.4
+895	DRD3	gene	0.4
+895	ADRA2C	gene	0.4
+895	CHRM2	gene	0.4
+895	GRM8	gene	0.4
+895	CHRM1	gene	0.4
+895	GNRH1	gene	0.4
+895	GNG3	gene	0.4
+895	HRH3	gene	0.4
+895	HTR1B	gene	0.4
+895	GPER1	gene	0.4
+895	ANXA1	gene	0.4
+895	SLC1A2	gene	0.4
+896	SNAP23	gene	0.4
+896	SNAP25	gene	0.4
+896	CTNND1	gene	0.4
+896	SRC	gene	0.4
+896	EPHB2	gene	0.4
+896	EFNB2	gene	0.4
+896	EFNA5	gene	0.4
+896	AKT1	gene	0.4
+896	NTF4	gene	0.4
+896	NTRK2	gene	0.4
+896	PSEN1	gene	0.4
+896	GSK3B	gene	0.4
+896	CDH1	gene	0.4
+896	CTNNB1	gene	0.4
+896	EGFR	gene	0.4
+896	EPHB1	gene	0.4
+896	EPHA7	gene	0.4
+896	BDNF	gene	0.4
+896	NTF3	gene	0.4
+896	NTRK3	gene	0.4
+896	EFNB1	gene	0.4
+896	EFNA2	gene	0.4
+896	FLNA	gene	0.4
+896	PENK	gene	0.4
+896	RAP1A	gene	0.4
+896	ERBB4	gene	0.4
+896	NUMB	gene	0.4
+896	DLG1	gene	0.4
+896	ADAM10	gene	0.4
+896	PRKCZ	gene	0.4
+896	GRIN1	gene	0.4
+896	DNAJC5	gene	0.4
+896	PLD1	gene	0.4
+897	VAMP2	gene	0.4
+897	SYT1	gene	0.4
+897	AKT1	gene	0.4
+897	HRAS	gene	0.4
+897	BDNF	gene	0.4
+897	NTF3	gene	0.4
+897	ACTN2	gene	0.4
+897	DLGAP2	gene	0.4
+897	FMR1	gene	0.4
+897	CALM1	gene	0.4
+897	DMD	gene	0.4
+897	SYN1	gene	0.4
+897	GRIA2	gene	0.4
+897	GRIA4	gene	0.4
+897	CALM3	gene	0.4
+897	DRD2	gene	0.4
+897	DLG1	gene	0.4
+897	NOS1	gene	0.4
+897	CAMK2B	gene	0.4
+897	GRIN1	gene	0.4
+897	GRIN2D	gene	0.4
+897	SLC18A3	gene	0.4
+897	GRIA3	gene	0.4
+897	CALM2	gene	0.4
+897	CALCA	gene	0.4
+897	ITPR1	gene	0.4
+897	NEFL	gene	0.4
+897	CHAT	gene	0.4
+897	SYNGAP1	gene	0.4
+897	GNRH1	gene	0.4
+897	HTR1B	gene	0.4
+897	CALB2	gene	0.4
+897	CALB1	gene	0.4
+898	GAD1	gene	0.4
+898	SLC32A1	gene	0.4
+898	NTRK2	gene	0.4
+898	NRXN1	gene	0.4
+898	BDNF	gene	0.4
+898	NTRK3	gene	0.4
+898	GAD2	gene	0.4
+898	GABRG2	gene	0.4
+898	GABRA1	gene	0.4
+898	GABRB2	gene	0.4
+898	GABRA5	gene	0.4
+898	SYN1	gene	0.4
+898	GRIA2	gene	0.4
+898	GABRB3	gene	0.4
+898	DRD2	gene	0.4
+898	GLRA1	gene	0.4
+898	GLRA4	gene	0.4
+898	GPHN	gene	0.4
+898	GABRB1	gene	0.4
+898	GABRA2	gene	0.4
+898	GRIN1	gene	0.4
+898	SLC18A3	gene	0.4
+898	DRD1	gene	0.4
+898	KIF5A	gene	0.4
+898	GABRG3	gene	0.4
+898	HAP1	gene	0.4
+898	GABRD	gene	0.4
+898	SLC6A1	gene	0.4
+898	GABRR1	gene	0.4
+898	GABRR2	gene	0.4
+898	GABRR3	gene	0.4
+898	GABRE	gene	0.4
+898	GABRP	gene	0.4
+898	TTYH1	gene	0.4
+899	SNAP25	gene	0.4
+899	EIF4EBP1	gene	0.4
+899	MTOR	gene	0.4
+899	AKT1	gene	0.4
+899	NTRK2	gene	0.4
+899	PSEN1	gene	0.4
+899	RAB5A	gene	0.4
+899	RPS6KB1	gene	0.4
+899	RHEB	gene	0.4
+899	CTNNB1	gene	0.4
+899	EGFR	gene	0.4
+899	BDNF	gene	0.4
+899	PAK2	gene	0.4
+899	HIP1R	gene	0.4
+899	GRM1	gene	0.4
+899	SH3GL2	gene	0.4
+899	SH3GL3	gene	0.4
+899	MDM2	gene	0.4
+899	FMR1	gene	0.4
+899	CLTB	gene	0.4
+899	RAB11A	gene	0.4
+899	PFN2	gene	0.4
+899	CLTA	gene	0.4
+899	CNR1	gene	0.4
+899	DRD2	gene	0.4
+899	PACSIN1	gene	0.4
+899	HIP1	gene	0.4
+899	GRIN1	gene	0.4
+899	DNAJC5	gene	0.4
+899	HTT	gene	0.4
+899	ITPR1	gene	0.4
+899	DRD1	gene	0.4
+899	KIF5A	gene	0.4
+899	PPP1R1B	gene	0.4
+899	SYP	gene	0.4
+899	SLC1A2	gene	0.4
+899	CALB2	gene	0.4
+900	VAMP2	gene	0.9
+900	SYT1	gene	0.9
+900	RAB5A	gene	0.9
+900	ACTR2	gene	0.9
+900	EGFR	gene	0.9
+900	ITSN1	gene	0.9
+900	VAMP4	gene	0.9
+900	VAMP7	gene	0.9
+900	CTTN	gene	0.9
+900	WNT5A	gene	0.9
+900	GAK	gene	0.9
+900	HIP1R	gene	0.9
+900	SH3GL2	gene	0.9
+900	SH3GL3	gene	0.9
+900	RAB5C	gene	0.9
+900	SYNJ1	gene	0.9
+900	DNM2	gene	0.9
+900	CLTB	gene	0.9
+900	PICALM	gene	0.9
+900	RAB5B	gene	0.9
+900	CLTA	gene	0.9
+900	DNM3	gene	0.9
+900	PACSIN1	gene	0.9
+900	PACSIN2	gene	0.9
+900	SYT2	gene	0.9
+900	HIP1	gene	0.9
+900	DNAJC6	gene	0.9
+900	SLC18A3	gene	0.9
+900	ARRB1	gene	0.9
+900	SH3KBP1	gene	0.9
+900	ARRB2	gene	0.9
+900	SYT9	gene	0.9
+900	FCHO2	gene	0.9
+900	AAK1	gene	0.9
+900	SYT8	gene	0.9
+900	SYNJ2	gene	0.9
+900	CHRM2	gene	0.9
+900	SLC2A8	gene	0.9
+901	SNAP25	gene	0.4
+901	BDNF	gene	0.4
+901	SHANK1	gene	0.4
+901	GRM1	gene	0.4
+901	GRIK2	gene	0.4
+901	GRIK5	gene	0.4
+901	GRIA2	gene	0.4
+901	GRIA4	gene	0.4
+901	GRIK3	gene	0.4
+901	PACSIN1	gene	0.4
+901	GLRA1	gene	0.4
+901	GLRA4	gene	0.4
+901	DLG1	gene	0.4
+901	GRIK4	gene	0.4
+901	MPP2	gene	0.4
+901	SCN2A	gene	0.4
+901	CAMK2B	gene	0.4
+901	GRIN1	gene	0.4
+901	GRIN2D	gene	0.4
+901	GRIK1	gene	0.4
+901	GRIA3	gene	0.4
+901	PTK2B	gene	0.4
+901	CACNG7	gene	0.4
+901	CACNG8	gene	0.4
+901	CHRNA4	gene	0.4
+901	CACNG4	gene	0.4
+901	GRM8	gene	0.4
+901	KCNJ9	gene	0.4
+901	GRIN3B	gene	0.4
+901	SHISA9	gene	0.4
+901	SLC1A2	gene	0.4
+901	ATP2B3	gene	0.4
+901	SHISA6	gene	0.4
+901	VWC2	gene	0.4
+901	CBLN1	gene	0.4
+901	SHISA7	gene	0.4
+901	HTR3B	gene	0.4
+901	SHISA8	gene	0.4
+901	OLFM3	gene	0.4
+902	SNAP25	gene	0.4
+902	SRC	gene	0.4
+902	WASF1	gene	0.4
+902	FYN	gene	0.4
+902	HRAS	gene	0.4
+902	SOS1	gene	0.4
+902	PDPK1	gene	0.4
+902	PSEN1	gene	0.4
+902	GSK3B	gene	0.4
+902	RPS6KB1	gene	0.4
+902	CTNNB1	gene	0.4
+902	JAK2	gene	0.4
+902	YWHAG	gene	0.4
+902	YWHAH	gene	0.4
+902	NF1	gene	0.4
+902	ITGB1	gene	0.4
+902	RAP1A	gene	0.4
+902	RAC1	gene	0.4
+902	RAB11B	gene	0.4
+902	RAB11A	gene	0.4
+902	CALM1	gene	0.4
+902	SYN1	gene	0.4
+902	GRIA2	gene	0.4
+902	GRIA4	gene	0.4
+902	GRIN1	gene	0.4
+902	DNAJC5	gene	0.4
+902	GRIN2D	gene	0.4
+902	GRIA3	gene	0.4
+902	ADCY8	gene	0.4
+902	ITPR1	gene	0.4
+902	PRKACA	gene	0.4
+902	RELA	gene	0.4
+902	KCNJ9	gene	0.4
+902	GNG3	gene	0.4
+902	PPP1R1B	gene	0.4
+902	MAP2	gene	0.4
+902	KCNC2	gene	0.4
+902	ATP2B2	gene	0.4
+902	ATP2B3	gene	0.4
+903	YES1	gene	0.4
+903	FYN	gene	0.4
+903	AKT1	gene	0.4
+903	NTRK2	gene	0.4
+903	EGFR	gene	0.4
+903	NTRK3	gene	0.4
+903	ACTN1	gene	0.4
+903	ITGA8	gene	0.4
+903	ITGB3	gene	0.4
+903	FLNA	gene	0.4
+903	ARF6	gene	0.4
+903	ITGA3	gene	0.4
+903	ERBB4	gene	0.4
+903	ITGA2	gene	0.4
+903	ACTB	gene	0.4
+903	MYH9	gene	0.4
+903	SYT2	gene	0.4
+903	DNAJC6	gene	0.4
+903	LRP8	gene	0.4
+903	GRIN1	gene	0.4
+903	CRKL	gene	0.4
+903	MAPK14	gene	0.4
+903	PTK2B	gene	0.4
+903	YWHAQ	gene	0.4
+903	TNR	gene	0.4
+903	COL4A5	gene	0.4
+903	TNN	gene	0.4
+903	SLC6A1	gene	0.4
+903	SV2B	gene	0.4
+903	CBLN1	gene	0.4
+903	860	default	0.4
+904	MTOR	gene	0.4
+904	GSK3B	gene	0.4
+904	NTS	gene	0.4
+904	EGFR	gene	0.4
+904	BDNF	gene	0.4
+904	YWHAG	gene	0.4
+904	YWHAH	gene	0.4
+904	DTNBP1	gene	0.4
+904	PLCG1	gene	0.4
+904	WNT5A	gene	0.4
+904	GRM1	gene	0.4
+904	SYNJ1	gene	0.4
+904	PTEN	gene	0.4
+904	GABRB2	gene	0.4
+904	PICALM	gene	0.4
+904	CALM1	gene	0.4
+904	ERBB4	gene	0.4
+904	GRIA2	gene	0.4
+904	CALM3	gene	0.4
+904	GRIK3	gene	0.4
+904	CCK	gene	0.4
+904	PIP5K1C	gene	0.4
+904	CAMK2B	gene	0.4
+904	PLD2	gene	0.4
+904	GRIN1	gene	0.4
+904	PLD1	gene	0.4
+904	CHRNA1	gene	0.4
+904	MAPK14	gene	0.4
+904	CALM2	gene	0.4
+904	SYNJ2	gene	0.4
+904	ITPR1	gene	0.4
+904	PLCB1	gene	0.4
+904	CHRM1	gene	0.4
+904	YWHAQ	gene	0.4
+904	GNRH1	gene	0.4
+904	PLCB3	gene	0.4
+904	PLCB4	gene	0.4
+904	GNG3	gene	0.4
+904	PPP1R1B	gene	0.4
+904	PPP3CC	gene	0.4
+904	ITPKA	gene	0.4
+904	COMT	gene	0.4
+904	CALB2	gene	0.4
+904	CALB1	gene	0.4
+904	HPCA	gene	0.4
+905	EIF4E	gene	0.4
+905	SRC	gene	0.4
+905	STX1A	gene	0.4
+905	WASF1	gene	0.4
+905	NTRK2	gene	0.4
+905	LIN7A	gene	0.4
+905	CASK	gene	0.4
+905	ACTN2	gene	0.4
+905	DLGAP2	gene	0.4
+905	DLGAP1	gene	0.4
+905	LIN7C	gene	0.4
+905	CTTN	gene	0.4
+905	GABRA1	gene	0.4
+905	FMR1	gene	0.4
+905	KCNN2	gene	0.4
+905	CALM1	gene	0.4
+905	GRIA4	gene	0.4
+905	CALM3	gene	0.4
+905	DLG1	gene	0.4
+905	KCND3	gene	0.4
+905	SCN2A	gene	0.4
+905	CAMK2B	gene	0.4
+905	AKAP5	gene	0.4
+905	GRIA3	gene	0.4
+905	CALM2	gene	0.4
+905	ADCY8	gene	0.4
+905	KCNA2	gene	0.4
+905	ITPR1	gene	0.4
+905	DRD1	gene	0.4
+905	CALY	gene	0.4
+905	KCNJ9	gene	0.4
+905	PPP2R2A	gene	0.4
+905	ENSG00000196689	gene	0.4
+905	KCNJ4	gene	0.4
+905	KCNB1	gene	0.4
+905	SYP	gene	0.4
+905	KCNC2	gene	0.4
+905	SYT6	gene	0.4
+905	KCNH1	gene	0.4
+905	KCNA4	gene	0.4
+905	SLC1A2	gene	0.4
+905	CALB2	gene	0.4
+905	KCNC1	gene	0.4
+905	KCNA1	gene	0.4
+905	KCNA3	gene	0.4
+905	HPCA	gene	0.4
+905	KCNK1	gene	0.4
+906	SLC32A1	gene	0.4
+906	SNAP25	gene	0.4
+906	SRC	gene	0.4
+906	NTRK2	gene	0.4
+906	CDH1	gene	0.4
+906	EGFR	gene	0.4
+906	BDNF	gene	0.4
+906	STAT3	gene	0.4
+906	NTF3	gene	0.4
+906	NTRK3	gene	0.4
+906	CASK	gene	0.4
+906	CTNNA2	gene	0.4
+906	EFNA2	gene	0.4
+906	SLC17A7	gene	0.4
+906	GRIK5	gene	0.4
+906	SYN1	gene	0.4
+906	GRIA2	gene	0.4
+906	LRRTM2	gene	0.4
+906	LRRTM1	gene	0.4
+906	DLG1	gene	0.4
+906	GPHN	gene	0.4
+906	MPP2	gene	0.4
+906	PPFIA3	gene	0.4
+906	GRIN1	gene	0.4
+906	GRIN2D	gene	0.4
+906	LRRTM3	gene	0.4
+906	LRRC4B	gene	0.4
+906	PTPRS	gene	0.4
+906	LRFN2	gene	0.4
+906	EPB41	gene	0.4
+906	IL1RAPL1	gene	0.4
+906	CNTN2	gene	0.4
+906	PPFIA4	gene	0.4
+906	MDGA1	gene	0.4
+906	NTNG1	gene	0.4
+906	SYNPR	gene	0.4
+906	LPHN1	gene	0.4
+906	SLITRK1	gene	0.4
+906	CNTNAP4	gene	0.4
+906	CADM2	gene	0.4
+906	CBLN1	gene	0.4
+906	SLITRK3	gene	0.4
+906	LRFN5	gene	0.4
+906	OLFM3	gene	0.4
+906	840	default	0.4
+907	GAD1	gene	0.4
+907	SLC32A1	gene	0.4
+907	VAMP2	gene	0.4
+907	SNAP25	gene	0.4
+907	SRC	gene	0.4
+907	SYT1	gene	0.4
+907	AKT1	gene	0.4
+907	NTRK2	gene	0.4
+907	PSEN1	gene	0.4
+907	CDH1	gene	0.4
+907	CTNNB1	gene	0.4
+907	NTS	gene	0.4
+907	EGFR	gene	0.4
+907	NAPA	gene	0.4
+907	BDNF	gene	0.4
+907	PDYN	gene	0.4
+907	OPRM1	gene	0.4
+907	GRM1	gene	0.4
+907	ITGB1	gene	0.4
+907	ITGB3	gene	0.4
+907	OPRK1	gene	0.4
+907	SH3GL2	gene	0.4
+907	SH3GL3	gene	0.4
+907	PENK	gene	0.4
+907	PTEN	gene	0.4
+907	ERBB4	gene	0.4
+907	SLC17A6	gene	0.4
+907	CCK	gene	0.4
+907	ACTB	gene	0.4
+907	CNR1	gene	0.4
+907	DRD2	gene	0.4
+907	GLRA1	gene	0.4
+907	GLRA4	gene	0.4
+907	DLG1	gene	0.4
+907	GABRA2	gene	0.4
+907	GRIN1	gene	0.4
+907	SLC18A3	gene	0.4
+907	CHRNA1	gene	0.4
+907	ARRB1	gene	0.4
+907	ARRB2	gene	0.4
+907	DRD3	gene	0.4
+907	ADRA2C	gene	0.4
+907	CHRNA4	gene	0.4
+907	CHAT	gene	0.4
+907	CHRM2	gene	0.4
+907	CHRM1	gene	0.4
+907	GNRH1	gene	0.4
+907	ADRA1A	gene	0.4
+907	ENSG00000196689	gene	0.4
+907	SLC18A2	gene	0.4
+907	HRH3	gene	0.4
+907	ACHE	gene	0.4
+907	PPP1R1B	gene	0.4
+907	SYP	gene	0.4
+907	MAP2	gene	0.4
+907	COMT	gene	0.4
+907	SLC6A4	gene	0.4
+907	SLC6A2	gene	0.4
+907	GABRR3	gene	0.4
+907	CALB2	gene	0.4
+907	CALB1	gene	0.4
+907	GAP43	gene	0.4
+907	MME	gene	0.4
+907	820	default	0.4
+908	PSMA3	gene	0.4
+908	PSMC4	gene	0.4
+908	VAMP2	gene	0.4
+908	SNAP25	gene	0.4
+908	EIF4EBP1	gene	0.4
+908	SRC	gene	0.4
+908	STX1A	gene	0.4
+908	MTOR	gene	0.4
+908	AKT1	gene	0.4
+908	NTF4	gene	0.4
+908	NTRK2	gene	0.4
+908	GSK3B	gene	0.4
+908	PSMC5	gene	0.4
+908	PSMC2	gene	0.4
+908	RPS6KB1	gene	0.4
+908	CTNNB1	gene	0.4
+908	CDC42	gene	0.4
+908	LIN7A	gene	0.4
+908	CASK	gene	0.4
+908	LIN7B	gene	0.4
+908	ACTN2	gene	0.4
+908	WASF3	gene	0.4
+908	YWHAG	gene	0.4
+908	PAK2	gene	0.4
+908	ARF1	gene	0.4
+908	DLGAP2	gene	0.4
+908	DLGAP1	gene	0.4
+908	LIN7C	gene	0.4
+908	CTTN	gene	0.4
+908	NF1	gene	0.4
+908	PDYN	gene	0.4
+908	GDI2	gene	0.4
+908	RAB8B	gene	0.4
+908	HIP1R	gene	0.4
+908	RAB5C	gene	0.4
+908	MDM2	gene	0.4
+908	GABRA1	gene	0.4
+908	PTEN	gene	0.4
+908	FMR1	gene	0.4
+908	SLC17A7	gene	0.4
+908	GRIK2	gene	0.4
+908	CALM1	gene	0.4
+908	RAB5B	gene	0.4
+908	ERBB4	gene	0.4
+908	NUMB	gene	0.4
+908	ACTB	gene	0.4
+908	ACTC1	gene	0.4
+908	PIP5K1C	gene	0.4
+908	DLG1	gene	0.4
+908	TUFM	gene	0.4
+908	KCND3	gene	0.4
+908	SCN2A	gene	0.4
+908	CAMK2B	gene	0.4
+908	PPFIA3	gene	0.4
+908	ADCYAP1	gene	0.4
+908	CALM2	gene	0.4
+908	EEF1A2	gene	0.4
+908	KCNA2	gene	0.4
+908	ITPR1	gene	0.4
+908	DRD1	gene	0.4
+908	CALY	gene	0.4
+908	YWHAQ	gene	0.4
+908	RELA	gene	0.4
+908	KCNJ9	gene	0.4
+908	ENSG00000196689	gene	0.4
+908	KCNJ4	gene	0.4
+908	KCNB1	gene	0.4
+908	SYP	gene	0.4
+908	KCNC2	gene	0.4
+908	DBN1	gene	0.4
+908	KCNA4	gene	0.4
+908	SLC1A2	gene	0.4
+908	CALB2	gene	0.4
+908	KCNC1	gene	0.4
+908	KCNA1	gene	0.4
+908	KCNA3	gene	0.4
+908	ATP2B3	gene	0.4
+908	HPCA	gene	0.4
+908	KCNC3	gene	0.4
+908	PPP1R9A	gene	0.4
+908	KCNA6	gene	0.4
+908	893	default	0.4
+909	STX2	gene	0.4
+909	SNAP23	gene	0.4
+909	SRC	gene	0.4
+909	STX4	gene	0.4
+909	AKT1	gene	0.4
+909	NTRK2	gene	0.4
+909	PSEN1	gene	0.4
+909	RAB5A	gene	0.4
+909	CDH1	gene	0.4
+909	STX3	gene	0.4
+909	NTS	gene	0.4
+909	EGFR	gene	0.4
+909	BDNF	gene	0.4
+909	STAT3	gene	0.4
+909	NTF3	gene	0.4
+909	NTRK3	gene	0.4
+909	LIN7A	gene	0.4
+909	CASK	gene	0.4
+909	LIN7B	gene	0.4
+909	STX1B	gene	0.4
+909	VAMP7	gene	0.4
+909	CTNNA2	gene	0.4
+909	EFNA2	gene	0.4
+909	PDYN	gene	0.4
+909	OPRM1	gene	0.4
+909	OPRK1	gene	0.4
+909	SH3GL2	gene	0.4
+909	PENK	gene	0.4
+909	GABRG2	gene	0.4
+909	GABRA1	gene	0.4
+909	SYNJ1	gene	0.4
+909	GABRB2	gene	0.4
+909	FMR1	gene	0.4
+909	UNC13B	gene	0.4
+909	SLC17A7	gene	0.4
+909	GRIK2	gene	0.4
+909	GRIK5	gene	0.4
+909	DMD	gene	0.4
+909	SLC17A6	gene	0.4
+909	GABRA5	gene	0.4
+909	SYN1	gene	0.4
+909	GRIA2	gene	0.4
+909	GRIA4	gene	0.4
+909	GRIK3	gene	0.4
+909	CCK	gene	0.4
+909	LRRTM2	gene	0.4
+909	LRRTM1	gene	0.4
+909	GABRB3	gene	0.4
+909	CNR1	gene	0.4
+909	DRD2	gene	0.4
+909	BZRAP1	gene	0.4
+909	RIMS2	gene	0.4
+909	DNM3	gene	0.4
+909	PACSIN1	gene	0.4
+909	SYN2	gene	0.4
+909	GLRA1	gene	0.4
+909	GLRA4	gene	0.4
+909	DLG1	gene	0.4
+909	GPHN	gene	0.4
+909	SYT2	gene	0.4
+909	GABRB1	gene	0.4
+909	GRIK4	gene	0.4
+909	MPP2	gene	0.4
+909	SCN2A	gene	0.4
+909	GABRA2	gene	0.4
+909	CAMK2B	gene	0.4
+909	PPFIA3	gene	0.4
+909	GRIN1	gene	0.4
+909	GRIN2D	gene	0.4
+909	LRRTM3	gene	0.4
+909	GRIK1	gene	0.4
+909	SLC18A3	gene	0.4
+909	GRIA3	gene	0.4
+909	ARRB1	gene	0.4
+909	LRRC4B	gene	0.4
+909	LRFN2	gene	0.4
+909	STXBP5	gene	0.4
+909	ADCYAP1	gene	0.4
+909	ARRB2	gene	0.4
+909	CALCA	gene	0.4
+909	SYT9	gene	0.4
+909	ADCY8	gene	0.4
+909	DRD3	gene	0.4
+909	EPB41	gene	0.4
+909	PTK2B	gene	0.4
+909	IL1RAPL1	gene	0.4
+909	KCNA2	gene	0.4
+909	ADRA2C	gene	0.4
+909	CACNG7	gene	0.4
+909	NEFL	gene	0.4
+909	CHRNA4	gene	0.4
+909	CNTN2	gene	0.4
+909	SYT7	gene	0.4
+909	CHAT	gene	0.4
+909	DRD1	gene	0.4
+909	CALY	gene	0.4
+909	CHRM2	gene	0.4
+909	GRM8	gene	0.4
+909	CHRM1	gene	0.4
+909	KIF5A	gene	0.4
+909	SYNGAP1	gene	0.4
+909	GNRH1	gene	0.4
+909	PPFIA4	gene	0.4
+909	KCNJ9	gene	0.4
+909	GNG3	gene	0.4
+909	PPP2R2A	gene	0.4
+909	ENSG00000196689	gene	0.4
+909	SLC18A2	gene	0.4
+909	GABRG3	gene	0.4
+909	SLC8A2	gene	0.4
+909	HRH3	gene	0.4
+909	ACHE	gene	0.4
+909	KCNJ4	gene	0.4
+909	SYT10	gene	0.4
+909	PPP1R1B	gene	0.4
+909	SYT12	gene	0.4
+909	SYNPR	gene	0.4
+909	SYNGR1	gene	0.4
+909	SYP	gene	0.4
+909	HTR1B	gene	0.4
+909	ERC1	gene	0.4
+909	CADM3	gene	0.4
+909	MAP2	gene	0.4
+909	RAB3C	gene	0.4
+909	COMT	gene	0.4
+909	SLC6A4	gene	0.4
+909	STXBP5L	gene	0.4
+909	LPHN1	gene	0.4
+909	KCNC2	gene	0.4
+909	GABRD	gene	0.4
+909	SLC6A1	gene	0.4
+909	SV2B	gene	0.4
+909	SCRIB	gene	0.4
+909	SLC6A2	gene	0.4
+909	SLITRK1	gene	0.4
+909	GABRR3	gene	0.4
+909	NEFH	gene	0.4
+909	SLC1A2	gene	0.4
+909	ARC	gene	0.4
+909	CALB2	gene	0.4
+909	ATP2B2	gene	0.4
+909	KCNC1	gene	0.4
+909	CALB1	gene	0.4
+909	CNTNAP4	gene	0.4
+909	KCNA1	gene	0.4
+909	ATP2B3	gene	0.4
+909	HPCA	gene	0.4
+909	GAP43	gene	0.4
+909	CADM2	gene	0.4
+909	CBLN1	gene	0.4
+909	SHISA7	gene	0.4
+909	MT3	gene	0.4
+909	PSD2	gene	0.4
+909	SLITRK3	gene	0.4
+909	FAIM2	gene	0.4
+909	HTR3B	gene	0.4
+909	OLFM3	gene	0.4
+909	817	default	0.4
+909	840	default	0.4
+910	STX2	gene	0.4
+910	SNAP23	gene	0.4
+910	EIF4E	gene	0.4
+910	EIF4EBP1	gene	0.4
+910	CTNND1	gene	0.4
+910	SRC	gene	0.4
+910	YES1	gene	0.4
+910	WASF1	gene	0.4
+910	ABI2	gene	0.4
+910	MTOR	gene	0.4
+910	STX4	gene	0.4
+910	EPHB2	gene	0.4
+910	EFNB2	gene	0.4
+910	FYN	gene	0.4
+910	EFNA5	gene	0.4
+910	AKT1	gene	0.4
+910	HRAS	gene	0.4
+910	SOS1	gene	0.4
+910	PDPK1	gene	0.4
+910	NTF4	gene	0.4
+910	NTRK2	gene	0.4
+910	ABI1	gene	0.4
+910	PSEN1	gene	0.4
+910	EEA1	gene	0.4
+910	GSK3B	gene	0.4
+910	CDH1	gene	0.4
+910	RPS6KB1	gene	0.4
+910	RHEB	gene	0.4
+910	STX3	gene	0.4
+910	AP3B1	gene	0.4
+910	CTNNB1	gene	0.4
+910	NTS	gene	0.4
+910	EPHB1	gene	0.4
+910	SEC22B	gene	0.4
+910	NAPA	gene	0.4
+910	EPHA7	gene	0.4
+910	BDNF	gene	0.4
+910	JAK2	gene	0.4
+910	STAT3	gene	0.4
+910	NTF3	gene	0.4
+910	NTRK3	gene	0.4
+910	CDC42	gene	0.4
+910	LIN7A	gene	0.4
+910	CASK	gene	0.4
+910	LIN7B	gene	0.4
+910	ACTN2	gene	0.4
+910	ACTN1	gene	0.4
+910	WASF3	gene	0.4
+910	STX10	gene	0.4
+910	YWHAG	gene	0.4
+910	YWHAH	gene	0.4
+910	NAPG	gene	0.4
+910	PAK2	gene	0.4
+910	EFNB1	gene	0.4
+910	STX1B	gene	0.4
+910	ARF1	gene	0.4
+910	MYO5A	gene	0.4
+910	RAB27A	gene	0.4
+910	LIN7C	gene	0.4
+910	CTNNA2	gene	0.4
+910	EFNA2	gene	0.4
+910	PAK3	gene	0.4
+910	SNAPIN	gene	0.4
+910	DTNBP1	gene	0.4
+910	PAK7	gene	0.4
+910	NF1	gene	0.4
+910	PLCG1	gene	0.4
+910	PDYN	gene	0.4
+910	OPRM1	gene	0.4
+910	GDI2	gene	0.4
+910	RAB8B	gene	0.4
+910	EFNB3	gene	0.4
+910	ILK	gene	0.4
+910	ITGB1	gene	0.4
+910	ITGB3	gene	0.4
+910	FLNA	gene	0.4
+910	ARF6	gene	0.4
+910	OPRK1	gene	0.4
+910	PENK	gene	0.4
+910	MDM2	gene	0.4
+910	GABRG2	gene	0.4
+910	GABRA1	gene	0.4
+910	PTEN	gene	0.4
+910	RAP1A	gene	0.4
+910	RAC1	gene	0.4
+910	GABRB2	gene	0.4
+910	FMR1	gene	0.4
+910	RAB11B	gene	0.4
+910	UNC13B	gene	0.4
+910	SLC17A7	gene	0.4
+910	GRIK2	gene	0.4
+910	GRIK5	gene	0.4
+910	RAB11A	gene	0.4
+910	CALM1	gene	0.4
+910	ERBB4	gene	0.4
+910	DMD	gene	0.4
+910	SLC17A6	gene	0.4
+910	NUMB	gene	0.4
+910	PRKCI	gene	0.4
+910	GABRA5	gene	0.4
+910	SYN1	gene	0.4
+910	GRIA2	gene	0.4
+910	GRIA4	gene	0.4
+910	PFN2	gene	0.4
+910	STX7	gene	0.4
+910	RAPSN	gene	0.4
+910	CALM3	gene	0.4
+910	GRIK3	gene	0.4
+910	CCK	gene	0.4
+910	VPS45	gene	0.4
+910	LRRTM1	gene	0.4
+910	ACTB	gene	0.4
+910	ACTC1	gene	0.4
+910	GABRB3	gene	0.4
+910	MYH10	gene	0.4
+910	MYH9	gene	0.4
+910	CNR1	gene	0.4
+910	DRD2	gene	0.4
+910	BZRAP1	gene	0.4
+910	RIMS2	gene	0.4
+910	PIP5K1C	gene	0.4
+910	SYN2	gene	0.4
+910	GLRA1	gene	0.4
+910	GLRA4	gene	0.4
+910	DLG1	gene	0.4
+910	GPHN	gene	0.4
+910	GABRB1	gene	0.4
+910	GRIK4	gene	0.4
+910	RAB10	gene	0.4
+910	PRKCZ	gene	0.4
+910	MPP2	gene	0.4
+910	SYT5	gene	0.4
+910	SCN2A	gene	0.4
+910	GABRA2	gene	0.4
+910	CAMK2B	gene	0.4
+910	PLD2	gene	0.4
+910	PPFIA3	gene	0.4
+910	GRIN1	gene	0.4
+910	EXOC3	gene	0.4
+910	GRIN2D	gene	0.4
+910	SNAP47	gene	0.4
+910	GRIK1	gene	0.4
+910	GRIA3	gene	0.4
+910	PLD1	gene	0.4
+910	CHRNA1	gene	0.4
+910	LRRC4B	gene	0.4
+910	CRKL	gene	0.4
+910	MAPK14	gene	0.4
+910	STXBP5	gene	0.4
+910	ADCYAP1	gene	0.4
+910	CALM2	gene	0.4
+910	STX11	gene	0.4
+910	CALCA	gene	0.4
+910	ADCY8	gene	0.4
+910	DRD3	gene	0.4
+910	BCR	gene	0.4
+910	EPB41	gene	0.4
+910	PTK2B	gene	0.4
+910	KCNA2	gene	0.4
+910	ADRA2C	gene	0.4
+910	ITPR1	gene	0.4
+910	NEFL	gene	0.4
+910	PCLO	gene	0.4
+910	CHRNA4	gene	0.4
+910	CNTN2	gene	0.4
+910	CPLX3	gene	0.4
+910	SHC4	gene	0.4
+910	SYT7	gene	0.4
+910	CHAT	gene	0.4
+910	DRD1	gene	0.4
+910	CALY	gene	0.4
+910	GRM8	gene	0.4
+910	CHRM1	gene	0.4
+910	KIF5A	gene	0.4
+910	YWHAQ	gene	0.4
+910	SYNGAP1	gene	0.4
+910	GNRH1	gene	0.4
+910	PPFIA4	gene	0.4
+910	RAB4A	gene	0.4
+910	NRP1	gene	0.4
+910	RELA	gene	0.4
+910	KCNJ9	gene	0.4
+910	GNG3	gene	0.4
+910	PPP2R2A	gene	0.4
+910	ENSG00000196689	gene	0.4
+910	SLC18A2	gene	0.4
+910	GABRG3	gene	0.4
+910	SLC8A2	gene	0.4
+910	HRH3	gene	0.4
+910	ACHE	gene	0.4
+910	KCNJ4	gene	0.4
+910	SYT10	gene	0.4
+910	PPP1R1B	gene	0.4
+910	RAB21	gene	0.4
+910	RAB33B	gene	0.4
+910	RAB15	gene	0.4
+910	SYT12	gene	0.4
+910	SYNPR	gene	0.4
+910	SYNGR1	gene	0.4
+910	SYP	gene	0.4
+910	HTR1B	gene	0.4
+910	ERC1	gene	0.4
+910	RAB27B	gene	0.4
+910	RAB3B	gene	0.4
+910	VPS35	gene	0.4
+910	MAP2	gene	0.4
+910	RAB3C	gene	0.4
+910	COMT	gene	0.4
+910	SLC6A4	gene	0.4
+910	STXBP5L	gene	0.4
+910	KCNC2	gene	0.4
+910	SYT6	gene	0.4
+910	GABRD	gene	0.4
+910	SLC6A1	gene	0.4
+910	SV2B	gene	0.4
+910	STX19	gene	0.4
+910	SCRIB	gene	0.4
+910	DBN1	gene	0.4
+910	SLC6A2	gene	0.4
+910	SLITRK1	gene	0.4
+910	GABRR3	gene	0.4
+910	NEFH	gene	0.4
+910	SLC1A2	gene	0.4
+910	ARC	gene	0.4
+910	CALB2	gene	0.4
+910	ATP2B2	gene	0.4
+910	KCNC1	gene	0.4
+910	CALB1	gene	0.4
+910	CNTNAP4	gene	0.4
+910	KCNA1	gene	0.4
+910	ATP2B3	gene	0.4
+910	HPCA	gene	0.4
+910	GAP43	gene	0.4
+910	ERC2	gene	0.4
+910	CBLN1	gene	0.4
+910	SHISA7	gene	0.4
+910	MT3	gene	0.4
+910	PSD2	gene	0.4
+910	FAIM2	gene	0.4
+910	HTR3B	gene	0.4
+910	OLFM3	gene	0.4
+910	817	default	0.4
+910	840	default	0.4
+910	900	default	0.4
+911	C1QC	gene	0
+911	C1QB	gene	0
+911	AP3D1	gene	0
+911	ARPC5L	gene	0
+911	MT-ND2	gene	0
+911	NDUFS7	gene	0
+911	ATP6V1B1	gene	0
+911	RTN4R	gene	0
+911	LRP4	gene	0
+911	UCN	gene	0
+911	ARHGEF9	gene	0
+911	MYRIP	gene	0
+911	PSD	gene	0
+911	RAPGEF4	gene	0
+911	CNTN1	gene	0
+911	SNTB1	gene	0
+911	ADD1	gene	0
+911	ADD2	gene	0
+911	TUBB2B	gene	0
+911	BNIP3	gene	0
+911	ROR1	gene	0
+911	PRRT2	gene	0
+911	PTPRA	gene	0
+911	CHRNB1	gene	0
+911	ABCC8	gene	0
+911	USP8	gene	0
+911	UNC5C	gene	0
+911	DCC	gene	0
+911	NCS1	gene	0
+911	HDAC4	gene	0
+911	SUMO1	gene	0
+911	IQSEC2	gene	0
+911	RAB3GAP1	gene	0
+911	USH1C	gene	0
+911	ATP2B4	gene	0
+911	GIPC1	gene	0
+911	FCHSD2	gene	0
+911	CDH11	gene	0
+911	PVRL1	gene	0
+911	ABR	gene	0
+911	CAMK4	gene	0
+911	ADD3	gene	0
+911	PCDH15	gene	0
+911	CDH15	gene	0
+911	SHARPIN	gene	0
+911	NOS1AP	gene	0
+911	PPFIBP2	gene	0
+911	ARHGAP44	gene	0
+911	CDH9	gene	0
+911	TNIK	gene	0
+911	ARHGAP39	gene	0
+911	MFF	gene	0
+911	TBC1D24	gene	0
+911	PTPRN	gene	0
+911	NRP2	gene	0
+911	USH2A	gene	0
+911	PRNP	gene	0
+911	TANC1	gene	0
+911	ELK1	gene	0
+911	ARHGAP22	gene	0
+911	SLC8A3	gene	0
+911	CDH13	gene	0
+911	SSPN	gene	0
+911	CORO1A	gene	0
+911	GPR98	gene	0
+911	CD3E	gene	0
+911	RGS14	gene	0
+911	MAP1LC3A	gene	0
+911	VDAC1	gene	0
+911	ABLIM3	gene	0
+911	P2RX6	gene	0
+911	P2RX4	gene	0
+911	NPTN	gene	0
+911	CNGB1	gene	0
+911	P2RX5	gene	0
+911	CHRNA9	gene	0
+911	COL13A1	gene	0
+911	MYL7	gene	0
+911	DFNB31	gene	0
+911	SLC5A7	gene	0
+911	BRSK1	gene	0
+911	AGER	gene	0
+911	FLRT3	gene	0
+911	COLQ	gene	0
+911	CHRNE	gene	0
+911	CLN3	gene	0
+911	PPT1	gene	0
+911	CNTN5	gene	0
+911	MAPK8IP1	gene	0
+911	LRRC7	gene	0
+911	IL1RAP	gene	0
+911	KPNA2	gene	0
+911	KPNA1	gene	0
+911	FABP5	gene	0
+911	CNTN6	gene	0
+911	SYNC	gene	0
+911	CRHBP	gene	0
+911	RGS9	gene	0
+911	MICAL1	gene	0
+911	ZDHHC17	gene	0
+911	CPEB3	gene	0
+911	CPEB2	gene	0
+911	CTTNBP2	gene	0
+911	FLRT2	gene	0
+911	XRN1	gene	0
+911	C1QBP	gene	0
+911	PLAA	gene	0
+911	GUCY1B3	gene	0
+911	CPEB1	gene	0
+911	AKAP7	gene	0
+911	CTNND2	gene	0
+911	SV2C	gene	0
+911	GUCY1A3	gene	0
+911	MPST	gene	0
+911	CEL	gene	0
+911	CYP46A1	gene	0
+911	ATP2A2	gene	0
+911	LZTS1	gene	0
+911	ZMYND8	gene	0
+911	SLC30A3	gene	0
+911	CADPS2	gene	0
+911	MINK1	gene	0
+911	PDE2A	gene	0
+911	FCHSD1	gene	0
+911	DROSHA	gene	0
+911	KCNK2	gene	0
+911	SGTA	gene	0
+911	PRIMA1	gene	0
+911	SIGMAR1	gene	0
+911	GRIPAP1	gene	0
+911	SLC9B2	gene	0
+911	SLC9A6	gene	0
+911	CPEB4	gene	0
+911	CAP2	gene	0
+911	NEURL1	gene	0
+911	MIB1	gene	0
+911	SYNGR4	gene	0
+911	NPAS4	gene	0
+911	PKP4	gene	0
+911	BAI1	gene	0
+911	BAIAP3	gene	0
+911	SORCS3	gene	0
+911	IL1RAPL2	gene	0
+911	GPR123	gene	0
+911	SLC6A9	gene	0
+911	CRIPT	gene	0
+911	PRSS12	gene	0
+911	SPOCK1	gene	0
+911	SLC29A1	gene	0
+911	GSG1L	gene	0
+911	SNCAIP	gene	0
+911	AKAP12	gene	0
+911	SLC16A3	gene	0
+911	SLC17A5	gene	0
+911	CHRNA10	gene	0
+911	CPT1C	gene	0
+911	SLC30A1	gene	0
+911	NPTX2	gene	0
+911	SRI	gene	0
+911	CDKL5	gene	0
+911	ACPT	gene	0
+911	ELFN1	gene	0
+911	ZNF804A	gene	0
+911	TULP1	gene	0
+911	TENM2	gene	0
+911	TRIP4	gene	0
+911	SLC29A2	gene	0
+911	SARM1	gene	0
+911	NMNAT2	gene	0
+911	MAGEE1	gene	0
+911	SLC40A1	gene	0
+911	FRMPD4	gene	0
+911	ASIC1	gene	0
+911	TPRG1L	gene	0
+911	CLSTN1	gene	0
+911	CDK16	gene	0
+911	PRR7	gene	0
+911	NPTX1	gene	0
+911	LYPD6	gene	0
+911	ATAD1	gene	0
+911	CLSTN2	gene	0
+911	EGFLAM	gene	0
+911	TANC2	gene	0
+911	DDN	gene	0
+911	ZACN	gene	0
+911	BLVRB	gene	0
+911	ICA1	gene	0
+911	SLC22A2	gene	0
+911	KCTD8	gene	0
+911	RUSC1	gene	0
+911	IGSF9B	gene	0
+911	ABHD17B	gene	0
+911	CBLN2	gene	0
+911	SPG11	gene	0
+911	LAMP5	gene	0
+911	TMEM108	gene	0
+911	SYAP1	gene	0
+911	SYPL1	gene	0
+911	PLEKHA5	gene	0
+911	PDZD11	gene	0
+911	PTCH1	gene	0
+911	IGSF21	gene	0
+911	DARS	gene	0
+911	SH2D5	gene	0
+911	NPTXR	gene	0
+911	LPPR4	gene	0
+911	PALMD	gene	0
+911	NSMF	gene	0
+911	TMEM230	gene	0
+911	HCN3	gene	0
+911	TMUB1	gene	0
+911	PCDH8	gene	0
+911	ZC4H2	gene	0
+911	CHRFAM7A	gene	0
+911	POLG	gene	0
+911	PCDH17	gene	0
+911	NSG1	gene	0
+911	C15orf59	gene	0
+911	SYPL2	gene	0
+911	HTR3D	gene	0
+911	EMB	gene	0
+911	HAPLN1	gene	0
+911	BCL11A	gene	0
+911	KCTD16	gene	0
+911	ATCAY	gene	0
+911	KCTD12	gene	0
+911	FAM107A	gene	0
+911	RIMS4	gene	0
+911	TMEM163	gene	0
+911	IGSF11	gene	0
+911	NIPSNAP1	gene	0
+911	CAMKV	gene	0
+911	ANKS1B	gene	0
+911	HTR3E	gene	0
+911	MAP1S	gene	0
+911	SLITRK4	gene	0
+911	CEP112	gene	0
+911	SDK2	gene	0
+911	RNF40	gene	0
+911	CNN3	gene	0
+911	IGSF9	gene	0
+911	MCTP1	gene	0
+911	CAMK2N1	gene	0
+911	BAALC	gene	0
+911	ABHD17C	gene	0
+911	ZMYND19	gene	0
+911	HTR3C	gene	0
+911	788	default	0
+911	789	default	0
+911	790	default	0
+911	791	default	0
+911	792	default	0
+911	793	default	0
+911	794	default	0
+911	795	default	0
+911	796	default	0
+911	797	default	0
+911	798	default	0
+911	799	default	0
+911	800	default	0
+911	801	default	0
+911	802	default	0
+911	803	default	0
+911	804	default	0
+911	805	default	0
+911	806	default	0
+911	807	default	0
+911	808	default	0
+911	809	default	0
+911	810	default	0
+911	811	default	0
+911	812	default	0
+911	813	default	0
+911	814	default	0
+911	815	default	0
+911	816	default	0
+911	818	default	0
+911	819	default	0
+911	821	default	0
+911	822	default	0
+911	823	default	0
+911	824	default	0
+911	825	default	0
+911	826	default	0
+911	827	default	0
+911	828	default	0
+911	829	default	0
+911	830	default	0
+911	831	default	0
+911	832	default	0
+911	833	default	0
+911	834	default	0
+911	835	default	0
+911	836	default	0
+911	837	default	0
+911	838	default	0
+911	839	default	0
+911	841	default	0
+911	842	default	0
+911	843	default	0
+911	844	default	0
+911	845	default	0
+911	846	default	0
+911	847	default	0
+911	848	default	0
+911	849	default	0
+911	850	default	0
+911	851	default	0
+911	852	default	0
+911	853	default	0
+911	854	default	0
+911	855	default	0
+911	856	default	0
+911	857	default	0
+911	858	default	0
+911	859	default	0
+911	861	default	0
+911	862	default	0
+911	863	default	0
+911	864	default	0
+911	865	default	0
+911	866	default	0
+911	867	default	0
+911	868	default	0
+911	869	default	0
+911	870	default	0
+911	871	default	0
+911	872	default	0
+911	874	default	0
+911	875	default	0
+911	876	default	0
+911	877	default	0
+911	878	default	0
+911	879	default	0
+911	880	default	0
+911	881	default	0
+911	882	default	0
+911	883	default	0
+911	884	default	0
+911	885	default	0
+911	886	default	0
+911	887	default	0
+911	888	default	0
+911	889	default	0
+911	890	default	0
+911	891	default	0
+911	892	default	0
+911	894	default	0
+911	895	default	0
+911	896	default	0
+911	897	default	0
+911	898	default	0
+911	899	default	0
+911	901	default	0
+911	902	default	0
+911	903	default	0
+911	904	default	0
+911	905	default	0
+911	906	default	0
+911	907	default	0
+911	908	default	0
+911	909	default	0
+911	910	default	0
