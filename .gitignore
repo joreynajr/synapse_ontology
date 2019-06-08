@@ -2,5 +2,6 @@
 scripts/ddot/
 scripts/scripts/original_ont_metrics/
 scripts/original_ont_metrics/
-data/omim/
+data/
 scripts/toy_ontology.txt
+output/
