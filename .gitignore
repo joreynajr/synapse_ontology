@@ -3,7 +3,8 @@ scripts/ddot/
 scripts/scripts/original_ont_metrics/
 scripts/original_ont_metrics/
 scripts/toy_ontology.txt
-output/
+output/*
+!output/extracting_string_interactions_subnetworks/
 
 data/
 !data/omim/*
