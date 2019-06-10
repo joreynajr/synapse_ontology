@@ -5,3 +5,4 @@ scripts/original_ont_metrics/
 data/
 scripts/toy_ontology.txt
 output/
+!output/omim
