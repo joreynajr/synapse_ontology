@@ -5,6 +5,7 @@ scripts/original_ont_metrics/
 scripts/toy_ontology.txt
 output/*
 !output/extracting_string_interactions_subnetworks/
+!output/omim_psychiatric_disease_genes/
 
 data/
 !data/omim/*
