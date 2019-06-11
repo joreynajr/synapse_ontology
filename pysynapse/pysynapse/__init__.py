@@ -1,13 +1,4 @@
-
-# for questions, contact karenmei@ucsd.edu
-
-#Goal: To evaluate the custom hierarchy (Metric #2)
-
-#Metric 2: To create a pipeline for testing for how well the custom ontology maps onto reference ontology using DDOT 
-#How well does the model capture the known structure of the reference ontology? (evaluated by alignment to the Gene Ontology, i.e. how many GO terms significantly overlap gene modules in your model?)
-
-#	   code for customizing ontologies: DDOT: https://github.com/michaelkyu/ddot/blob/master/examples/Tutorial.ipynb
-
+import sys
 import pandas as pd
 import networkx as nx
 import numpy as np
@@ -20,6 +11,9 @@ from scipy.stats import hypergeom
 from statsmodels.sandbox.stats.multicomp import multipletests
 
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
+
+# In[2]:
 
 
 #Create dictionary of all the term_names and description (in this example: GO)
@@ -139,17 +133,78 @@ def Num_Enriched_Modules(ont1, ont2):
 		enriched_term_names.append(enriched_term_name)
 	unique_enriched_term_names=set(enriched_term_names)
 	#print (unique_enriched_term_names)
-	print ('Num of Enriched Modules', len(unique_enriched_term_names))
-	return 
+	#print ('Num of Enriched Modules', len(unique_enriched_term_names))
+	return(len(unique_enriched_term_names))
 
-#Generate custom ontology 1 from synapse branch from human GO
-ontology_file=Generate_Ontology_File('GO:0045202', 'ont1.txt')
-ont1=Ontology.from_table('ont1.txt')
-print ('num synapse ontology terms', len(ont1.terms))
 
-#Generate custom ontology 2 from synapse branch from human GO
-ont2_file=Generate_Ontology_File('GO:0045202', 'ont2.txt')
-ont2=Ontology.from_table('ont2.txt')
-print ('num custom ontology terms', len(ont2.terms))
+def compare_to_go(ont_fn):
 
-Num_Enriched_Modules(ont1, ont2)
+	#Generate custom ontology 1 from synapse branch from human GO
+	#ontology_file=Generate_Ontology_File('GO:0045202', 'ont1.txt')
+	synapse_ont = '/home/joreyna/projects/BNFO286/synapse_ontology/analyses/Histogram_ont/synapse.txt'
+	ont1=Ontology.from_table(synapse_ont)
+	#print ('num synapse ontology terms', len(ont1.terms))
+
+	ont2=Ontology.from_table(ont_fn)
+	#print ('num custom ontology terms', len(ont2.terms))
+	return(Num_Enriched_Modules(ont1, ont2))
+
+
+#### Gene enrichment 
+
+def Find_num_genes_in_enriched(ont, translated, test_gene_list):
+	true_terms=Find_Enrichment(ont, translated, test_gene_list)
+	genes_in_true_terms=[]
+	for item in true_terms:
+		term=item[0]
+		genes=translated[term]
+		genes_in_true_terms.append(genes)
+	#print ('genes in true terms:', genes_in_true_terms)
+	if len(genes_in_true_terms)>0:
+		overlap=list(set(genes_in_true_terms[0])&set(test_gene_list))
+		overlap_num=len(overlap)
+		#print ('num_genes_in_true_terms:', overlap_num)
+		return(overlap_num)
+	else: 
+		return(0)
+		#print ('num_genes_in_true_terms: 0')
+
+
+
+def analyze_gene_enrichment(ont_fn, disease_gene_fn): 
+
+	## We read in our ontology
+	#Generate custom ontology from Chromatin branch from human GO
+	#ontology_file=Generate_Ontology_File('GO:0000785')
+	ont=Ontology.from_table(ont_fn)
+	translated=Find_GO_Focus_GeneDict(ont)
+
+	#Test genes: autism
+	text_file = open(disease_gene_fn, "r")
+	test_gene_list = text_file.read().splitlines()
+	text_file.close()
+
+	#print("Number of autism genes in our ontology:" ,  len(set(ont.genes).intersection(set(test_gene_list))))
+	
+	num_ont_disease_genes = len(set(ont.genes).intersection(set(test_gene_list)))
+
+	#Find number of test genes in enriched modules:
+	num_enriched_disease_genes = Find_num_genes_in_enriched(ont, translated, test_gene_list)
+
+	return(num_ont_disease_genes, num_enriched_disease_genes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

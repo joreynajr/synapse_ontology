@@ -1,0 +1,7 @@
+setup.py
+pysynapse/__init__.py
+pysynapse.egg-info/PKG-INFO
+pysynapse.egg-info/SOURCES.txt
+pysynapse.egg-info/dependency_links.txt
+pysynapse.egg-info/not-zip-safe
+pysynapse.egg-info/top_level.txt

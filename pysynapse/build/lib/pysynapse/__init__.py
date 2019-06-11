@@ -1,4 +1,3 @@
-
 # for questions, contact karenmei@ucsd.edu
 
 #Goal: To evaluate the custom hierarchy (Metric #2)
@@ -7,6 +6,9 @@
 #How well does the model capture the known structure of the reference ontology? (evaluated by alignment to the Gene Ontology, i.e. how many GO terms significantly overlap gene modules in your model?)
 
 #	   code for customizing ontologies: DDOT: https://github.com/michaelkyu/ddot/blob/master/examples/Tutorial.ipynb
+
+import sys
+sys.path.append('C:\\Users\\Anubhav\\Documents\\GitHub\\ddot')
 
 import pandas as pd
 import networkx as nx
@@ -20,6 +22,9 @@ from scipy.stats import hypergeom
 from statsmodels.sandbox.stats.multicomp import multipletests
 
 os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
+
+# In[2]:
 
 
 #Create dictionary of all the term_names and description (in this example: GO)
@@ -142,14 +147,18 @@ def Num_Enriched_Modules(ont1, ont2):
 	print ('Num of Enriched Modules', len(unique_enriched_term_names))
 	return 
 
-#Generate custom ontology 1 from synapse branch from human GO
-ontology_file=Generate_Ontology_File('GO:0045202', 'ont1.txt')
-ont1=Ontology.from_table('ont1.txt')
-print ('num synapse ontology terms', len(ont1.terms))
 
-#Generate custom ontology 2 from synapse branch from human GO
-ont2_file=Generate_Ontology_File('GO:0045202', 'ont2.txt')
-ont2=Ontology.from_table('ont2.txt')
-print ('num custom ontology terms', len(ont2.terms))
+# In[10]:
 
-Num_Enriched_Modules(ont1, ont2)
+
+def compare(ont):
+
+	#Generate custom ontology 1 from synapse branch from human GO
+	#ontology_file=Generate_Ontology_File('GO:0045202', 'ont1.txt')
+	ont1=Ontology.from_table('../../analyses/Histogram_ont/synapse.txt')
+	#print ('num synapse ontology terms', len(ont1.terms))
+
+	ont2=Ontology.from_table(fn)
+	#print ('num custom ontology terms', len(ont2.terms))
+	return(Num_Enriched_Modules(ont1, ont2))
+
