@@ -6,6 +6,7 @@ scripts/toy_ontology.txt
 output/*
 !output/extracting_string_interactions_subnetworks/
 !output/omim_psychiatric_disease_genes/
+!output/analyzing_clixo_ontologies/
 
 data/
 !data/omim/*
