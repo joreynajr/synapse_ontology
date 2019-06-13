@@ -1,3 +1,5 @@
 http://www.nexontology.org/   ... Has info on how to infer an ontology directly from molecular networks... but when they are unweighted
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058954/  ... The original CLIXO paper
+
+https://github.com/michaelkyu/ddot/blob/master/examples/Make_disease_gene_ontologies.ipynb  .... How to align gene ontologies...
