@@ -65,7 +65,7 @@ def Find_GO_Focus_GeneDict(ont):
 #function input: ont (output of Generate_Ontology_File)
 #               syn_ont (output of Find_GO_Focus_GeneDict)
 #               test_gene_list (list of genes to be tested)
-def Find_Enrichment(ont, syn_ont, test_gene_list):
+def Find_Enrichment(ont, syn_ont, test_gene_list, alpha=None):
 	num_ont_genes=len(ont.genes)
 	num_intersect_test_ont=len(set(ont.genes)&set(test_gene_list))
 	overlap=[]
@@ -84,7 +84,10 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 		num_term_genes=item[2]
 		p=hypergeom.sf(intersect_termgenes_testgenes-1, num_ont_genes,num_intersect_test_ont, num_term_genes)
 		p_values.append(p)
-	p_adj=multipletests(p_values,method='fdr_bh')
+	if alpha: 
+		p_adj=multipletests(p_values, alpha=alpha, method='fdr_bh')
+	else: 
+		p_adj=multipletests(p_values, method='fdr_bh')
 	boolean_p=p_adj[0]
 	idx_true=[i for i, e in enumerate(boolean_p) if e != False]
 	p_adj=p_adj[1]
@@ -112,7 +115,7 @@ def Find_Enrichment(ont, syn_ont, test_gene_list):
 #Find the number of enriched modules
 #function input: ont1, ont2
 #ont1 (ontology 1); ont2 (ontology 2)
-def Num_Enriched_Modules(ont1, ont2):
+def Num_Enriched_Modules(ont1, ont2, alpha=None):
 	chr_ont=Find_GO_Focus_GeneDict(ont1)
 	#print (chr_ont)
 	test_ont=Find_GO_Focus_GeneDict(ont2)
@@ -121,7 +124,7 @@ def Num_Enriched_Modules(ont1, ont2):
 	for key in test_ont:
 		test_gene_list=test_ont[key]
 		if len(test_gene_list)!=0:
-			enriched_terms=Find_Enrichment(ont1, chr_ont, test_gene_list)
+			enriched_terms=Find_Enrichment(ont1, chr_ont, test_gene_list, alpha=alpha)
 			enriched_modules.append(enriched_terms)
 		else:
 			continue
@@ -152,8 +155,8 @@ def compare_to_go(ont_fn):
 
 #### Gene enrichment 
 
-def Find_num_genes_in_enriched(ont, translated, test_gene_list):
-	true_terms=Find_Enrichment(ont, translated, test_gene_list)
+def Find_num_genes_in_enriched(ont, translated, test_gene_list, alpha=None):
+	true_terms=Find_Enrichment(ont, translated, test_gene_list, alpha=alpha)
 	genes_in_true_terms=[]
 	for item in true_terms:
 		term=item[0]
